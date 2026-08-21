@@ -26,7 +26,7 @@ export default function Leaderboard<T>({
         <p className="text-sm text-black/50 dark:text-white/50">{emptyMessage}</p>
       ) : (
         <div className="overflow-x-auto">
-          <table className="text-sm border-collapse w-full">
+          <table className="text-sm border-collapse">
             <thead>
               <tr className="text-black/50 dark:text-white/50 border-b border-black/10 dark:border-white/10">
                 {columns.map((c, i) => (

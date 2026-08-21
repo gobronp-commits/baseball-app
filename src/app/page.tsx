@@ -44,7 +44,7 @@ export default function Home() {
         </div>
         <div className="rounded-lg border border-black/10 dark:border-white/15 p-4">
           <div className="font-heading text-3xl text-[var(--accent)]">
-            {summary.teams.length}
+            {summary.totalOpponents}
           </div>
           <div className="text-xs text-black/50 dark:text-white/50">Opponents faced</div>
         </div>
@@ -56,7 +56,7 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 mb-10">
+      <div className="grid sm:grid-cols-2 gap-10 mb-10">
         <Leaderboard
           title="Scorers"
           rows={summary.scorers}
@@ -77,6 +77,9 @@ export default function Home() {
             { header: "HR", align: "right", render: (r) => r.homeRuns },
           ]}
         />
+      </div>
+
+      <div className="grid sm:grid-cols-2 gap-10 mb-10">
         <Leaderboard
           title="Home Run Leaders"
           rows={summary.homeRunLeaders}
@@ -99,6 +102,9 @@ export default function Home() {
             { header: "Games", align: "right", render: (r) => r.gamesSeen },
           ]}
         />
+      </div>
+
+      <div className="grid sm:grid-cols-2 gap-10 mb-10">
         <Leaderboard
           title="Most Seen Pitchers"
           rows={summary.mostSeenPitchers}
