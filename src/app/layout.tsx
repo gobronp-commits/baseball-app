@@ -25,10 +25,18 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     >
       <body className="min-h-full flex flex-col">
         <header className="border-b border-black/10 dark:border-white/10">
-          <div className="mx-auto max-w-5xl px-4 py-4">
+          <div className="mx-auto max-w-5xl px-4 py-4 flex items-center justify-between">
             <a href="/" className="text-lg font-semibold tracking-tight">
               Scorecard Archive
             </a>
+            <nav className="flex gap-4 text-sm text-black/60 dark:text-white/60">
+              <a href="/" className="hover:text-black dark:hover:text-white">
+                Summary
+              </a>
+              <a href="/games" className="hover:text-black dark:hover:text-white">
+                All Games
+              </a>
+            </nav>
           </div>
         </header>
         <main className="flex-1 mx-auto w-full max-w-5xl px-4 py-8">
