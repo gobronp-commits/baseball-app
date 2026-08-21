@@ -475,7 +475,10 @@
         "src": "/scorecards/2024/Scan_20260818_6.jpg"
       }
     ],
-    "scorers": [],
+    "scorers": [
+      "Dave",
+      "Laura 2"
+    ],
     "notes": [],
     "gamePk": 746910
   },

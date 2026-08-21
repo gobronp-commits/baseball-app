@@ -1,7 +1,7 @@
 [
   { "date": "2024-09-27", "awayTeam": "Tampa Bay Rays", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Charles, Laura 2" },
   { "date": "2024-09-11", "awayTeam": "Baltimore Orioles", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Laura" },
-  { "date": "2024-09-08", "awayTeam": "Chicago White Sox", "homeTeam": "Boston Red Sox", "scorerRaw": "" },
+  { "date": "2024-09-08", "awayTeam": "Chicago White Sox", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Laura" },
   { "date": "2024-08-26", "awayTeam": "Toronto Blue Jays", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Paul, Charles, Doug" },
   { "date": "2024-08-14", "awayTeam": "Texas Rangers", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Paul" },
   { "date": "2024-08-13", "awayTeam": "Texas Rangers", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Laura" },
