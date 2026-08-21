@@ -85,9 +85,10 @@ for (const year of years) {
     g.scorers = (r.scorerRaw ?? "")
       .split(",")
       .map((s) => s.trim())
-      // A bare "Laura" always refers to the same person as "Laura 2"
-      // elsewhere - "Laura 1" is someone else who shares the name.
-      .map((s) => (s === "Laura" ? "Laura 2" : s))
+      // A bare "Laura" and "Laura 2" elsewhere always refer to the same
+      // person, displayed as "Laura" - "Laura 1" is someone else who
+      // shares the name.
+      .map((s) => (s === "Laura 2" ? "Laura" : s))
       .filter(Boolean);
   }
 }
