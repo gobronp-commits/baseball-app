@@ -1,5 +1,11 @@
 [
   {
+    "id": 159,
+    "name": "American League All-Stars",
+    "abbr": "AL",
+    "venue": null
+  },
+  {
     "id": 109,
     "name": "Arizona Diamondbacks",
     "abbr": "AZ",
@@ -22,6 +28,12 @@
     "name": "Baltimore Orioles",
     "abbr": "BAL",
     "venue": "Oriole Park at Camden Yards"
+  },
+  {
+    "id": 456,
+    "name": "Battle Creek Yankees",
+    "abbr": "BC",
+    "venue": null
   },
   {
     "id": 111,
@@ -58,6 +70,12 @@
     "name": "Colorado Rockies",
     "abbr": "COL",
     "venue": "Coors Field"
+  },
+  {
+    "id": 459,
+    "name": "Dayton Dragons",
+    "abbr": "DAY",
+    "venue": null
   },
   {
     "id": 116,
@@ -108,6 +126,12 @@
     "venue": "Target Field"
   },
   {
+    "id": 160,
+    "name": "National League All-Stars",
+    "abbr": "NL",
+    "venue": null
+  },
+  {
     "id": 121,
     "name": "New York Mets",
     "abbr": "NYM",
@@ -130,6 +154,13 @@
     "name": "Pittsburgh Pirates",
     "abbr": "PIT",
     "venue": "PNC Park"
+  },
+  {
+    "id": 900002,
+    "name": "Pittsfield Colonials",
+    "abbr": "PIT",
+    "venue": null,
+    "logoExt": "png"
   },
   {
     "id": 135,
@@ -178,5 +209,12 @@
     "name": "Washington Nationals",
     "abbr": "WSH",
     "venue": "Nationals Park"
+  },
+  {
+    "id": 900001,
+    "name": "Worcester Tornadoes",
+    "abbr": "WOR",
+    "venue": null,
+    "logoExt": "png"
   }
 ]

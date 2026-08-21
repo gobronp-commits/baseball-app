@@ -71,9 +71,23 @@ export default async function GamePage({
         {mlbData ? (
           <GameTabs game={game} mlbData={mlbData} />
         ) : (
-          <p className="text-sm text-black/50 dark:text-white/50">
-            No official game data linked yet for this game.
-          </p>
+          <div className="space-y-6">
+            <p className="text-sm text-black/50 dark:text-white/50">
+              No official game data linked yet for this game.
+            </p>
+            {game.notes.length > 0 && (
+              <div>
+                <h4 className="text-sm font-semibold mb-2">From the scorecard</h4>
+                <ul className="space-y-1.5 text-sm text-black/70 dark:text-white/70">
+                  {game.notes.map((n, idx) => (
+                    <li key={idx} className="pl-3 border-l-2 border-black/10 dark:border-white/10">
+                      {n}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+          </div>
         )}
       </section>
     </div>

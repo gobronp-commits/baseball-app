@@ -5,6 +5,7 @@ export type Team = {
   name: string;
   abbr: string;
   venue: string | null;
+  logoExt?: string;
 };
 
 export const teams = teamsData as Team[];

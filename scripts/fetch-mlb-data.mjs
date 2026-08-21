@@ -84,14 +84,14 @@ function condenseBoxscoreTeam(team) {
       name: p.person.fullName,
       position: p.position?.abbreviation,
       battingOrder: p.battingOrder ?? null,
-      stats: p.stats.batting,
+      stats: { ...p.stats.batting, errors: p.stats.fielding?.errors ?? 0 },
     }));
   const pitchers = (team.pitchers ?? [])
     .map((id) => team.players[`ID${id}`])
     .filter(Boolean)
     .map((p) => ({
       name: p.person.fullName,
-      stats: p.stats.pitching,
+      stats: { ...p.stats.pitching, errors: p.stats.fielding?.errors ?? 0 },
     }));
   return {
     teamName: team.team.name,

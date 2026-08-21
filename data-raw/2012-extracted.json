@@ -1,0 +1,8 @@
+[
+  {"file":"scan-1.jpg","date":"2012-05-01","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Oakland Athletics","awayTeam":"Oakland Athletics","homeTeam":"Boston Red Sox","awayScore":5,"homeScore":3,"notes":""},
+  {"file":"scan-2.jpg","date":"2012-05-01","location":"Fenway Park, Boston","lineupTeam":"Oakland Athletics","opponent":"Boston Red Sox","awayTeam":"Oakland Athletics","homeTeam":"Boston Red Sox","awayScore":5,"homeScore":3,"notes":""},
+  {"file":"scan-3a.jpg","date":"2012-05-06","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Baltimore Orioles","awayTeam":"Baltimore Orioles","homeTeam":"Boston Red Sox","awayScore":9,"homeScore":6,"notes":"17-inning marathon - the scorecard runs to a continuation sheet for the extra innings."},
+  {"file":"scan-3b.jpg","date":"2012-05-06","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Baltimore Orioles","awayTeam":"Baltimore Orioles","homeTeam":"Boston Red Sox","awayScore":9,"homeScore":6,"notes":""},
+  {"file":"scan-4c.jpg","date":"2012-05-06","location":"Fenway Park, Boston","lineupTeam":"Baltimore Orioles","opponent":"Boston Red Sox","awayTeam":"Baltimore Orioles","homeTeam":"Boston Red Sox","awayScore":9,"homeScore":6,"notes":""},
+  {"file":"scan-4d.jpg","date":"2012-05-06","location":"Fenway Park, Boston","lineupTeam":"Baltimore Orioles","opponent":"Boston Red Sox","awayTeam":"Baltimore Orioles","homeTeam":"Boston Red Sox","awayScore":9,"homeScore":6,"notes":""}
+]

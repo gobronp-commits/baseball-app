@@ -1,5 +1,380 @@
 [
   {
+    "id": "1999-07-13-national-league-all-stars-at-american-league-all-stars",
+    "date": "1999-07-13",
+    "awayTeam": "National League All-Stars",
+    "homeTeam": "American League All-Stars",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 1,
+    "scorecardHomeScore": 4,
+    "officialAwayScore": 1,
+    "officialHomeScore": 4,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "National League All-Stars",
+        "src": "/scorecards/1999/allstar-game-2.jpg"
+      },
+      {
+        "side": "home",
+        "team": "American League All-Stars",
+        "src": "/scorecards/1999/allstar-game-1.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [
+      "1999 MLB All-Star Game. Pedro Martinez (Red Sox) named MVP, striking out 5 of the 6 batters he faced (including the first four in a row: Barry Larkin, Larry Walker, Sammy Sosa, Mark McGwire)."
+    ],
+    "gamePk": 2480
+  },
+  {
+    "id": "2004-06-03-battle-creek-yankees-at-dayton-dragons",
+    "date": "2004-06-03",
+    "awayTeam": "Battle Creek Yankees",
+    "homeTeam": "Dayton Dragons",
+    "location": "Fifth Third Field, Dayton, OH",
+    "scorecardAwayScore": 2,
+    "scorecardHomeScore": 8,
+    "officialAwayScore": null,
+    "officialHomeScore": null,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Battle Creek Yankees",
+        "src": "/scorecards/2004/scan-7.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Dayton Dragons",
+        "src": "/scorecards/2004/scan-8.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [
+      "Single-A Midwest League game (Battle Creek Yankees, NYY affiliate, at Dayton Dragons, Reds affiliate). Final score (Dragons 8, Yankees 2) read directly off the scorecard - no official record of this specific game could be found online (MLB Stats API and web searches don't cover it).",
+      "Season statistics insert from the game program (Dayton Dragons and opposition/Battle Creek Yankees individual stats through games of 6/2), not a scored lineup page."
+    ],
+    "gamePk": null
+  },
+  {
+    "id": "2009-09-16-los-angeles-angels-at-boston-red-sox",
+    "date": "2009-09-16",
+    "awayTeam": "Los Angeles Angels",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 8,
+    "scorecardHomeScore": 9,
+    "officialAwayScore": 8,
+    "officialHomeScore": 9,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Los Angeles Angels",
+        "src": "/scorecards/2009/scan-10.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2009/scan-9.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [],
+    "gamePk": 246363
+  },
+  {
+    "id": "2010-06-01-oakland-athletics-at-boston-red-sox",
+    "date": "2010-06-01",
+    "awayTeam": "Oakland Athletics",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 4,
+    "scorecardHomeScore": 9,
+    "officialAwayScore": 4,
+    "officialHomeScore": 9,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Oakland Athletics",
+        "src": "/scorecards/2010/scan-12.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2010/scan-11.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [],
+    "gamePk": 264589
+  },
+  {
+    "id": "2010-08-02-pittsfield-colonials-at-worcester-tornadoes",
+    "date": "2010-08-02",
+    "awayTeam": "Pittsfield Colonials",
+    "homeTeam": "Worcester Tornadoes",
+    "location": "Fitton Field, College of the Holy Cross, Worcester, MA",
+    "scorecardAwayScore": 4,
+    "scorecardHomeScore": 3,
+    "officialAwayScore": null,
+    "officialHomeScore": null,
+    "scorecardImages": [
+      {
+        "side": "home",
+        "team": "Worcester Tornadoes",
+        "src": "/scorecards/2010/worcester-tornadoes.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave",
+      "Laura 2",
+      "Paul",
+      "Doug"
+    ],
+    "notes": [
+      "Independent Can-Am League game. Worcester played its home games at Fitton Field (on the Holy Cross campus) in 2010. No official online box score could be found (MLB Stats API and web searches don't cover the Can-Am League) - score is read directly off the scorecard."
+    ],
+    "gamePk": null
+  },
+  {
+    "id": "2011-06-17-milwaukee-brewers-at-boston-red-sox",
+    "date": "2011-06-17",
+    "awayTeam": "Milwaukee Brewers",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 4,
+    "scorecardHomeScore": 10,
+    "officialAwayScore": 4,
+    "officialHomeScore": 10,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Milwaukee Brewers",
+        "src": "/scorecards/2011/scan-3.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2011/scan-4.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave",
+      "Paul",
+      "Doug"
+    ],
+    "notes": [],
+    "gamePk": 287954
+  },
+  {
+    "id": "2011-09-21-baltimore-orioles-at-boston-red-sox",
+    "date": "2011-09-21",
+    "awayTeam": "Baltimore Orioles",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 6,
+    "scorecardHomeScore": 4,
+    "officialAwayScore": 6,
+    "officialHomeScore": 4,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Baltimore Orioles",
+        "src": "/scorecards/2011/scan-6.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2011/scan-5.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave",
+      "Paul",
+      "Doug"
+    ],
+    "notes": [
+      "Red Sox's last regular-season home game of 2011 - they closed out the season on the road at New York and Baltimore, capped by the September 28 collapse loss in Baltimore that eliminated them from playoff contention."
+    ],
+    "gamePk": 289213
+  },
+  {
+    "id": "2012-05-01-oakland-athletics-at-boston-red-sox",
+    "date": "2012-05-01",
+    "awayTeam": "Oakland Athletics",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 5,
+    "scorecardHomeScore": 3,
+    "officialAwayScore": 5,
+    "officialHomeScore": 3,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Oakland Athletics",
+        "src": "/scorecards/2012/scan-2.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2012/scan-1.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave",
+      "Doug"
+    ],
+    "notes": [],
+    "gamePk": 318085
+  },
+  {
+    "id": "2012-05-06-baltimore-orioles-at-boston-red-sox",
+    "date": "2012-05-06",
+    "awayTeam": "Baltimore Orioles",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 9,
+    "scorecardHomeScore": 6,
+    "officialAwayScore": 9,
+    "officialHomeScore": 6,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Baltimore Orioles",
+        "src": "/scorecards/2012/scan-4c.jpg"
+      },
+      {
+        "side": "away",
+        "team": "Baltimore Orioles",
+        "src": "/scorecards/2012/scan-4d.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2012/scan-3a.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2012/scan-3b.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave",
+      "Laura 2",
+      "Alicia",
+      "Doug"
+    ],
+    "notes": [
+      "17-inning marathon - the scorecard runs to a continuation sheet for the extra innings."
+    ],
+    "gamePk": 318146
+  },
+  {
+    "id": "2013-04-14-tampa-bay-rays-at-boston-red-sox",
+    "date": "2013-04-14",
+    "awayTeam": "Tampa Bay Rays",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 0,
+    "scorecardHomeScore": 5,
+    "officialAwayScore": 0,
+    "officialHomeScore": 5,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Tampa Bay Rays",
+        "src": "/scorecards/2013/tb-1.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2013/tb-2.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave",
+      "Laura 2",
+      "Paul",
+      "Doug"
+    ],
+    "notes": [],
+    "gamePk": 346922
+  },
+  {
+    "id": "2013-04-25-houston-astros-at-boston-red-sox",
+    "date": "2013-04-25",
+    "awayTeam": "Houston Astros",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 2,
+    "scorecardHomeScore": 7,
+    "officialAwayScore": 2,
+    "officialHomeScore": 7,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Houston Astros",
+        "src": "/scorecards/2013/astros-1.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2013/astros-2.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave",
+      "Charles"
+    ],
+    "notes": [
+      "Card notes the Astros as \"(AL)\" - 2013 was their first season in the American League after moving from the NL."
+    ],
+    "gamePk": 347067
+  },
+  {
+    "id": "2013-06-02-boston-red-sox-at-new-york-yankees",
+    "date": "2013-06-02",
+    "awayTeam": "Boston Red Sox",
+    "homeTeam": "New York Yankees",
+    "location": "Yankee Stadium, New York",
+    "scorecardAwayScore": 3,
+    "scorecardHomeScore": 0,
+    "officialAwayScore": 3,
+    "officialHomeScore": 0,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2013/at-nyc-2.jpg"
+      },
+      {
+        "side": "home",
+        "team": "New York Yankees",
+        "src": "/scorecards/2013/at-nyc-1.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave",
+      "Laura 2",
+      "Paul",
+      "Alan",
+      "Doug"
+    ],
+    "notes": [
+      "Delayed 45 minutes by lightning; started 6th inning after a further delay for possibility of a thunderstorm. Clay Buchholz pitched a complete-game shutout."
+    ],
+    "gamePk": 347585
+  },
+  {
     "id": "2024-04-15-cleveland-guardians-at-boston-red-sox",
     "date": "2024-04-15",
     "awayTeam": "Cleveland Guardians",

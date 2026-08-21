@@ -1,0 +1,8 @@
+[
+  {"file":"astros-1.jpg","date":"2013-04-25","location":"Fenway Park, Boston","lineupTeam":"Houston Astros","opponent":"Boston Red Sox","awayTeam":"Houston Astros","homeTeam":"Boston Red Sox","awayScore":2,"homeScore":7,"notes":"Card notes the Astros as \"(AL)\" - 2013 was their first season in the American League after moving from the NL."},
+  {"file":"astros-2.jpg","date":"2013-04-25","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Houston Astros","awayTeam":"Houston Astros","homeTeam":"Boston Red Sox","awayScore":2,"homeScore":7,"notes":""},
+  {"file":"tb-1.jpg","date":"2013-04-14","location":"Fenway Park, Boston","lineupTeam":"Tampa Bay Rays","opponent":"Boston Red Sox","awayTeam":"Tampa Bay Rays","homeTeam":"Boston Red Sox","awayScore":0,"homeScore":5,"notes":""},
+  {"file":"tb-2.jpg","date":"2013-04-14","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Tampa Bay Rays","awayTeam":"Tampa Bay Rays","homeTeam":"Boston Red Sox","awayScore":0,"homeScore":5,"notes":""},
+  {"file":"at-nyc-1.jpg","date":"2013-06-02","location":"Yankee Stadium, New York","lineupTeam":"New York Yankees","opponent":"Boston Red Sox","awayTeam":"Boston Red Sox","homeTeam":"New York Yankees","awayScore":3,"homeScore":0,"notes":"Delayed 45 minutes by lightning; started 6th inning after a further delay for possibility of a thunderstorm. Clay Buchholz pitched a complete-game shutout."},
+  {"file":"at-nyc-2.jpg","date":"2013-06-02","location":"Yankee Stadium, New York","lineupTeam":"Boston Red Sox","opponent":"New York Yankees","awayTeam":"Boston Red Sox","homeTeam":"New York Yankees","awayScore":3,"homeScore":0,"notes":""}
+]

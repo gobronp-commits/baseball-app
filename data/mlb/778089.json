@@ -219,7 +219,8 @@
             "pickoffs": 0,
             "atBatsPerHomeRun": "-.--",
             "popOuts": 0,
-            "lineOuts": 0
+            "lineOuts": 0,
+            "errors": 0
           }
         },
         {
@@ -258,7 +259,8 @@
             "pickoffs": 0,
             "atBatsPerHomeRun": "-.--",
             "popOuts": 0,
-            "lineOuts": 0
+            "lineOuts": 0,
+            "errors": 0
           }
         },
         {
@@ -296,7 +298,8 @@
             "pickoffs": 0,
             "atBatsPerHomeRun": "-.--",
             "popOuts": 0,
-            "lineOuts": 0
+            "lineOuts": 0,
+            "errors": 0
           }
         },
         {
@@ -334,7 +337,8 @@
             "pickoffs": 0,
             "atBatsPerHomeRun": "-.--",
             "popOuts": 0,
-            "lineOuts": 1
+            "lineOuts": 1,
+            "errors": 0
           }
         },
         {
@@ -372,7 +376,8 @@
             "pickoffs": 0,
             "atBatsPerHomeRun": "3.00",
             "popOuts": 0,
-            "lineOuts": 0
+            "lineOuts": 0,
+            "errors": 0
           }
         },
         {
@@ -410,7 +415,8 @@
             "pickoffs": 0,
             "atBatsPerHomeRun": "-.--",
             "popOuts": 0,
-            "lineOuts": 0
+            "lineOuts": 0,
+            "errors": 0
           }
         },
         {
@@ -448,7 +454,8 @@
             "pickoffs": 0,
             "atBatsPerHomeRun": "-.--",
             "popOuts": 0,
-            "lineOuts": 1
+            "lineOuts": 1,
+            "errors": 0
           }
         },
         {
@@ -486,7 +493,8 @@
             "pickoffs": 0,
             "atBatsPerHomeRun": "-.--",
             "popOuts": 0,
-            "lineOuts": 0
+            "lineOuts": 0,
+            "errors": 0
           }
         },
         {
@@ -524,7 +532,8 @@
             "pickoffs": 0,
             "atBatsPerHomeRun": "-.--",
             "popOuts": 0,
-            "lineOuts": 1
+            "lineOuts": 1,
+            "errors": 0
           }
         },
         {
@@ -562,7 +571,8 @@
             "pickoffs": 0,
             "atBatsPerHomeRun": "-.--",
             "popOuts": 0,
-            "lineOuts": 0
+            "lineOuts": 0,
+            "errors": 0
           }
         }
       ],
@@ -622,7 +632,8 @@
             "sacFlies": 0,
             "passedBall": 0,
             "popOuts": 0,
-            "lineOuts": 2
+            "lineOuts": 2,
+            "errors": 1
           }
         },
         {
@@ -681,7 +692,8 @@
             "sacFlies": 0,
             "passedBall": 0,
             "popOuts": 0,
-            "lineOuts": 0
+            "lineOuts": 0,
+            "errors": 0
           }
         },
         {
@@ -739,7 +751,8 @@
             "sacFlies": 0,
             "passedBall": 0,
             "popOuts": 1,
-            "lineOuts": 0
+            "lineOuts": 0,
+            "errors": 0
           }
         },
         {
@@ -797,7 +810,8 @@
             "sacFlies": 0,
             "passedBall": 0,
             "popOuts": 0,
-            "lineOuts": 0
+            "lineOuts": 0,
+            "errors": 0
           }
         }
       ],
@@ -944,7 +958,8 @@
             "pickoffs": 0,
             "atBatsPerHomeRun": "-.--",
             "popOuts": 0,
-            "lineOuts": 0
+            "lineOuts": 0,
+            "errors": 0
           }
         },
         {
@@ -982,7 +997,8 @@
             "pickoffs": 0,
             "atBatsPerHomeRun": "-.--",
             "popOuts": 0,
-            "lineOuts": 0
+            "lineOuts": 0,
+            "errors": 0
           }
         },
         {
@@ -1020,7 +1036,8 @@
             "pickoffs": 0,
             "atBatsPerHomeRun": "4.00",
             "popOuts": 0,
-            "lineOuts": 1
+            "lineOuts": 1,
+            "errors": 0
           }
         },
         {
@@ -1058,7 +1075,8 @@
             "pickoffs": 0,
             "atBatsPerHomeRun": "-.--",
             "popOuts": 0,
-            "lineOuts": 0
+            "lineOuts": 0,
+            "errors": 0
           }
         },
         {
@@ -1096,7 +1114,8 @@
             "pickoffs": 0,
             "atBatsPerHomeRun": "-.--",
             "popOuts": 1,
-            "lineOuts": 0
+            "lineOuts": 0,
+            "errors": 0
           }
         },
         {
@@ -1134,7 +1153,8 @@
             "pickoffs": 0,
             "atBatsPerHomeRun": "-.--",
             "popOuts": 0,
-            "lineOuts": 0
+            "lineOuts": 0,
+            "errors": 1
           }
         },
         {
@@ -1172,7 +1192,8 @@
             "pickoffs": 0,
             "atBatsPerHomeRun": "-.--",
             "popOuts": 0,
-            "lineOuts": 0
+            "lineOuts": 0,
+            "errors": 0
           }
         },
         {
@@ -1210,7 +1231,8 @@
             "pickoffs": 0,
             "atBatsPerHomeRun": "-.--",
             "popOuts": 0,
-            "lineOuts": 1
+            "lineOuts": 1,
+            "errors": 0
           }
         },
         {
@@ -1248,7 +1270,8 @@
             "pickoffs": 0,
             "atBatsPerHomeRun": "-.--",
             "popOuts": 0,
-            "lineOuts": 0
+            "lineOuts": 0,
+            "errors": 0
           }
         },
         {
@@ -1286,7 +1309,8 @@
             "pickoffs": 0,
             "atBatsPerHomeRun": "-.--",
             "popOuts": 0,
-            "lineOuts": 0
+            "lineOuts": 0,
+            "errors": 0
           }
         }
       ],
@@ -1346,7 +1370,8 @@
             "sacFlies": 0,
             "passedBall": 0,
             "popOuts": 0,
-            "lineOuts": 3
+            "lineOuts": 3,
+            "errors": 0
           }
         },
         {
@@ -1405,7 +1430,8 @@
             "sacFlies": 0,
             "passedBall": 0,
             "popOuts": 0,
-            "lineOuts": 0
+            "lineOuts": 0,
+            "errors": 0
           }
         },
         {
@@ -1464,7 +1490,8 @@
             "sacFlies": 0,
             "passedBall": 0,
             "popOuts": 0,
-            "lineOuts": 0
+            "lineOuts": 0,
+            "errors": 0
           }
         },
         {
@@ -1522,7 +1549,8 @@
             "sacFlies": 0,
             "passedBall": 0,
             "popOuts": 0,
-            "lineOuts": 0
+            "lineOuts": 0,
+            "errors": 0
           }
         }
       ],

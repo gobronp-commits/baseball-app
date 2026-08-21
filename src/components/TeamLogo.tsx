@@ -12,7 +12,7 @@ export default function TeamLogo({
   return (
     // eslint-disable-next-line @next/next/no-img-element
     <img
-      src={`/logos/${match.id}.svg`}
+      src={`/logos/${match.id}.${match.logoExt ?? "svg"}`}
       alt=""
       width={size}
       height={size}

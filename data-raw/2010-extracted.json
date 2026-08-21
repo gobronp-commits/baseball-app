@@ -1,0 +1,5 @@
+[
+  {"file":"scan-11.jpg","date":"2010-06-01","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Oakland Athletics","awayTeam":"Oakland Athletics","homeTeam":"Boston Red Sox","awayScore":4,"homeScore":9,"notes":""},
+  {"file":"scan-12.jpg","date":"2010-06-01","location":"Fenway Park, Boston","lineupTeam":"Oakland Athletics","opponent":"Boston Red Sox","awayTeam":"Oakland Athletics","homeTeam":"Boston Red Sox","awayScore":4,"homeScore":9,"notes":""},
+  {"file":"worcester-tornadoes.jpg","date":"2010-08-02","location":"Fitton Field, College of the Holy Cross, Worcester, MA","lineupTeam":"Worcester Tornadoes","opponent":"Pittsfield Colonials","awayTeam":"Pittsfield Colonials","homeTeam":"Worcester Tornadoes","awayScore":4,"homeScore":3,"notes":"Independent Can-Am League game. Worcester played its home games at Fitton Field (on the Holy Cross campus) in 2010. No official online box score could be found (MLB Stats API and web searches don't cover the Can-Am League) - score is read directly off the scorecard."}
+]

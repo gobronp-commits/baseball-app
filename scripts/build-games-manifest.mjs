@@ -6,7 +6,17 @@ import { fileURLToPath } from "url";
 import path from "path";
 
 const root = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
-const years = ["2024", "2025"];
+const years = [
+  "1999",
+  "2004",
+  "2009",
+  "2010",
+  "2011",
+  "2012",
+  "2013",
+  "2024",
+  "2025",
+];
 
 function slug(s) {
   return s
