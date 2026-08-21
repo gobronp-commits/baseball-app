@@ -38,7 +38,6 @@ export type Summary = {
   firstDate: string;
   lastDate: string;
   redSoxRecord: { wins: number; losses: number };
-  totalOpponents: number;
   teams: TeamRecord[];
   mostSeenPlayers: PlayerStat[];
   homeRunLeaders: PlayerStat[];
@@ -137,7 +136,7 @@ export function computeSummary(
     }
   }
 
-  const allTeams = [...teamMap.values()].sort((a, b) => b.gamesSeen - a.gamesSeen);
+  const teams = [...teamMap.values()].sort((a, b) => b.gamesSeen - a.gamesSeen);
   const players = [...playerMap.values()];
   const pitchers = [...pitcherMap.values()];
 
@@ -146,8 +145,7 @@ export function computeSummary(
     firstDate: sorted[0]?.date ?? "",
     lastDate: sorted[sorted.length - 1]?.date ?? "",
     redSoxRecord: { wins: redSoxWins, losses: redSoxLosses },
-    totalOpponents: allTeams.length,
-    teams: allTeams.slice(0, TOP_N),
+    teams,
     mostSeenPlayers: [...players]
       .sort((a, b) => b.gamesSeen - a.gamesSeen || b.homeRuns - a.homeRuns)
       .slice(0, TOP_N),

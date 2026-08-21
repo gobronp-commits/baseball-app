@@ -44,7 +44,7 @@ export default function Home() {
         </div>
         <div className="rounded-lg border border-black/10 dark:border-white/15 p-4">
           <div className="font-heading text-3xl text-[var(--accent)]">
-            {summary.totalOpponents}
+            {summary.teams.length}
           </div>
           <div className="text-xs text-black/50 dark:text-white/50">Opponents faced</div>
         </div>
@@ -61,6 +61,7 @@ export default function Home() {
           title="Scorers"
           rows={summary.scorers}
           rowKey={(r) => r.name}
+          rowHeightClass="h-[45.71px]"
           columns={[
             { header: "Scorer", render: (r) => <ScorerLink name={r.name} /> },
             { header: "Games", align: "right", render: (r) => r.gamesSeen },
@@ -114,7 +115,7 @@ export default function Home() {
             { header: "Team", render: (r) => <TeamLink team={r.team} /> },
             { header: "Games", align: "right", render: (r) => r.gamesSeen },
             {
-              header: "Rec",
+              header: "Record",
               align: "right",
               render: (r) => `${r.wins}-${r.losses}`,
             },
