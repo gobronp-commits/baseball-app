@@ -19,7 +19,7 @@ const oswald = Oswald({
 });
 
 export const metadata: Metadata = {
-  title: "Scorecard Archive",
+  title: "Dave Gobron's Scorecard Archive",
   description: "A searchable archive of hand-scored baseball games.",
 };
 
@@ -35,8 +35,8 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <a href="/" className="flex items-center gap-2.5">
               <img src="/logos/111.svg" alt="" width={28} height={28} />
-              <span className="font-heading text-xl tracking-wide uppercase">
-                Scorecard Archive
+              <span className="font-heading text-lg sm:text-xl tracking-wide uppercase">
+                Dave Gobron&apos;s Scorecard Archive
               </span>
             </a>
             <nav className="flex gap-5 text-sm text-white/70">

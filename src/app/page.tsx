@@ -22,7 +22,7 @@ export default function Home() {
   return (
     <div>
       <h1 className="font-heading text-3xl uppercase tracking-wide mb-1">
-        Scorecard Archive
+        Dave Gobron&apos;s Scorecard Archive
       </h1>
       <p className="text-sm text-black/60 dark:text-white/60 mb-6">
         A summary of every game scored by hand at the ballpark.
