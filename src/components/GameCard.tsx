@@ -52,6 +52,15 @@ export default function GameCard({ game }: { game: Game }) {
           {score.home}
         </span>
       </div>
+
+      {(game.scorers.length > 0 || game.notes.length > 0) && (
+        <div className="mt-3 pt-2 border-t border-black/5 dark:border-white/10 text-xs text-black/50 dark:text-white/50 space-y-1">
+          {game.scorers.length > 0 && <div>Scored by {game.scorers.join(", ")}</div>}
+          {game.notes.length > 0 && (
+            <p className="italic line-clamp-2">{game.notes.join(" ")}</p>
+          )}
+        </div>
+      )}
     </Link>
   );
 }

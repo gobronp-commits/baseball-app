@@ -28,6 +28,11 @@ export type PitcherStat = {
   strikeOuts: number;
 };
 
+export type ScorerStat = {
+  name: string;
+  gamesSeen: number;
+};
+
 export type Summary = {
   totalGames: number;
   firstDate: string;
@@ -39,6 +44,7 @@ export type Summary = {
   mostSeenPitchers: PitcherStat[];
   strikeoutPitchers: PitcherStat[];
   strikeoutBatters: PlayerStat[];
+  scorers: ScorerStat[];
 };
 
 function num(v: unknown): number {
@@ -52,6 +58,7 @@ export function computeSummary(
   const teamMap = new Map<string, TeamRecord>();
   const playerMap = new Map<string, PlayerStat>();
   const pitcherMap = new Map<string, PitcherStat>();
+  const scorerMap = new Map<string, ScorerStat>();
 
   let redSoxWins = 0;
   let redSoxLosses = 0;
@@ -81,6 +88,12 @@ export function computeSummary(
       if (won) team.redSoxWins++;
       else team.redSoxLosses++;
       teamMap.set(opponent, team);
+    }
+
+    for (const scorer of game.scorers) {
+      const existing = scorerMap.get(scorer) ?? { name: scorer, gamesSeen: 0 };
+      existing.gamesSeen++;
+      scorerMap.set(scorer, existing);
     }
 
     const mlbData = getMlb(game);
@@ -151,5 +164,6 @@ export function computeSummary(
       .filter((p) => p.strikeOuts > 0)
       .sort((a, b) => b.strikeOuts - a.strikeOuts)
       .slice(0, TOP_N),
+    scorers: [...scorerMap.values()].sort((a, b) => b.gamesSeen - a.gamesSeen),
   };
 }

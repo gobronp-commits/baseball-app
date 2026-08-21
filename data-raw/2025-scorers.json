@@ -1,0 +1,21 @@
+[
+  { "date": "2025-09-18", "awayTeam": "Athletics", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Paul, Laura 1, Debbie" },
+  { "date": "2025-09-14", "awayTeam": "New York Yankees", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Doug, Darren, Ben" },
+  { "date": "2025-09-01", "awayTeam": "Cleveland Guardians", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Charles, Laura, Debbie, Lauren" },
+  { "date": "2025-08-17", "awayTeam": "Miami Marlins", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Laura 2, Laura 1, Kerry" },
+  { "date": "2025-08-05", "awayTeam": "Kansas City Royals", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Jim" },
+  { "date": "2025-08-01", "awayTeam": "Houston Astros", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Paul" },
+  { "date": "2025-07-25", "awayTeam": "Los Angeles Dodgers", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Laura" },
+  { "date": "2025-07-12", "awayTeam": "Tampa Bay Rays", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Paul" },
+  { "date": "2025-07-07", "awayTeam": "Colorado Rockies", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Laura, Debbie, Lauren" },
+  { "date": "2025-06-30", "awayTeam": "Cincinnati Reds", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Laura, Bob, Betsy" },
+  { "date": "2025-06-13", "awayTeam": "New York Yankees", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Laura, Ben, Andrew" },
+  { "date": "2025-06-02", "awayTeam": "Los Angeles Angels", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Laura, John, Elise" },
+  { "date": "2025-05-24", "awayTeam": "Baltimore Orioles", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Paul" },
+  { "date": "2025-05-18", "awayTeam": "Atlanta Braves", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Laura, Paul" },
+  { "date": "2025-05-08", "awayTeam": "Texas Rangers", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Laura 2, Laura 1, Charles" },
+  { "date": "2025-05-04", "awayTeam": "Minnesota Twins", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Laura 2, Charles" },
+  { "date": "2025-05-02", "awayTeam": "Minnesota Twins", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Laura 2, Doug, Charles" },
+  { "date": "2025-04-22", "awayTeam": "Seattle Mariners", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Laura 2, Doug, Charles" },
+  { "date": "2025-04-18", "awayTeam": "Chicago White Sox", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Paul" }
+]

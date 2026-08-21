@@ -1,13 +1,13 @@
 import { getAllGames, getMlbData } from "@/lib/games";
-import { gamesForTeam, gamesForPlayer } from "@/lib/filters";
+import { gamesForTeam, gamesForPlayer, gamesForScorer } from "@/lib/filters";
 import GameBrowser from "@/components/GameBrowser";
 
 export default async function GamesPage({
   searchParams,
 }: {
-  searchParams: Promise<{ team?: string; player?: string }>;
+  searchParams: Promise<{ team?: string; player?: string; scorer?: string }>;
 }) {
-  const { team, player } = await searchParams;
+  const { team, player, scorer } = await searchParams;
   const allGames = getAllGames();
 
   let games = allGames;
@@ -18,6 +18,9 @@ export default async function GamesPage({
   } else if (player) {
     games = gamesForPlayer(allGames, getMlbData, player);
     filterLabel = player;
+  } else if (scorer) {
+    games = gamesForScorer(allGames, scorer);
+    filterLabel = `scored by ${scorer}`;
   }
 
   return (

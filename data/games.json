@@ -21,9 +21,15 @@
         "src": "/scorecards/2024/Scan_20260818_35.jpg"
       }
     ],
+    "scorers": [
+      "Dave",
+      "Paul",
+      "Charles",
+      "Bob"
+    ],
     "notes": [
       "Every player's jersey number transcribed as '42' - this game was Jackie Robinson Day (all players wear 42), so actual jersey numbers are not recoverable from this page.",
-      "Every player's jersey number transcribed as '42' (Jackie Robinson Day)."
+      "Paul's 35th Birthday."
     ],
     "gamePk": 746974
   },
@@ -48,6 +54,12 @@
         "team": "Boston Red Sox",
         "src": "/scorecards/2024/Scan_20260818_33.jpg"
       }
+    ],
+    "scorers": [
+      "Dave",
+      "Paul",
+      "Charles",
+      "Ben"
     ],
     "notes": [
       "Date field on this page reads ambiguously (could be read as 4/25/24); corrected to 4/28/24 by cross-referencing the matching final score (Cubs 4/7/1, Red Sox 5/9/0) and pitcher lines against the paired page (file 33), which clearly reads 4/28/24. Original date also had '9/26/23' crossed out underneath.",
@@ -77,6 +89,11 @@
         "src": "/scorecards/2024/Scan_20260818_31.jpg"
       }
     ],
+    "scorers": [
+      "Dave",
+      "Laura 2",
+      "Charles"
+    ],
     "notes": [],
     "gamePk": 746969
   },
@@ -102,6 +119,12 @@
         "src": "/scorecards/2024/Scan_20260818_29.jpg"
       }
     ],
+    "scorers": [
+      "Dave",
+      "Laura 2",
+      "Charles",
+      "Laura 1"
+    ],
     "notes": [],
     "gamePk": 746965
   },
@@ -126,6 +149,12 @@
         "team": "Boston Red Sox",
         "src": "/scorecards/2024/Scan_20260818_27.jpg"
       }
+    ],
+    "scorers": [
+      "Dave",
+      "Charles",
+      "Lucy",
+      "Bob"
     ],
     "notes": [
       "Handwriting on this page is heavier/darker and harder to read than most; some at-bat details illegible.",
@@ -155,6 +184,10 @@
         "src": "/scorecards/2024/Scan_20260818_25.jpg"
       }
     ],
+    "scorers": [
+      "Dave",
+      "Laura 2"
+    ],
     "notes": [
       "Runs/Hits/Errors row totals partly illegible (smudged)."
     ],
@@ -181,6 +214,10 @@
         "team": "Boston Red Sox",
         "src": "/scorecards/2024/Scan_20260818_23.jpg"
       }
+    ],
+    "scorers": [
+      "Dave",
+      "Laura 2"
     ],
     "notes": [
       "Header shows 'DET' crossed out and 'BOSTON RED SOX' written over it on the left, 'Detroit Tigers' on the right - lineup on this page is Red Sox batters."
@@ -209,6 +246,11 @@
         "src": "/scorecards/2024/Scan_20260818_21.jpg"
       }
     ],
+    "scorers": [
+      "Dave",
+      "Laura 2",
+      "Charles"
+    ],
     "notes": [],
     "gamePk": 746949
   },
@@ -233,6 +275,10 @@
         "team": "Boston Red Sox",
         "src": "/scorecards/2024/Scan_20260818_19.jpg"
       }
+    ],
+    "scorers": [
+      "Dave",
+      "Paul"
     ],
     "notes": [
       "Note on page: 'Pavetta left in the 5th inning 2-1 Padres, bases loaded no outs.'"
@@ -261,8 +307,11 @@
         "src": "/scorecards/2024/Scan_20260818_17.jpg"
       }
     ],
+    "scorers": [
+      "Dave",
+      "Laura 2"
+    ],
     "notes": [
-      "Date field corrected on page from 7/8/24 to 7/9/24.",
       "Date field corrected on page from 7/8/24 to 7/9/24."
     ],
     "gamePk": 746937
@@ -288,6 +337,11 @@
         "team": "Boston Red Sox",
         "src": "/scorecards/2024/Scan_20260818_15.jpg"
       }
+    ],
+    "scorers": [
+      "Dave",
+      "Paul",
+      "Ezra"
     ],
     "notes": [
       "Note on page: 'Ezra ran the bases after the game'"
@@ -316,6 +370,10 @@
         "src": "/scorecards/2024/Scan_20260818_13.jpg"
       }
     ],
+    "scorers": [
+      "Dave",
+      "Jim"
+    ],
     "notes": [
       "Note on page: 'Bob Ryan nearby (possible imposter)'"
     ],
@@ -343,6 +401,10 @@
         "src": "/scorecards/2024/Scan_20260818_11.jpg"
       }
     ],
+    "scorers": [
+      "Dave",
+      "Laura 2"
+    ],
     "notes": [],
     "gamePk": 746924
   },
@@ -362,6 +424,10 @@
         "team": "Boston Red Sox",
         "src": "/scorecards/2024/Scan_20260818_9.jpg"
       }
+    ],
+    "scorers": [
+      "Dave",
+      "Paul"
     ],
     "notes": [
       "No matching Rangers-lineup page found in this folder for this date; game represented by a single scorecard page only. Distinct from the 8/13/24 Rangers-Red Sox game (files 10-11)."
@@ -390,6 +456,12 @@
         "src": "/scorecards/2024/Scan_20260818_8.jpg"
       }
     ],
+    "scorers": [
+      "Dave",
+      "Paul",
+      "Charles",
+      "Doug"
+    ],
     "notes": [],
     "gamePk": 746915
   },
@@ -415,6 +487,7 @@
         "src": "/scorecards/2024/Scan_20260818_6.jpg"
       }
     ],
+    "scorers": [],
     "notes": [],
     "gamePk": 746910
   },
@@ -439,6 +512,10 @@
         "team": "Boston Red Sox",
         "src": "/scorecards/2024/Scan_20260818_4.jpg"
       }
+    ],
+    "scorers": [
+      "Dave",
+      "Laura 2"
     ],
     "notes": [],
     "gamePk": 746908
@@ -465,6 +542,11 @@
         "src": "/scorecards/2024/Scan_20260818_2.jpg"
       }
     ],
+    "scorers": [
+      "Dave",
+      "Charles",
+      "Laura 2"
+    ],
     "notes": [],
     "gamePk": 746904
   },
@@ -489,6 +571,10 @@
         "team": "Boston Red Sox",
         "src": "/scorecards/2025/Scan_20260818_37.jpg"
       }
+    ],
+    "scorers": [
+      "Dave",
+      "Paul"
     ],
     "notes": [
       "Weather: 60F, wind 20mph out to center."
@@ -516,6 +602,12 @@
         "team": "Boston Red Sox",
         "src": "/scorecards/2025/Scan_20260818_35.jpg"
       }
+    ],
+    "scorers": [
+      "Dave",
+      "Laura 2",
+      "Doug",
+      "Charles"
     ],
     "notes": [
       "Date field annotated 'Happy Birthday Charles!'.",
@@ -545,6 +637,12 @@
         "src": "/scorecards/2025/Scan_20260818_33.jpg"
       }
     ],
+    "scorers": [
+      "Dave",
+      "Laura 2",
+      "Doug",
+      "Charles"
+    ],
     "notes": [
       "Scorer credit mentions 'Dave B (David Guest)'."
     ],
@@ -571,6 +669,11 @@
         "team": "Boston Red Sox",
         "src": "/scorecards/2025/Scan_20260818_31.jpg"
       }
+    ],
+    "scorers": [
+      "Dave",
+      "Laura 2",
+      "Charles"
     ],
     "notes": [
       "Weather: rain showers, 80 to 65F."
@@ -599,6 +702,12 @@
         "src": "/scorecards/2025/Scan_20260818_29.jpg"
       }
     ],
+    "scorers": [
+      "Dave",
+      "Laura 2",
+      "Laura 1",
+      "Charles"
+    ],
     "notes": [],
     "gamePk": 778006
   },
@@ -623,6 +732,11 @@
         "team": "Boston Red Sox",
         "src": "/scorecards/2025/Scan_20260818_27.jpg"
       }
+    ],
+    "scorers": [
+      "Dave",
+      "Laura 2",
+      "Paul"
     ],
     "notes": [
       "Weather: cloudy, light rain."
@@ -651,6 +765,10 @@
         "src": "/scorecards/2025/Scan_20260818_25.jpg"
       }
     ],
+    "scorers": [
+      "Dave",
+      "Paul"
+    ],
     "notes": [],
     "gamePk": 777790
   },
@@ -676,6 +794,12 @@
         "src": "/scorecards/2025/Scan_20260818_23.jpg"
       }
     ],
+    "scorers": [
+      "Dave",
+      "Laura 2",
+      "John",
+      "Elise"
+    ],
     "notes": [],
     "gamePk": 777670
   },
@@ -700,6 +824,12 @@
         "team": "Boston Red Sox",
         "src": "/scorecards/2025/Scan_20260818_21.jpg"
       }
+    ],
+    "scorers": [
+      "Dave",
+      "Laura 2",
+      "Ben",
+      "Andrew"
     ],
     "notes": [
       "Small handwritten note bottom-right, partially illegible."
@@ -727,6 +857,12 @@
         "team": "Boston Red Sox",
         "src": "/scorecards/2025/Scan_20260818_19.jpg"
       }
+    ],
+    "scorers": [
+      "Dave",
+      "Laura 2",
+      "Bob",
+      "Betsy"
     ],
     "notes": [
       "Team name spelled 'Cincinatti' on the scorecard (handwriting typo); normalized to Cincinnati Reds.",
@@ -756,6 +892,12 @@
         "src": "/scorecards/2025/Scan_20260818_17.jpg"
       }
     ],
+    "scorers": [
+      "Dave",
+      "Laura 2",
+      "Debbie",
+      "Lauren"
+    ],
     "notes": [
       "Bottom note: '1st Nate Eaton double should have been HR, hit the ladder'."
     ],
@@ -783,6 +925,10 @@
         "src": "/scorecards/2025/Scan_20260818_15.jpg"
       }
     ],
+    "scorers": [
+      "Dave",
+      "Paul"
+    ],
     "notes": [
       "Complete-game shutout: Crochet pitched all 9 innings."
     ],
@@ -809,6 +955,10 @@
         "team": "Boston Red Sox",
         "src": "/scorecards/2025/Scan_20260818_13.jpg"
       }
+    ],
+    "scorers": [
+      "Dave",
+      "Laura 2"
     ],
     "notes": [
       "Note: '15,000 Dodgers fans'. Weather: '85, very humid, thunder/showers before game, 3mph out to left'.",
@@ -838,6 +988,10 @@
         "src": "/scorecards/2025/Scan_20260818_11.jpg"
       }
     ],
+    "scorers": [
+      "Dave",
+      "Paul"
+    ],
     "notes": [
       "Extra innings. Bottom note: '10th - Story threw out McCormick (Zombie?) at home' (word before 'at home' uncertain).",
       "Extra innings game (10 innings)."
@@ -865,6 +1019,10 @@
         "team": "Boston Red Sox",
         "src": "/scorecards/2025/Scan_20260818_9.jpg"
       }
+    ],
+    "scorers": [
+      "Dave",
+      "Jim"
     ],
     "notes": [
       "Header was written and crossed out/corrected by hand (both team-name blanks show strikethroughs); low confidence on exact original header text, but the lineup (India, Witt, Pasquantino, Garcia, Perez, Frasier, Maile...) confirms Kansas City Royals.",
@@ -894,6 +1052,12 @@
         "src": "/scorecards/2025/Scan_20260818_7.jpg"
       }
     ],
+    "scorers": [
+      "Dave",
+      "Laura 2",
+      "Laura 1",
+      "Kerry"
+    ],
     "notes": [
       "Weather: 'HOT! 5 mph out to center'."
     ],
@@ -915,6 +1079,13 @@
         "team": "Boston Red Sox",
         "src": "/scorecards/2025/Scan_20260818_5.jpg"
       }
+    ],
+    "scorers": [
+      "Dave",
+      "Charles",
+      "Laura 2",
+      "Debbie",
+      "Lauren"
     ],
     "notes": [
       "No matching away-team (Guardians) lineup page found among the 37 images in this folder -- this game is represented by only one scorecard page (the Red Sox lineup)."
@@ -943,6 +1114,12 @@
         "src": "/scorecards/2025/Scan_20260818_4.jpg"
       }
     ],
+    "scorers": [
+      "Dave",
+      "Doug",
+      "Darren",
+      "Ben"
+    ],
     "notes": [
       "Marked 'Sunday Night Baseball'. Note: 'Vineyard Vines program 8x4x'.",
       "Weather: 'BEAUTIFUL'. Note: 'Bobby Williams was also at the game'."
@@ -970,6 +1147,12 @@
         "team": "Boston Red Sox",
         "src": "/scorecards/2025/Scan_20260818_2.jpg"
       }
+    ],
+    "scorers": [
+      "Dave",
+      "Paul",
+      "Laura 1",
+      "Debbie"
     ],
     "notes": [
       "Weather noted as 'PERFECT!'. Footnote: 'Previously Philadelphia, Kansas City, Oakland; Currently Sacramento; Future Las Vegas Athletics'."

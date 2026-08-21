@@ -5,6 +5,7 @@ import Leaderboard from "@/components/Leaderboard";
 import TeamLink from "@/components/TeamLink";
 import PlayerLink from "@/components/PlayerLink";
 import TeamLogo from "@/components/TeamLogo";
+import ScorerLink from "@/components/ScorerLink";
 
 function formatDate(iso: string) {
   const [y, m, d] = iso.split("-").map(Number);
@@ -53,6 +54,18 @@ export default function Home() {
           </div>
           <div className="text-xs text-black/50 dark:text-white/50">Date range</div>
         </div>
+      </div>
+
+      <div className="mb-10 sm:w-1/2 sm:pr-5">
+        <Leaderboard
+          title="Scorers"
+          rows={summary.scorers}
+          rowKey={(r) => r.name}
+          columns={[
+            { header: "Scorer", render: (r) => <ScorerLink name={r.name} /> },
+            { header: "Games", align: "right", render: (r) => r.gamesSeen },
+          ]}
+        />
       </div>
 
       <div className="grid sm:grid-cols-2 gap-10 mb-10">

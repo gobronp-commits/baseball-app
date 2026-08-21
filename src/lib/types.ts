@@ -15,6 +15,7 @@ export type Game = {
   officialAwayScore: number | null;
   officialHomeScore: number | null;
   scorecardImages: ScorecardImage[];
+  scorers: string[];
   notes: string[];
   gamePk: number | null;
 };

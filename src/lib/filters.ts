@@ -4,6 +4,10 @@ export function gamesForTeam(games: Game[], team: string): Game[] {
   return games.filter((g) => g.awayTeam === team || g.homeTeam === team);
 }
 
+export function gamesForScorer(games: Game[], scorer: string): Game[] {
+  return games.filter((g) => g.scorers.includes(scorer));
+}
+
 export function gamesForPlayer(
   games: Game[],
   getMlb: (game: Game) => MlbGameData | null,

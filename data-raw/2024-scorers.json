@@ -1,0 +1,20 @@
+[
+  { "date": "2024-09-27", "awayTeam": "Tampa Bay Rays", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Charles, Laura 2" },
+  { "date": "2024-09-11", "awayTeam": "Baltimore Orioles", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Laura" },
+  { "date": "2024-09-08", "awayTeam": "Chicago White Sox", "homeTeam": "Boston Red Sox", "scorerRaw": "" },
+  { "date": "2024-08-26", "awayTeam": "Toronto Blue Jays", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Paul, Charles, Doug" },
+  { "date": "2024-08-14", "awayTeam": "Texas Rangers", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Paul" },
+  { "date": "2024-08-13", "awayTeam": "Texas Rangers", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Laura" },
+  { "date": "2024-07-29", "awayTeam": "Seattle Mariners", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Jim" },
+  { "date": "2024-07-14", "awayTeam": "Kansas City Royals", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Paul, Ezra" },
+  { "date": "2024-07-09", "awayTeam": "Oakland Athletics", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Laura" },
+  { "date": "2024-06-28", "awayTeam": "San Diego Padres", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Paul" },
+  { "date": "2024-06-04", "awayTeam": "Atlanta Braves", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Laura 2, Charles" },
+  { "date": "2024-05-30", "awayTeam": "Detroit Tigers", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Laura" },
+  { "date": "2024-05-25", "awayTeam": "Milwaukee Brewers", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Laura" },
+  { "date": "2024-05-15", "awayTeam": "Tampa Bay Rays", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Charles, Lucy, Bob" },
+  { "date": "2024-05-12", "awayTeam": "Washington Nationals", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Laura 2, Charles, Laura 1" },
+  { "date": "2024-05-02", "awayTeam": "San Francisco Giants", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Laura, Charles" },
+  { "date": "2024-04-28", "awayTeam": "Chicago Cubs", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Paul, Charles, Ben" },
+  { "date": "2024-04-15", "awayTeam": "Cleveland Guardians", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Paul, Charles, Bob" }
+]
