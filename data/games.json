@@ -1,0 +1,979 @@
+[
+  {
+    "id": "2024-04-15-cleveland-guardians-at-boston-red-sox",
+    "date": "2024-04-15",
+    "awayTeam": "Cleveland Guardians",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston, MA",
+    "scorecardAwayScore": 6,
+    "scorecardHomeScore": 0,
+    "officialAwayScore": 6,
+    "officialHomeScore": 0,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Cleveland Guardians",
+        "src": "/scorecards/2024/Scan_20260818_34.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2024/Scan_20260818_35.jpg"
+      }
+    ],
+    "notes": [
+      "Every player's jersey number transcribed as '42' - this game was Jackie Robinson Day (all players wear 42), so actual jersey numbers are not recoverable from this page.",
+      "Every player's jersey number transcribed as '42' (Jackie Robinson Day)."
+    ],
+    "gamePk": 746974
+  },
+  {
+    "id": "2024-04-28-chicago-cubs-at-boston-red-sox",
+    "date": "2024-04-28",
+    "awayTeam": "Chicago Cubs",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 4,
+    "scorecardHomeScore": 5,
+    "officialAwayScore": 4,
+    "officialHomeScore": 5,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Chicago Cubs",
+        "src": "/scorecards/2024/Scan_20260818_32.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2024/Scan_20260818_33.jpg"
+      }
+    ],
+    "notes": [
+      "Date field on this page reads ambiguously (could be read as 4/25/24); corrected to 4/28/24 by cross-referencing the matching final score (Cubs 4/7/1, Red Sox 5/9/0) and pitcher lines against the paired page (file 33), which clearly reads 4/28/24. Original date also had '9/26/23' crossed out underneath.",
+      "Date field has '9/28/23' crossed out, corrected to 4/28/24."
+    ],
+    "gamePk": 746967
+  },
+  {
+    "id": "2024-05-02-san-francisco-giants-at-boston-red-sox",
+    "date": "2024-05-02",
+    "awayTeam": "San Francisco Giants",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 3,
+    "scorecardHomeScore": 1,
+    "officialAwayScore": 3,
+    "officialHomeScore": 1,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "San Francisco Giants",
+        "src": "/scorecards/2024/Scan_20260818_30.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2024/Scan_20260818_31.jpg"
+      }
+    ],
+    "notes": [],
+    "gamePk": 746969
+  },
+  {
+    "id": "2024-05-12-washington-nationals-at-boston-red-sox",
+    "date": "2024-05-12",
+    "awayTeam": "Washington Nationals",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 2,
+    "scorecardHomeScore": 3,
+    "officialAwayScore": 2,
+    "officialHomeScore": 3,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Washington Nationals",
+        "src": "/scorecards/2024/Scan_20260818_28.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2024/Scan_20260818_29.jpg"
+      }
+    ],
+    "notes": [],
+    "gamePk": 746965
+  },
+  {
+    "id": "2024-05-15-tampa-bay-rays-at-boston-red-sox",
+    "date": "2024-05-15",
+    "awayTeam": "Tampa Bay Rays",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston, MA",
+    "scorecardAwayScore": 4,
+    "scorecardHomeScore": 3,
+    "officialAwayScore": 4,
+    "officialHomeScore": 3,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Tampa Bay Rays",
+        "src": "/scorecards/2024/Scan_20260818_26.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2024/Scan_20260818_27.jpg"
+      }
+    ],
+    "notes": [
+      "Handwriting on this page is heavier/darker and harder to read than most; some at-bat details illegible.",
+      "Notes on page: 'Tanner Houck left the game with 2 outs in the 6th inning with the Sox leading 2-1. Weisert allowed both inherited runners to score, plus more. Devers' error on Caballero's steal attempt allowed Siri to advance to 2nd base and he scored the 4th run on a single.'"
+    ],
+    "gamePk": 746960
+  },
+  {
+    "id": "2024-05-25-milwaukee-brewers-at-boston-red-sox",
+    "date": "2024-05-25",
+    "awayTeam": "Milwaukee Brewers",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston, MA",
+    "scorecardAwayScore": 6,
+    "scorecardHomeScore": 3,
+    "officialAwayScore": 6,
+    "officialHomeScore": 3,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Milwaukee Brewers",
+        "src": "/scorecards/2024/Scan_20260818_24.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2024/Scan_20260818_25.jpg"
+      }
+    ],
+    "notes": [
+      "Runs/Hits/Errors row totals partly illegible (smudged)."
+    ],
+    "gamePk": 746958
+  },
+  {
+    "id": "2024-05-30-detroit-tigers-at-boston-red-sox",
+    "date": "2024-05-30",
+    "awayTeam": "Detroit Tigers",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston, MA",
+    "scorecardAwayScore": 5,
+    "scorecardHomeScore": 0,
+    "officialAwayScore": 5,
+    "officialHomeScore": 0,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Detroit Tigers",
+        "src": "/scorecards/2024/Scan_20260818_22.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2024/Scan_20260818_23.jpg"
+      }
+    ],
+    "notes": [
+      "Header shows 'DET' crossed out and 'BOSTON RED SOX' written over it on the left, 'Detroit Tigers' on the right - lineup on this page is Red Sox batters."
+    ],
+    "gamePk": 746954
+  },
+  {
+    "id": "2024-06-04-atlanta-braves-at-boston-red-sox",
+    "date": "2024-06-04",
+    "awayTeam": "Atlanta Braves",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 8,
+    "scorecardHomeScore": 3,
+    "officialAwayScore": 8,
+    "officialHomeScore": 3,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Atlanta Braves",
+        "src": "/scorecards/2024/Scan_20260818_20.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2024/Scan_20260818_21.jpg"
+      }
+    ],
+    "notes": [],
+    "gamePk": 746949
+  },
+  {
+    "id": "2024-06-28-san-diego-padres-at-boston-red-sox",
+    "date": "2024-06-28",
+    "awayTeam": "San Diego Padres",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 9,
+    "scorecardHomeScore": 2,
+    "officialAwayScore": 9,
+    "officialHomeScore": 2,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "San Diego Padres",
+        "src": "/scorecards/2024/Scan_20260818_18.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2024/Scan_20260818_19.jpg"
+      }
+    ],
+    "notes": [
+      "Note on page: 'Pavetta left in the 5th inning 2-1 Padres, bases loaded no outs.'"
+    ],
+    "gamePk": 746939
+  },
+  {
+    "id": "2024-07-09-oakland-athletics-at-boston-red-sox",
+    "date": "2024-07-09",
+    "awayTeam": "Oakland Athletics",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 9,
+    "scorecardHomeScore": 12,
+    "officialAwayScore": 9,
+    "officialHomeScore": 12,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Oakland Athletics",
+        "src": "/scorecards/2024/Scan_20260818_16.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2024/Scan_20260818_17.jpg"
+      }
+    ],
+    "notes": [
+      "Date field corrected on page from 7/8/24 to 7/9/24.",
+      "Date field corrected on page from 7/8/24 to 7/9/24."
+    ],
+    "gamePk": 746937
+  },
+  {
+    "id": "2024-07-14-kansas-city-royals-at-boston-red-sox",
+    "date": "2024-07-14",
+    "awayTeam": "Kansas City Royals",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 4,
+    "scorecardHomeScore": 5,
+    "officialAwayScore": 4,
+    "officialHomeScore": 5,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Kansas City Royals",
+        "src": "/scorecards/2024/Scan_20260818_14.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2024/Scan_20260818_15.jpg"
+      }
+    ],
+    "notes": [
+      "Note on page: 'Ezra ran the bases after the game'"
+    ],
+    "gamePk": 746932
+  },
+  {
+    "id": "2024-07-29-seattle-mariners-at-boston-red-sox",
+    "date": "2024-07-29",
+    "awayTeam": "Seattle Mariners",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 7,
+    "scorecardHomeScore": 14,
+    "officialAwayScore": 7,
+    "officialHomeScore": 14,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Seattle Mariners",
+        "src": "/scorecards/2024/Scan_20260818_12.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2024/Scan_20260818_13.jpg"
+      }
+    ],
+    "notes": [
+      "Note on page: 'Bob Ryan nearby (possible imposter)'"
+    ],
+    "gamePk": 746928
+  },
+  {
+    "id": "2024-08-13-texas-rangers-at-boston-red-sox",
+    "date": "2024-08-13",
+    "awayTeam": "Texas Rangers",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, STH Party",
+    "scorecardAwayScore": 4,
+    "scorecardHomeScore": 9,
+    "officialAwayScore": 4,
+    "officialHomeScore": 9,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Texas Rangers",
+        "src": "/scorecards/2024/Scan_20260818_10.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2024/Scan_20260818_11.jpg"
+      }
+    ],
+    "notes": [],
+    "gamePk": 746924
+  },
+  {
+    "id": "2024-08-14-texas-rangers-at-boston-red-sox",
+    "date": "2024-08-14",
+    "awayTeam": "Texas Rangers",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 9,
+    "scorecardHomeScore": 7,
+    "officialAwayScore": 9,
+    "officialHomeScore": 7,
+    "scorecardImages": [
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2024/Scan_20260818_9.jpg"
+      }
+    ],
+    "notes": [
+      "No matching Rangers-lineup page found in this folder for this date; game represented by a single scorecard page only. Distinct from the 8/13/24 Rangers-Red Sox game (files 10-11)."
+    ],
+    "gamePk": 746919
+  },
+  {
+    "id": "2024-08-26-toronto-blue-jays-at-boston-red-sox",
+    "date": "2024-08-26",
+    "awayTeam": "Toronto Blue Jays",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston, MA",
+    "scorecardAwayScore": 7,
+    "scorecardHomeScore": 3,
+    "officialAwayScore": 7,
+    "officialHomeScore": 3,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Toronto Blue Jays",
+        "src": "/scorecards/2024/Scan_20260818_7.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2024/Scan_20260818_8.jpg"
+      }
+    ],
+    "notes": [],
+    "gamePk": 746915
+  },
+  {
+    "id": "2024-09-08-chicago-white-sox-at-boston-red-sox",
+    "date": "2024-09-08",
+    "awayTeam": "Chicago White Sox",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 7,
+    "scorecardHomeScore": 2,
+    "officialAwayScore": 7,
+    "officialHomeScore": 2,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Chicago White Sox",
+        "src": "/scorecards/2024/Scan_20260818_5.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2024/Scan_20260818_6.jpg"
+      }
+    ],
+    "notes": [],
+    "gamePk": 746910
+  },
+  {
+    "id": "2024-09-11-baltimore-orioles-at-boston-red-sox",
+    "date": "2024-09-11",
+    "awayTeam": "Baltimore Orioles",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 3,
+    "scorecardHomeScore": 2,
+    "officialAwayScore": 3,
+    "officialHomeScore": 5,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Baltimore Orioles",
+        "src": "/scorecards/2024/Scan_20260818_3.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2024/Scan_20260818_4.jpg"
+      }
+    ],
+    "notes": [],
+    "gamePk": 746908
+  },
+  {
+    "id": "2024-09-27-tampa-bay-rays-at-boston-red-sox",
+    "date": "2024-09-27",
+    "awayTeam": "Tampa Bay Rays",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 2,
+    "scorecardHomeScore": 1,
+    "officialAwayScore": 2,
+    "officialHomeScore": 1,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Tampa Bay Rays",
+        "src": "/scorecards/2024/Scan_20260818.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2024/Scan_20260818_2.jpg"
+      }
+    ],
+    "notes": [],
+    "gamePk": 746904
+  },
+  {
+    "id": "2025-04-18-chicago-white-sox-at-boston-red-sox",
+    "date": "2025-04-18",
+    "awayTeam": "Chicago White Sox",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 3,
+    "scorecardHomeScore": 10,
+    "officialAwayScore": 3,
+    "officialHomeScore": 10,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Chicago White Sox",
+        "src": "/scorecards/2025/Scan_20260818_36.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2025/Scan_20260818_37.jpg"
+      }
+    ],
+    "notes": [
+      "Weather: 60F, wind 20mph out to center."
+    ],
+    "gamePk": 778275
+  },
+  {
+    "id": "2025-04-22-seattle-mariners-at-boston-red-sox",
+    "date": "2025-04-22",
+    "awayTeam": "Seattle Mariners",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 3,
+    "scorecardHomeScore": 8,
+    "officialAwayScore": 3,
+    "officialHomeScore": 8,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Seattle Mariners",
+        "src": "/scorecards/2025/Scan_20260818_34.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2025/Scan_20260818_35.jpg"
+      }
+    ],
+    "notes": [
+      "Date field annotated 'Happy Birthday Charles!'.",
+      "Top-center of page is water-damaged/torn; opponent name handwritten in the margin as 'SEATTLE MARINERS'. Game identity confirmed via lineup and score match to file 34."
+    ],
+    "gamePk": 778224
+  },
+  {
+    "id": "2025-05-02-minnesota-twins-at-boston-red-sox",
+    "date": "2025-05-02",
+    "awayTeam": "Minnesota Twins",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 1,
+    "scorecardHomeScore": 6,
+    "officialAwayScore": 1,
+    "officialHomeScore": 6,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Minnesota Twins",
+        "src": "/scorecards/2025/Scan_20260818_32.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2025/Scan_20260818_33.jpg"
+      }
+    ],
+    "notes": [
+      "Scorer credit mentions 'Dave B (David Guest)'."
+    ],
+    "gamePk": 778089
+  },
+  {
+    "id": "2025-05-04-minnesota-twins-at-boston-red-sox",
+    "date": "2025-05-04",
+    "awayTeam": "Minnesota Twins",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 5,
+    "scorecardHomeScore": 4,
+    "officialAwayScore": 5,
+    "officialHomeScore": 4,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Minnesota Twins",
+        "src": "/scorecards/2025/Scan_20260818_30.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2025/Scan_20260818_31.jpg"
+      }
+    ],
+    "notes": [
+      "Weather: rain showers, 80 to 65F."
+    ],
+    "gamePk": 778063
+  },
+  {
+    "id": "2025-05-08-texas-rangers-at-boston-red-sox",
+    "date": "2025-05-08",
+    "awayTeam": "Texas Rangers",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 0,
+    "scorecardHomeScore": 5,
+    "officialAwayScore": 0,
+    "officialHomeScore": 5,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Texas Rangers",
+        "src": "/scorecards/2025/Scan_20260818_28.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2025/Scan_20260818_29.jpg"
+      }
+    ],
+    "notes": [],
+    "gamePk": 778006
+  },
+  {
+    "id": "2025-05-18-atlanta-braves-at-boston-red-sox",
+    "date": "2025-05-18",
+    "awayTeam": "Atlanta Braves",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 10,
+    "scorecardHomeScore": 4,
+    "officialAwayScore": 10,
+    "officialHomeScore": 4,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Atlanta Braves",
+        "src": "/scorecards/2025/Scan_20260818_26.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2025/Scan_20260818_27.jpg"
+      }
+    ],
+    "notes": [
+      "Weather: cloudy, light rain."
+    ],
+    "gamePk": 777876
+  },
+  {
+    "id": "2025-05-24-baltimore-orioles-at-boston-red-sox",
+    "date": "2025-05-24",
+    "awayTeam": "Baltimore Orioles",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 2,
+    "scorecardHomeScore": 1,
+    "officialAwayScore": 2,
+    "officialHomeScore": 1,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Baltimore Orioles",
+        "src": "/scorecards/2025/Scan_20260818_24.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2025/Scan_20260818_25.jpg"
+      }
+    ],
+    "notes": [],
+    "gamePk": 777790
+  },
+  {
+    "id": "2025-06-02-los-angeles-angels-at-boston-red-sox",
+    "date": "2025-06-02",
+    "awayTeam": "Los Angeles Angels",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 7,
+    "scorecardHomeScore": 6,
+    "officialAwayScore": 7,
+    "officialHomeScore": 6,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Los Angeles Angels",
+        "src": "/scorecards/2025/Scan_20260818_22.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2025/Scan_20260818_23.jpg"
+      }
+    ],
+    "notes": [],
+    "gamePk": 777670
+  },
+  {
+    "id": "2025-06-13-new-york-yankees-at-boston-red-sox",
+    "date": "2025-06-13",
+    "awayTeam": "New York Yankees",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 1,
+    "scorecardHomeScore": 2,
+    "officialAwayScore": 1,
+    "officialHomeScore": 2,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "New York Yankees",
+        "src": "/scorecards/2025/Scan_20260818_20.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2025/Scan_20260818_21.jpg"
+      }
+    ],
+    "notes": [
+      "Small handwritten note bottom-right, partially illegible."
+    ],
+    "gamePk": 777537
+  },
+  {
+    "id": "2025-06-30-cincinnati-reds-at-boston-red-sox",
+    "date": "2025-06-30",
+    "awayTeam": "Cincinnati Reds",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 6,
+    "scorecardHomeScore": 13,
+    "officialAwayScore": 6,
+    "officialHomeScore": 13,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Cincinnati Reds",
+        "src": "/scorecards/2025/Scan_20260818_18.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2025/Scan_20260818_19.jpg"
+      }
+    ],
+    "notes": [
+      "Team name spelled 'Cincinatti' on the scorecard (handwriting typo); normalized to Cincinnati Reds.",
+      "Bottom note: '5th Abreu inside the park HR, grand slam'. Same 'Cincinatti' spelling as file 18."
+    ],
+    "gamePk": 777300
+  },
+  {
+    "id": "2025-07-07-colorado-rockies-at-boston-red-sox",
+    "date": "2025-07-07",
+    "awayTeam": "Colorado Rockies",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 3,
+    "scorecardHomeScore": 9,
+    "officialAwayScore": 3,
+    "officialHomeScore": 9,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Colorado Rockies",
+        "src": "/scorecards/2025/Scan_20260818_16.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2025/Scan_20260818_17.jpg"
+      }
+    ],
+    "notes": [
+      "Bottom note: '1st Nate Eaton double should have been HR, hit the ladder'."
+    ],
+    "gamePk": 777209
+  },
+  {
+    "id": "2025-07-12-tampa-bay-rays-at-boston-red-sox",
+    "date": "2025-07-12",
+    "awayTeam": "Tampa Bay Rays",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 0,
+    "scorecardHomeScore": 1,
+    "officialAwayScore": 0,
+    "officialHomeScore": 1,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Tampa Bay Rays",
+        "src": "/scorecards/2025/Scan_20260818_14.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2025/Scan_20260818_15.jpg"
+      }
+    ],
+    "notes": [
+      "Complete-game shutout: Crochet pitched all 9 innings."
+    ],
+    "gamePk": 777144
+  },
+  {
+    "id": "2025-07-25-los-angeles-dodgers-at-boston-red-sox",
+    "date": "2025-07-25",
+    "awayTeam": "Los Angeles Dodgers",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 5,
+    "scorecardHomeScore": 2,
+    "officialAwayScore": 5,
+    "officialHomeScore": 2,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Los Angeles Dodgers",
+        "src": "/scorecards/2025/Scan_20260818_12.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2025/Scan_20260818_13.jpg"
+      }
+    ],
+    "notes": [
+      "Note: '15,000 Dodgers fans'. Weather: '85, very humid, thunder/showers before game, 3mph out to left'.",
+      "Weather: 'rainbow in bottom of first inning and 2nd'."
+    ],
+    "gamePk": 777012
+  },
+  {
+    "id": "2025-08-01-houston-astros-at-boston-red-sox",
+    "date": "2025-08-01",
+    "awayTeam": "Houston Astros",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 1,
+    "scorecardHomeScore": 2,
+    "officialAwayScore": 1,
+    "officialHomeScore": 2,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Houston Astros",
+        "src": "/scorecards/2025/Scan_20260818_10.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2025/Scan_20260818_11.jpg"
+      }
+    ],
+    "notes": [
+      "Extra innings. Bottom note: '10th - Story threw out McCormick (Zombie?) at home' (word before 'at home' uncertain).",
+      "Extra innings game (10 innings)."
+    ],
+    "gamePk": 776922
+  },
+  {
+    "id": "2025-08-05-kansas-city-royals-at-boston-red-sox",
+    "date": "2025-08-05",
+    "awayTeam": "Kansas City Royals",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 2,
+    "scorecardHomeScore": 6,
+    "officialAwayScore": 2,
+    "officialHomeScore": 6,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Kansas City Royals",
+        "src": "/scorecards/2025/Scan_20260818_8.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2025/Scan_20260818_9.jpg"
+      }
+    ],
+    "notes": [
+      "Header was written and crossed out/corrected by hand (both team-name blanks show strikethroughs); low confidence on exact original header text, but the lineup (India, Witt, Pasquantino, Garcia, Perez, Frasier, Maile...) confirms Kansas City Royals.",
+      "Header also crossed out/corrected similarly to file 8; same low-confidence caveat."
+    ],
+    "gamePk": 776864
+  },
+  {
+    "id": "2025-08-17-miami-marlins-at-boston-red-sox",
+    "date": "2025-08-17",
+    "awayTeam": "Miami Marlins",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 5,
+    "scorecardHomeScore": 3,
+    "officialAwayScore": 5,
+    "officialHomeScore": 3,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Miami Marlins",
+        "src": "/scorecards/2025/Scan_20260818_6.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2025/Scan_20260818_7.jpg"
+      }
+    ],
+    "notes": [
+      "Weather: 'HOT! 5 mph out to center'."
+    ],
+    "gamePk": 776714
+  },
+  {
+    "id": "2025-09-01-cleveland-guardians-at-boston-red-sox",
+    "date": "2025-09-01",
+    "awayTeam": "Cleveland Guardians",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 4,
+    "scorecardHomeScore": 6,
+    "officialAwayScore": 4,
+    "officialHomeScore": 6,
+    "scorecardImages": [
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2025/Scan_20260818_5.jpg"
+      }
+    ],
+    "notes": [
+      "No matching away-team (Guardians) lineup page found among the 37 images in this folder -- this game is represented by only one scorecard page (the Red Sox lineup)."
+    ],
+    "gamePk": 776505
+  },
+  {
+    "id": "2025-09-14-new-york-yankees-at-boston-red-sox",
+    "date": "2025-09-14",
+    "awayTeam": "New York Yankees",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 4,
+    "scorecardHomeScore": 6,
+    "officialAwayScore": 4,
+    "officialHomeScore": 6,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "New York Yankees",
+        "src": "/scorecards/2025/Scan_20260818_3.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2025/Scan_20260818_4.jpg"
+      }
+    ],
+    "notes": [
+      "Marked 'Sunday Night Baseball'. Note: 'Vineyard Vines program 8x4x'.",
+      "Weather: 'BEAUTIFUL'. Note: 'Bobby Williams was also at the game'."
+    ],
+    "gamePk": 776330
+  },
+  {
+    "id": "2025-09-18-athletics-at-boston-red-sox",
+    "date": "2025-09-18",
+    "awayTeam": "Athletics",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park",
+    "scorecardAwayScore": 5,
+    "scorecardHomeScore": 3,
+    "officialAwayScore": 5,
+    "officialHomeScore": 3,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Athletics",
+        "src": "/scorecards/2025/Scan_20260818.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2025/Scan_20260818_2.jpg"
+      }
+    ],
+    "notes": [
+      "Weather noted as 'PERFECT!'. Footnote: 'Previously Philadelphia, Kansas City, Oakland; Currently Sacramento; Future Las Vegas Athletics'."
+    ],
+    "gamePk": 776281
+  }
+]

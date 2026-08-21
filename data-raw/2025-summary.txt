@@ -1,0 +1,56 @@
+2025 scorecard extraction summary
+==================================
+
+Total images read: 37 (Scan_20260818.jpg through Scan_20260818_37.jpg, all in
+"C:\Users\gobro\baseball scorecards\2025")
+
+Distinct games inferred (by matching date + away team + home team): 19
+
+All 19 games are Boston Red Sox home games at Fenway Park -- this collection
+appears to be a season-ticket holder's personal scorecards of Fenway games only.
+
+Games (chronological), with file pairing:
+ 1. 2025-04-18  Chicago White Sox @ Boston Red Sox   3-10   files 36, 37
+ 2. 2025-04-22  Seattle Mariners @ Boston Red Sox    3-8    files 34, 35
+ 3. 2025-05-02  Minnesota Twins @ Boston Red Sox     1-6    files 32, 33
+ 4. 2025-05-04  Minnesota Twins @ Boston Red Sox     5-4    files 30, 31
+ 5. 2025-05-08  Texas Rangers @ Boston Red Sox        0-5    files 28, 29
+ 6. 2025-05-18  Atlanta Braves @ Boston Red Sox      10-4    files 26, 27
+ 7. 2025-05-24  Baltimore Orioles @ Boston Red Sox    2-1    files 24, 25
+ 8. 2025-06-02  Los Angeles Angels @ Boston Red Sox   7-6    files 22, 23
+ 9. 2025-06-13  New York Yankees @ Boston Red Sox     1-2    files 20, 21
+10. 2025-06-30  Cincinnati Reds @ Boston Red Sox      6-13   files 18, 19
+11. 2025-07-07  Colorado Rockies @ Boston Red Sox     3-9    files 16, 17
+12. 2025-07-12  Tampa Bay Rays @ Boston Red Sox       0-1    files 14, 15
+13. 2025-07-25  Los Angeles Dodgers @ Boston Red Sox  5-2    files 12, 13
+14. 2025-08-01  Houston Astros @ Boston Red Sox       1-2 (10 inn) files 10, 11
+15. 2025-08-05  Kansas City Royals @ Boston Red Sox   2-6    files 8, 9
+16. 2025-08-17  Miami Marlins @ Boston Red Sox        5-3    files 6, 7
+17. 2025-09-01  Cleveland Guardians @ Boston Red Sox  4-6    file 5 ONLY (no pair)
+18. 2025-09-14  New York Yankees @ Boston Red Sox     4-6    files 3, 4
+19. 2025-09-18  Athletics @ Boston Red Sox            5-3    files 1, 2
+
+Images without an obvious pairing partner:
+- Scan_20260818_5.jpg (2025-09-01 vs Cleveland Guardians): only the Red Sox
+  lineup page exists in this folder; no corresponding Guardians lineup page
+  was found among the other 36 images. Likely that page was never scanned.
+
+Low-confidence / illegible fields:
+- Scan_20260818_8.jpg and Scan_20260818_9.jpg (2025-08-05 vs Kansas City
+  Royals): the printed header team-name blanks were written incorrectly and
+  then crossed out/corrected by hand on both pages, making the exact literal
+  header text hard to transcribe. Confident on team identity via the lineup
+  (India, Witt Jr., Pasquantino, Garcia, Perez, Randal Grichuk, Frasier,
+  Maile) matching Kansas City Royals, and the score-box confirms Royals 2,
+  Red Sox 6.
+- Scan_20260818_35.jpg (2025-04-22, Red Sox lineup page vs Seattle Mariners):
+  top-center of the page is water-damaged/torn, obscuring part of the
+  header; opponent identified from a handwritten note in the margin and
+  confirmed by score/lineup match to Scan_20260818_34.jpg.
+- Scan_20260818_10.jpg: one word in the bottom note ("...McCormick (Zombie?)
+  at home") is uncertain -- likely refers to a caught-stealing/pickoff play
+  at the plate but the exact wording is not fully legible.
+- Two team names have handwriting-era spelling/naming quirks normalized in
+  the JSON: "Cincinatti" -> "Cincinnati Reds" (files 18, 19), and the
+  Athletics are written simply as "Athletics" (their current official name;
+  matches MLB team ID 133 regardless of season).

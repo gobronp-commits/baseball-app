@@ -1,0 +1,182 @@
+[
+  {
+    "id": 109,
+    "name": "Arizona Diamondbacks",
+    "abbr": "AZ",
+    "venue": "Chase Field"
+  },
+  {
+    "id": 133,
+    "name": "Athletics",
+    "abbr": "ATH",
+    "venue": "Sutter Health Park"
+  },
+  {
+    "id": 144,
+    "name": "Atlanta Braves",
+    "abbr": "ATL",
+    "venue": "Truist Park"
+  },
+  {
+    "id": 110,
+    "name": "Baltimore Orioles",
+    "abbr": "BAL",
+    "venue": "Oriole Park at Camden Yards"
+  },
+  {
+    "id": 111,
+    "name": "Boston Red Sox",
+    "abbr": "BOS",
+    "venue": "Fenway Park"
+  },
+  {
+    "id": 112,
+    "name": "Chicago Cubs",
+    "abbr": "CHC",
+    "venue": "Wrigley Field"
+  },
+  {
+    "id": 145,
+    "name": "Chicago White Sox",
+    "abbr": "CWS",
+    "venue": "Rate Field"
+  },
+  {
+    "id": 113,
+    "name": "Cincinnati Reds",
+    "abbr": "CIN",
+    "venue": "Great American Ball Park"
+  },
+  {
+    "id": 114,
+    "name": "Cleveland Guardians",
+    "abbr": "CLE",
+    "venue": "Progressive Field"
+  },
+  {
+    "id": 115,
+    "name": "Colorado Rockies",
+    "abbr": "COL",
+    "venue": "Coors Field"
+  },
+  {
+    "id": 116,
+    "name": "Detroit Tigers",
+    "abbr": "DET",
+    "venue": "Comerica Park"
+  },
+  {
+    "id": 117,
+    "name": "Houston Astros",
+    "abbr": "HOU",
+    "venue": "Daikin Park"
+  },
+  {
+    "id": 118,
+    "name": "Kansas City Royals",
+    "abbr": "KC",
+    "venue": "Kauffman Stadium"
+  },
+  {
+    "id": 108,
+    "name": "Los Angeles Angels",
+    "abbr": "LAA",
+    "venue": "Angel Stadium"
+  },
+  {
+    "id": 119,
+    "name": "Los Angeles Dodgers",
+    "abbr": "LAD",
+    "venue": "UNIQLO Field at Dodger Stadium"
+  },
+  {
+    "id": 146,
+    "name": "Miami Marlins",
+    "abbr": "MIA",
+    "venue": "loanDepot park"
+  },
+  {
+    "id": 158,
+    "name": "Milwaukee Brewers",
+    "abbr": "MIL",
+    "venue": "American Family Field"
+  },
+  {
+    "id": 142,
+    "name": "Minnesota Twins",
+    "abbr": "MIN",
+    "venue": "Target Field"
+  },
+  {
+    "id": 121,
+    "name": "New York Mets",
+    "abbr": "NYM",
+    "venue": "Citi Field"
+  },
+  {
+    "id": 147,
+    "name": "New York Yankees",
+    "abbr": "NYY",
+    "venue": "Yankee Stadium"
+  },
+  {
+    "id": 143,
+    "name": "Philadelphia Phillies",
+    "abbr": "PHI",
+    "venue": "Citizens Bank Park"
+  },
+  {
+    "id": 134,
+    "name": "Pittsburgh Pirates",
+    "abbr": "PIT",
+    "venue": "PNC Park"
+  },
+  {
+    "id": 135,
+    "name": "San Diego Padres",
+    "abbr": "SD",
+    "venue": "Petco Park"
+  },
+  {
+    "id": 137,
+    "name": "San Francisco Giants",
+    "abbr": "SF",
+    "venue": "Oracle Park"
+  },
+  {
+    "id": 136,
+    "name": "Seattle Mariners",
+    "abbr": "SEA",
+    "venue": "T-Mobile Park"
+  },
+  {
+    "id": 138,
+    "name": "St. Louis Cardinals",
+    "abbr": "STL",
+    "venue": "Busch Stadium"
+  },
+  {
+    "id": 139,
+    "name": "Tampa Bay Rays",
+    "abbr": "TB",
+    "venue": "Tropicana Field"
+  },
+  {
+    "id": 140,
+    "name": "Texas Rangers",
+    "abbr": "TEX",
+    "venue": "Globe Life Field"
+  },
+  {
+    "id": 141,
+    "name": "Toronto Blue Jays",
+    "abbr": "TOR",
+    "venue": "Rogers Centre"
+  },
+  {
+    "id": 120,
+    "name": "Washington Nationals",
+    "abbr": "WSH",
+    "venue": "Nationals Park"
+  }
+]
