@@ -19,7 +19,7 @@ export default function Leaderboard<T>({
 }) {
   return (
     <div>
-      <h3 className="text-sm font-semibold uppercase tracking-wide text-black/50 dark:text-white/50 mb-3">
+      <h3 className="font-heading text-sm uppercase tracking-wide text-[var(--accent)] mb-3 pb-1 border-b-2 border-[var(--accent)]/25">
         {title}
       </h3>
       {rows.length === 0 ? (
@@ -44,7 +44,10 @@ export default function Leaderboard<T>({
             </thead>
             <tbody>
               {rows.map((row) => (
-                <tr key={rowKey(row)} className="border-b border-black/5 dark:border-white/5">
+                <tr
+                  key={rowKey(row)}
+                  className="border-b border-black/5 dark:border-white/5 hover:bg-[var(--accent-soft)] transition-colors"
+                >
                   {columns.map((c, i) => (
                     <td
                       key={i}

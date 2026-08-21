@@ -35,19 +35,19 @@ export default async function GamePage({
   return (
     <div>
       <Link
-        href="/"
-        className="text-sm text-black/50 dark:text-white/50 hover:text-black/80 dark:hover:text-white/80"
+        href="/games"
+        className="text-sm text-black/50 dark:text-white/50 hover:text-[var(--accent)]"
       >
         ← All games
       </Link>
 
-      <h1 className="text-2xl font-semibold tracking-tight mt-2">
+      <h1 className="font-heading text-2xl uppercase tracking-wide mt-2">
         {game.awayTeam} @ {game.homeTeam}
       </h1>
       <p className="text-sm text-black/60 dark:text-white/60 mt-1">
         {formatDate(game.date)} · {game.location}
       </p>
-      <p className="text-3xl font-semibold tabular-nums mt-3">
+      <p className="font-heading text-4xl text-[var(--accent)] mt-3">
         {score.away}–{score.home}
       </p>
       {differs && (
@@ -58,14 +58,14 @@ export default async function GamePage({
       )}
 
       <section className="mt-8">
-        <h2 className="text-sm font-semibold uppercase tracking-wide text-black/50 dark:text-white/50 mb-3">
+        <h2 className="font-heading text-sm uppercase tracking-wide text-[var(--accent)] mb-3 pb-1 border-b-2 border-[var(--accent)]/25">
           Scorecard
         </h2>
         <ScorecardViewer images={game.scorecardImages} />
       </section>
 
       <section className="mt-10">
-        <h2 className="text-sm font-semibold uppercase tracking-wide text-black/50 dark:text-white/50 mb-3">
+        <h2 className="font-heading text-sm uppercase tracking-wide text-[var(--accent)] mb-3 pb-1 border-b-2 border-[var(--accent)]/25">
           Game Log
         </h2>
         {mlbData ? (

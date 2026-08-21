@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Geist, Geist_Mono, Oswald } from "next/font/google";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -12,6 +12,12 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const oswald = Oswald({
+  variable: "--font-heading",
+  subsets: ["latin"],
+  weight: ["500", "600", "700"],
+});
+
 export const metadata: Metadata = {
   title: "Scorecard Archive",
   description: "A searchable archive of hand-scored baseball games.",
@@ -21,19 +27,23 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html
       lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+      className={`${geistSans.variable} ${geistMono.variable} ${oswald.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
-        <header className="border-b border-black/10 dark:border-white/10">
-          <div className="mx-auto max-w-5xl px-4 py-4 flex items-center justify-between">
-            <a href="/" className="text-lg font-semibold tracking-tight">
-              Scorecard Archive
+        <header className="bg-[var(--navy)] text-white border-b-4 border-[var(--accent)]">
+          <div className="mx-auto max-w-5xl px-4 py-3 flex items-center justify-between">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <a href="/" className="flex items-center gap-2.5">
+              <img src="/logos/111.svg" alt="" width={28} height={28} />
+              <span className="font-heading text-xl tracking-wide uppercase">
+                Scorecard Archive
+              </span>
             </a>
-            <nav className="flex gap-4 text-sm text-black/60 dark:text-white/60">
-              <a href="/" className="hover:text-black dark:hover:text-white">
+            <nav className="flex gap-5 text-sm text-white/70">
+              <a href="/" className="hover:text-white transition-colors">
                 Summary
               </a>
-              <a href="/games" className="hover:text-black dark:hover:text-white">
+              <a href="/games" className="hover:text-white transition-colors">
                 All Games
               </a>
             </nav>

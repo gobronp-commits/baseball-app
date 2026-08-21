@@ -2,6 +2,9 @@ import Link from "next/link";
 import { getAllGames, getMlbData } from "@/lib/games";
 import { computeSummary } from "@/lib/stats";
 import Leaderboard from "@/components/Leaderboard";
+import TeamLink from "@/components/TeamLink";
+import PlayerLink from "@/components/PlayerLink";
+import TeamLogo from "@/components/TeamLogo";
 
 function formatDate(iso: string) {
   const [y, m, d] = iso.split("-").map(Number);
@@ -18,7 +21,7 @@ export default function Home() {
 
   return (
     <div>
-      <h1 className="text-2xl font-semibold tracking-tight mb-1">
+      <h1 className="font-heading text-3xl uppercase tracking-wide mb-1">
         Scorecard Archive
       </h1>
       <p className="text-sm text-black/60 dark:text-white/60 mb-6">
@@ -27,17 +30,21 @@ export default function Home() {
 
       <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-10">
         <div className="rounded-lg border border-black/10 dark:border-white/15 p-4">
-          <div className="text-2xl font-semibold tabular-nums">{summary.totalGames}</div>
+          <div className="font-heading text-3xl text-[var(--accent)]">
+            {summary.totalGames}
+          </div>
           <div className="text-xs text-black/50 dark:text-white/50">Games attended</div>
         </div>
         <div className="rounded-lg border border-black/10 dark:border-white/15 p-4">
-          <div className="text-2xl font-semibold tabular-nums">
+          <div className="font-heading text-3xl text-[var(--accent)]">
             {summary.redSoxRecord.wins}-{summary.redSoxRecord.losses}
           </div>
           <div className="text-xs text-black/50 dark:text-white/50">Red Sox record</div>
         </div>
         <div className="rounded-lg border border-black/10 dark:border-white/15 p-4">
-          <div className="text-2xl font-semibold tabular-nums">{summary.teams.length}</div>
+          <div className="font-heading text-3xl text-[var(--accent)]">
+            {summary.teams.length}
+          </div>
           <div className="text-xs text-black/50 dark:text-white/50">Opponents faced</div>
         </div>
         <div className="rounded-lg border border-black/10 dark:border-white/15 p-4">
@@ -48,31 +55,14 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="mb-10">
-        <Leaderboard
-          title="Teams Seen"
-          rows={summary.teams}
-          rowKey={(r) => r.team}
-          columns={[
-            { header: "Team", render: (r) => r.team },
-            { header: "Games", align: "right", render: (r) => r.gamesSeen },
-            {
-              header: "Red Sox Record",
-              align: "right",
-              render: (r) => `${r.redSoxWins}-${r.redSoxLosses}`,
-            },
-          ]}
-        />
-      </div>
-
       <div className="grid sm:grid-cols-2 gap-10 mb-10">
         <Leaderboard
           title="Most Seen Players"
           rows={summary.mostSeenPlayers}
           rowKey={(r) => r.name}
           columns={[
-            { header: "Player", render: (r) => r.name },
-            { header: "Team", render: (r) => r.team },
+            { header: "Player", render: (r) => <PlayerLink name={r.name} /> },
+            { header: "Team", render: (r) => <TeamLink team={r.team} /> },
             { header: "Games", align: "right", render: (r) => r.gamesSeen },
             { header: "HR", align: "right", render: (r) => r.homeRuns },
           ]}
@@ -82,8 +72,8 @@ export default function Home() {
           rows={summary.homeRunLeaders}
           rowKey={(r) => r.name}
           columns={[
-            { header: "Player", render: (r) => r.name },
-            { header: "Team", render: (r) => r.team },
+            { header: "Player", render: (r) => <PlayerLink name={r.name} /> },
+            { header: "Team", render: (r) => <TeamLink team={r.team} /> },
             { header: "HR", align: "right", render: (r) => r.homeRuns },
             { header: "Games", align: "right", render: (r) => r.gamesSeen },
           ]}
@@ -96,8 +86,8 @@ export default function Home() {
           rows={summary.mostSeenPitchers}
           rowKey={(r) => r.name}
           columns={[
-            { header: "Pitcher", render: (r) => r.name },
-            { header: "Team", render: (r) => r.team },
+            { header: "Pitcher", render: (r) => <PlayerLink name={r.name} /> },
+            { header: "Team", render: (r) => <TeamLink team={r.team} /> },
             { header: "Games", align: "right", render: (r) => r.gamesSeen },
             {
               header: "Record",
@@ -112,8 +102,8 @@ export default function Home() {
           rows={summary.strikeoutPitchers}
           rowKey={(r) => r.name}
           columns={[
-            { header: "Pitcher", render: (r) => r.name },
-            { header: "Team", render: (r) => r.team },
+            { header: "Pitcher", render: (r) => <PlayerLink name={r.name} /> },
+            { header: "Team", render: (r) => <TeamLink team={r.team} /> },
             { header: "K", align: "right", render: (r) => r.strikeOuts },
             { header: "Games", align: "right", render: (r) => r.gamesSeen },
           ]}
@@ -126,17 +116,45 @@ export default function Home() {
           rows={summary.strikeoutBatters}
           rowKey={(r) => r.name}
           columns={[
-            { header: "Batter", render: (r) => r.name },
-            { header: "Team", render: (r) => r.team },
+            { header: "Batter", render: (r) => <PlayerLink name={r.name} /> },
+            { header: "Team", render: (r) => <TeamLink team={r.team} /> },
             { header: "K", align: "right", render: (r) => r.strikeOuts },
             { header: "Games", align: "right", render: (r) => r.gamesSeen },
           ]}
         />
       </div>
 
+      <div className="mb-10">
+        <Leaderboard
+          title="Teams Seen"
+          rows={summary.teams}
+          rowKey={(r) => r.team}
+          columns={[
+            {
+              header: "Team",
+              render: (r) => (
+                <Link
+                  href={`/games?team=${encodeURIComponent(r.team)}`}
+                  className="inline-flex items-center gap-2 hover:underline underline-offset-2"
+                >
+                  <TeamLogo team={r.team} size={24} />
+                  <span>{r.team}</span>
+                </Link>
+              ),
+            },
+            { header: "Games", align: "right", render: (r) => r.gamesSeen },
+            {
+              header: "Red Sox Record",
+              align: "right",
+              render: (r) => `${r.redSoxWins}-${r.redSoxLosses}`,
+            },
+          ]}
+        />
+      </div>
+
       <Link
         href="/games"
-        className="inline-block text-sm border border-black/15 dark:border-white/20 rounded-md px-4 py-2 hover:border-black/30 dark:hover:border-white/40 transition-colors"
+        className="inline-block text-sm border border-[var(--accent)] text-[var(--accent)] rounded-md px-4 py-2 hover:bg-[var(--accent)] hover:text-white transition-colors font-medium"
       >
         Browse all games →
       </Link>

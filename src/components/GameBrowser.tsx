@@ -1,10 +1,17 @@
 "use client";
 
 import { useMemo, useState } from "react";
+import Link from "next/link";
 import type { Game } from "@/lib/types";
 import GameCard from "./GameCard";
 
-export default function GameBrowser({ games }: { games: Game[] }) {
+export default function GameBrowser({
+  games,
+  filterLabel,
+}: {
+  games: Game[];
+  filterLabel?: string | null;
+}) {
   const [query, setQuery] = useState("");
   const [year, setYear] = useState<string>("all");
 
@@ -29,13 +36,23 @@ export default function GameBrowser({ games }: { games: Game[] }) {
 
   return (
     <div>
+      {filterLabel && (
+        <div className="flex items-center gap-2 mb-4 text-sm rounded-md border border-[var(--accent)]/30 bg-[var(--accent)]/10 px-3 py-2">
+          <span>
+            Showing games featuring <strong>{filterLabel}</strong>
+          </span>
+          <Link href="/games" className="ml-auto text-xs underline underline-offset-2">
+            Clear
+          </Link>
+        </div>
+      )}
       <div className="flex flex-col sm:flex-row gap-3 mb-6">
         <input
           type="text"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           placeholder="Search by team, date, or park…"
-          className="flex-1 rounded-md border border-black/15 dark:border-white/20 bg-transparent px-3 py-2 text-sm outline-none focus:border-black/40 dark:focus:border-white/50"
+          className="flex-1 rounded-md border border-black/15 dark:border-white/20 bg-transparent px-3 py-2 text-sm outline-none focus:border-[var(--accent)]"
         />
         <select
           value={year}

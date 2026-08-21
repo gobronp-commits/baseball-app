@@ -27,7 +27,7 @@ export default function GameTabs({
             className={
               "px-3 py-2 text-sm -mb-px border-b-2 transition-colors " +
               (tab === t
-                ? "border-black dark:border-white font-medium"
+                ? "border-[var(--accent)] text-[var(--accent)] font-medium"
                 : "border-transparent text-black/50 dark:text-white/50 hover:text-black/80 dark:hover:text-white/80")
             }
           >
