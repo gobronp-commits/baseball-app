@@ -56,18 +56,6 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="mb-10 sm:w-1/2 sm:pr-5">
-        <Leaderboard
-          title="Scorers"
-          rows={summary.scorers}
-          rowKey={(r) => r.name}
-          columns={[
-            { header: "Scorer", render: (r) => <ScorerLink name={r.name} /> },
-            { header: "Games", align: "right", render: (r) => r.gamesSeen },
-          ]}
-        />
-      </div>
-
       <div className="grid sm:grid-cols-2 gap-10 mb-10">
         <Leaderboard
           title="Most Seen Players"
@@ -88,6 +76,29 @@ export default function Home() {
             { header: "Player", render: (r) => <PlayerLink name={r.name} /> },
             { header: "Team", render: (r) => <TeamLink team={r.team} /> },
             { header: "HR", align: "right", render: (r) => r.homeRuns },
+            { header: "Games", align: "right", render: (r) => r.gamesSeen },
+          ]}
+        />
+      </div>
+
+      <div className="grid sm:grid-cols-2 gap-10 mb-10">
+        <Leaderboard
+          title="Strikeout Leaders (Batters)"
+          rows={summary.strikeoutBatters}
+          rowKey={(r) => r.name}
+          columns={[
+            { header: "Batter", render: (r) => <PlayerLink name={r.name} /> },
+            { header: "Team", render: (r) => <TeamLink team={r.team} /> },
+            { header: "K", align: "right", render: (r) => r.strikeOuts },
+            { header: "Games", align: "right", render: (r) => r.gamesSeen },
+          ]}
+        />
+        <Leaderboard
+          title="Scorers"
+          rows={summary.scorers}
+          rowKey={(r) => r.name}
+          columns={[
+            { header: "Scorer", render: (r) => <ScorerLink name={r.name} /> },
             { header: "Games", align: "right", render: (r) => r.gamesSeen },
           ]}
         />
@@ -116,20 +127,6 @@ export default function Home() {
           rowKey={(r) => r.name}
           columns={[
             { header: "Pitcher", render: (r) => <PlayerLink name={r.name} /> },
-            { header: "Team", render: (r) => <TeamLink team={r.team} /> },
-            { header: "K", align: "right", render: (r) => r.strikeOuts },
-            { header: "Games", align: "right", render: (r) => r.gamesSeen },
-          ]}
-        />
-      </div>
-
-      <div className="mb-10 sm:w-1/2 sm:pr-5">
-        <Leaderboard
-          title="Strikeout Leaders (Batters)"
-          rows={summary.strikeoutBatters}
-          rowKey={(r) => r.name}
-          columns={[
-            { header: "Batter", render: (r) => <PlayerLink name={r.name} /> },
             { header: "Team", render: (r) => <TeamLink team={r.team} /> },
             { header: "K", align: "right", render: (r) => r.strikeOuts },
             { header: "Games", align: "right", render: (r) => r.gamesSeen },

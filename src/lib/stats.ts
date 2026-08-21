@@ -164,6 +164,8 @@ export function computeSummary(
       .filter((p) => p.strikeOuts > 0)
       .sort((a, b) => b.strikeOuts - a.strikeOuts)
       .slice(0, TOP_N),
-    scorers: [...scorerMap.values()].sort((a, b) => b.gamesSeen - a.gamesSeen),
+    scorers: [...scorerMap.values()]
+      .sort((a, b) => b.gamesSeen - a.gamesSeen)
+      .slice(0, TOP_N),
   };
 }
