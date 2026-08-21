@@ -56,7 +56,16 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="grid sm:grid-cols-2 gap-10 mb-10">
+      <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 mb-10">
+        <Leaderboard
+          title="Scorers"
+          rows={summary.scorers}
+          rowKey={(r) => r.name}
+          columns={[
+            { header: "Scorer", render: (r) => <ScorerLink name={r.name} /> },
+            { header: "Games", align: "right", render: (r) => r.gamesSeen },
+          ]}
+        />
         <Leaderboard
           title="Most Seen Players"
           rows={summary.mostSeenPlayers}
@@ -79,9 +88,6 @@ export default function Home() {
             { header: "Games", align: "right", render: (r) => r.gamesSeen },
           ]}
         />
-      </div>
-
-      <div className="grid sm:grid-cols-2 gap-10 mb-10">
         <Leaderboard
           title="Strikeout Leaders (Batters)"
           rows={summary.strikeoutBatters}
@@ -94,18 +100,6 @@ export default function Home() {
           ]}
         />
         <Leaderboard
-          title="Scorers"
-          rows={summary.scorers}
-          rowKey={(r) => r.name}
-          columns={[
-            { header: "Scorer", render: (r) => <ScorerLink name={r.name} /> },
-            { header: "Games", align: "right", render: (r) => r.gamesSeen },
-          ]}
-        />
-      </div>
-
-      <div className="grid sm:grid-cols-2 gap-10 mb-10">
-        <Leaderboard
           title="Most Seen Pitchers"
           rows={summary.mostSeenPitchers}
           rowKey={(r) => r.name}
@@ -114,7 +108,7 @@ export default function Home() {
             { header: "Team", render: (r) => <TeamLink team={r.team} /> },
             { header: "Games", align: "right", render: (r) => r.gamesSeen },
             {
-              header: "Record",
+              header: "Rec",
               align: "right",
               render: (r) => `${r.wins}-${r.losses}`,
             },

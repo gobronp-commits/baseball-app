@@ -34,7 +34,7 @@ export default function Leaderboard<T>({
                     key={i}
                     className={
                       "font-normal py-1 " +
-                      (c.align === "right" ? "text-right" : "text-left pr-3")
+                      (c.align === "right" ? "text-right pl-3" : "text-left pr-3")
                     }
                   >
                     {c.header}
@@ -52,7 +52,8 @@ export default function Leaderboard<T>({
                     <td
                       key={i}
                       className={
-                        "py-1.5 " + (c.align === "right" ? "text-right tabular-nums" : "pr-3")
+                        "py-1.5 " +
+                        (c.align === "right" ? "text-right tabular-nums pl-3" : "pr-3")
                       }
                     >
                       {c.render(row)}

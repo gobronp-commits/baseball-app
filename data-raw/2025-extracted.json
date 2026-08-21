@@ -21,7 +21,7 @@
     "homeTeam": "Boston Red Sox",
     "awayScore": 5,
     "homeScore": 3,
-    "notes": "Weather noted as 'PERFECT!'. Footnote: 'Previously Philadelphia, Kansas City, Oakland; Currently Sacramento; Future Las Vegas Athletics'."
+    "notes": "Weather: perfect! Also noted on the card: the Athletics have called Philadelphia, Kansas City, and Oakland home — now Sacramento, with Las Vegas next."
   },
   {
     "file": "Scan_20260818_3.jpg",
@@ -33,7 +33,7 @@
     "homeTeam": "Boston Red Sox",
     "awayScore": 4,
     "homeScore": 6,
-    "notes": "Marked 'Sunday Night Baseball'. Note: 'Vineyard Vines program 8x4x'."
+    "notes": "Sunday Night Baseball. Vineyard Vines program, 8x4x."
   },
   {
     "file": "Scan_20260818_4.jpg",
@@ -45,7 +45,7 @@
     "homeTeam": "Boston Red Sox",
     "awayScore": 4,
     "homeScore": 6,
-    "notes": "Weather: 'BEAUTIFUL'. Note: 'Bobby Williams was also at the game'."
+    "notes": "Weather: beautiful. Bobby Williams was also at the game."
   },
   {
     "file": "Scan_20260818_5.jpg",
@@ -57,7 +57,7 @@
     "homeTeam": "Boston Red Sox",
     "awayScore": 4,
     "homeScore": 6,
-    "notes": "No matching away-team (Guardians) lineup page found among the 37 images in this folder -- this game is represented by only one scorecard page (the Red Sox lineup)."
+    "notes": ""
   },
   {
     "file": "Scan_20260818_6.jpg",
@@ -69,7 +69,7 @@
     "homeTeam": "Boston Red Sox",
     "awayScore": 5,
     "homeScore": 3,
-    "notes": "Weather: 'HOT! 5 mph out to center'."
+    "notes": "Weather: hot! 5 mph out to center."
   },
   {
     "file": "Scan_20260818_7.jpg",
@@ -93,7 +93,7 @@
     "homeTeam": "Boston Red Sox",
     "awayScore": 2,
     "homeScore": 6,
-    "notes": "Header was written and crossed out/corrected by hand (both team-name blanks show strikethroughs); low confidence on exact original header text, but the lineup (India, Witt, Pasquantino, Garcia, Perez, Frasier, Maile...) confirms Kansas City Royals."
+    "notes": ""
   },
   {
     "file": "Scan_20260818_9.jpg",
@@ -105,7 +105,7 @@
     "homeTeam": "Boston Red Sox",
     "awayScore": 2,
     "homeScore": 6,
-    "notes": "Header also crossed out/corrected similarly to file 8; same low-confidence caveat."
+    "notes": ""
   },
   {
     "file": "Scan_20260818_10.jpg",
@@ -117,7 +117,7 @@
     "homeTeam": "Boston Red Sox",
     "awayScore": 1,
     "homeScore": 2,
-    "notes": "Extra innings. Bottom note: '10th - Story threw out McCormick (Zombie?) at home' (word before 'at home' uncertain)."
+    "notes": "Extra innings (10). 10th: Story threw out McCormick at home."
   },
   {
     "file": "Scan_20260818_11.jpg",
@@ -129,7 +129,7 @@
     "homeTeam": "Boston Red Sox",
     "awayScore": 1,
     "homeScore": 2,
-    "notes": "Extra innings game (10 innings)."
+    "notes": "Extra innings (10). 10th: Story threw out McCormick at home."
   },
   {
     "file": "Scan_20260818_12.jpg",
@@ -141,7 +141,7 @@
     "homeTeam": "Boston Red Sox",
     "awayScore": 5,
     "homeScore": 2,
-    "notes": "Note: '15,000 Dodgers fans'. Weather: '85, very humid, thunder/showers before game, 3mph out to left'."
+    "notes": "15,000 Dodgers fans in attendance. Weather: 85°, very humid, thunder/showers before the game, 3mph out to left."
   },
   {
     "file": "Scan_20260818_13.jpg",
@@ -153,7 +153,7 @@
     "homeTeam": "Boston Red Sox",
     "awayScore": 5,
     "homeScore": 2,
-    "notes": "Weather: 'rainbow in bottom of first inning and 2nd'."
+    "notes": "A rainbow appeared in the bottom of the 1st and 2nd innings."
   },
   {
     "file": "Scan_20260818_14.jpg",
@@ -201,7 +201,7 @@
     "homeTeam": "Boston Red Sox",
     "awayScore": 3,
     "homeScore": 9,
-    "notes": "Bottom note: '1st Nate Eaton double should have been HR, hit the ladder'."
+    "notes": "1st inning: Nate Eaton's double should have been a HR — hit the ladder."
   },
   {
     "file": "Scan_20260818_18.jpg",
@@ -213,7 +213,7 @@
     "homeTeam": "Boston Red Sox",
     "awayScore": 6,
     "homeScore": 13,
-    "notes": "Team name spelled 'Cincinatti' on the scorecard (handwriting typo); normalized to Cincinnati Reds."
+    "notes": ""
   },
   {
     "file": "Scan_20260818_19.jpg",
@@ -225,7 +225,7 @@
     "homeTeam": "Boston Red Sox",
     "awayScore": 6,
     "homeScore": 13,
-    "notes": "Bottom note: '5th Abreu inside the park HR, grand slam'. Same 'Cincinatti' spelling as file 18."
+    "notes": "5th inning: Abreu hit an inside-the-park grand slam."
   },
   {
     "file": "Scan_20260818_20.jpg",
@@ -249,7 +249,7 @@
     "homeTeam": "Boston Red Sox",
     "awayScore": 1,
     "homeScore": 2,
-    "notes": "Small handwritten note bottom-right, partially illegible."
+    "notes": ""
   },
   {
     "file": "Scan_20260818_22.jpg",
@@ -393,7 +393,7 @@
     "homeTeam": "Boston Red Sox",
     "awayScore": 1,
     "homeScore": 6,
-    "notes": "Scorer credit mentions 'Dave B (David Guest)'."
+    "notes": ""
   },
   {
     "file": "Scan_20260818_34.jpg",
@@ -405,7 +405,7 @@
     "homeTeam": "Boston Red Sox",
     "awayScore": 3,
     "homeScore": 8,
-    "notes": "Date field annotated 'Happy Birthday Charles!'."
+    "notes": "Happy Birthday Charles!"
   },
   {
     "file": "Scan_20260818_35.jpg",
@@ -417,7 +417,7 @@
     "homeTeam": "Boston Red Sox",
     "awayScore": 3,
     "homeScore": 8,
-    "notes": "Top-center of page is water-damaged/torn; opponent name handwritten in the margin as 'SEATTLE MARINERS'. Game identity confirmed via lineup and score match to file 34."
+    "notes": ""
   },
   {
     "file": "Scan_20260818_36.jpg",

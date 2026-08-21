@@ -28,7 +28,7 @@
       "Bob"
     ],
     "notes": [
-      "Every player's jersey number transcribed as '42' - this game was Jackie Robinson Day (all players wear 42), so actual jersey numbers are not recoverable from this page.",
+      "Jackie Robinson Day — every player wore #42.",
       "Paul's 35th Birthday."
     ],
     "gamePk": 746974
@@ -61,10 +61,7 @@
       "Charles",
       "Ben"
     ],
-    "notes": [
-      "Date field on this page reads ambiguously (could be read as 4/25/24); corrected to 4/28/24 by cross-referencing the matching final score (Cubs 4/7/1, Red Sox 5/9/0) and pitcher lines against the paired page (file 33), which clearly reads 4/28/24. Original date also had '9/26/23' crossed out underneath.",
-      "Date field has '9/28/23' crossed out, corrected to 4/28/24."
-    ],
+    "notes": [],
     "gamePk": 746967
   },
   {
@@ -157,8 +154,7 @@
       "Bob"
     ],
     "notes": [
-      "Handwriting on this page is heavier/darker and harder to read than most; some at-bat details illegible.",
-      "Notes on page: 'Tanner Houck left the game with 2 outs in the 6th inning with the Sox leading 2-1. Weisert allowed both inherited runners to score, plus more. Devers' error on Caballero's steal attempt allowed Siri to advance to 2nd base and he scored the 4th run on a single.'"
+      "Tanner Houck left the game with 2 outs in the 6th inning with the Sox leading 2-1. Weisert allowed both inherited runners to score, plus more. Devers' error on Caballero's steal attempt allowed Siri to advance to 2nd base, and he scored the 4th run on a single."
     ],
     "gamePk": 746960
   },
@@ -188,9 +184,7 @@
       "Dave",
       "Laura 2"
     ],
-    "notes": [
-      "Runs/Hits/Errors row totals partly illegible (smudged)."
-    ],
+    "notes": [],
     "gamePk": 746958
   },
   {
@@ -219,9 +213,7 @@
       "Dave",
       "Laura 2"
     ],
-    "notes": [
-      "Header shows 'DET' crossed out and 'BOSTON RED SOX' written over it on the left, 'Detroit Tigers' on the right - lineup on this page is Red Sox batters."
-    ],
+    "notes": [],
     "gamePk": 746954
   },
   {
@@ -281,7 +273,7 @@
       "Paul"
     ],
     "notes": [
-      "Note on page: 'Pavetta left in the 5th inning 2-1 Padres, bases loaded no outs.'"
+      "Pivetta left in the 5th inning, 2-1 Padres, bases loaded no outs."
     ],
     "gamePk": 746939
   },
@@ -311,9 +303,7 @@
       "Dave",
       "Laura 2"
     ],
-    "notes": [
-      "Date field corrected on page from 7/8/24 to 7/9/24."
-    ],
+    "notes": [],
     "gamePk": 746937
   },
   {
@@ -344,7 +334,7 @@
       "Ezra"
     ],
     "notes": [
-      "Note on page: 'Ezra ran the bases after the game'"
+      "Ezra ran the bases after the game."
     ],
     "gamePk": 746932
   },
@@ -375,7 +365,7 @@
       "Jim"
     ],
     "notes": [
-      "Note on page: 'Bob Ryan nearby (possible imposter)'"
+      "Bob Ryan nearby (possible imposter)."
     ],
     "gamePk": 746928
   },
@@ -429,9 +419,7 @@
       "Dave",
       "Paul"
     ],
-    "notes": [
-      "No matching Rangers-lineup page found in this folder for this date; game represented by a single scorecard page only. Distinct from the 8/13/24 Rangers-Red Sox game (files 10-11)."
-    ],
+    "notes": [],
     "gamePk": 746919
   },
   {
@@ -610,8 +598,7 @@
       "Charles"
     ],
     "notes": [
-      "Date field annotated 'Happy Birthday Charles!'.",
-      "Top-center of page is water-damaged/torn; opponent name handwritten in the margin as 'SEATTLE MARINERS'. Game identity confirmed via lineup and score match to file 34."
+      "Happy Birthday Charles!"
     ],
     "gamePk": 778224
   },
@@ -643,9 +630,7 @@
       "Doug",
       "Charles"
     ],
-    "notes": [
-      "Scorer credit mentions 'Dave B (David Guest)'."
-    ],
+    "notes": [],
     "gamePk": 778089
   },
   {
@@ -831,9 +816,7 @@
       "Ben",
       "Andrew"
     ],
-    "notes": [
-      "Small handwritten note bottom-right, partially illegible."
-    ],
+    "notes": [],
     "gamePk": 777537
   },
   {
@@ -865,8 +848,7 @@
       "Betsy"
     ],
     "notes": [
-      "Team name spelled 'Cincinatti' on the scorecard (handwriting typo); normalized to Cincinnati Reds.",
-      "Bottom note: '5th Abreu inside the park HR, grand slam'. Same 'Cincinatti' spelling as file 18."
+      "5th inning: Abreu hit an inside-the-park grand slam."
     ],
     "gamePk": 777300
   },
@@ -899,7 +881,7 @@
       "Lauren"
     ],
     "notes": [
-      "Bottom note: '1st Nate Eaton double should have been HR, hit the ladder'."
+      "1st inning: Nate Eaton's double should have been a HR — hit the ladder."
     ],
     "gamePk": 777209
   },
@@ -961,8 +943,8 @@
       "Laura 2"
     ],
     "notes": [
-      "Note: '15,000 Dodgers fans'. Weather: '85, very humid, thunder/showers before game, 3mph out to left'.",
-      "Weather: 'rainbow in bottom of first inning and 2nd'."
+      "15,000 Dodgers fans in attendance. Weather: 85°, very humid, thunder/showers before the game, 3mph out to left.",
+      "A rainbow appeared in the bottom of the 1st and 2nd innings."
     ],
     "gamePk": 777012
   },
@@ -993,8 +975,7 @@
       "Paul"
     ],
     "notes": [
-      "Extra innings. Bottom note: '10th - Story threw out McCormick (Zombie?) at home' (word before 'at home' uncertain).",
-      "Extra innings game (10 innings)."
+      "Extra innings (10). 10th: Story threw out McCormick at home."
     ],
     "gamePk": 776922
   },
@@ -1024,10 +1005,7 @@
       "Dave",
       "Jim"
     ],
-    "notes": [
-      "Header was written and crossed out/corrected by hand (both team-name blanks show strikethroughs); low confidence on exact original header text, but the lineup (India, Witt, Pasquantino, Garcia, Perez, Frasier, Maile...) confirms Kansas City Royals.",
-      "Header also crossed out/corrected similarly to file 8; same low-confidence caveat."
-    ],
+    "notes": [],
     "gamePk": 776864
   },
   {
@@ -1059,7 +1037,7 @@
       "Kerry"
     ],
     "notes": [
-      "Weather: 'HOT! 5 mph out to center'."
+      "Weather: hot! 5 mph out to center."
     ],
     "gamePk": 776714
   },
@@ -1087,9 +1065,7 @@
       "Debbie",
       "Lauren"
     ],
-    "notes": [
-      "No matching away-team (Guardians) lineup page found among the 37 images in this folder -- this game is represented by only one scorecard page (the Red Sox lineup)."
-    ],
+    "notes": [],
     "gamePk": 776505
   },
   {
@@ -1121,8 +1097,8 @@
       "Ben"
     ],
     "notes": [
-      "Marked 'Sunday Night Baseball'. Note: 'Vineyard Vines program 8x4x'.",
-      "Weather: 'BEAUTIFUL'. Note: 'Bobby Williams was also at the game'."
+      "Sunday Night Baseball. Vineyard Vines program, 8x4x.",
+      "Weather: beautiful. Bobby Williams was also at the game."
     ],
     "gamePk": 776330
   },
@@ -1155,7 +1131,7 @@
       "Debbie"
     ],
     "notes": [
-      "Weather noted as 'PERFECT!'. Footnote: 'Previously Philadelphia, Kansas City, Oakland; Currently Sacramento; Future Las Vegas Athletics'."
+      "Weather: perfect! Also noted on the card: the Athletics have called Philadelphia, Kansas City, and Oakland home — now Sacramento, with Las Vegas next."
     ],
     "gamePk": 776281
   }
