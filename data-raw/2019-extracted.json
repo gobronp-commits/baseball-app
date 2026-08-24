@@ -1,0 +1,13 @@
+[
+  {"file":"scan-1.jpg","date":"2019-05-15","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Colorado Rockies","awayTeam":"Colorado Rockies","homeTeam":"Boston Red Sox","awayScore":5,"homeScore":6,"notes":"Card notes Barnes allowed 3 inherited runners to score. In the 9th, Betts hit what would have been a game-tying double, but it bounced into the stands for a ground-rule double, so the runner had to stop at 3rd instead of scoring."},
+  {"file":"scan-2.jpg","date":"2019-05-15","location":"Fenway Park, Boston","lineupTeam":"Colorado Rockies","opponent":"Boston Red Sox","awayTeam":"Colorado Rockies","homeTeam":"Boston Red Sox","awayScore":5,"homeScore":6,"notes":""},
+
+  {"file":"scan-3.jpg","date":"2019-06-10","location":"Fenway Park, Boston","lineupTeam":"Texas Rangers","opponent":"Boston Red Sox","awayTeam":"Texas Rangers","homeTeam":"Boston Red Sox","awayScore":4,"homeScore":3,"notes":"Disability Awareness Night. In the 6th, Santana appeared to have struck out on a check swing but the umpires ruled \"no swing.\" In the 9th, Mazara singled on a 3-1 count with the first baseman playing in - card notes he would have been out if the infield had been playing back."},
+  {"file":"scan-4.jpg","date":"2019-06-10","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Texas Rangers","awayTeam":"Texas Rangers","homeTeam":"Boston Red Sox","awayScore":4,"homeScore":3,"notes":"In the 5th, Holt was thrown out by 30 feet on a Hernandez blooper trying to score from first - poor baserunning by Bogaerts and Chavis on the Devers double play, but card notes it was not a triple play."},
+
+  {"file":"scan-5.jpg","date":"2019-07-30","location":"Fenway Park, Boston","lineupTeam":"Tampa Bay Rays","opponent":"Boston Red Sox","awayTeam":"Tampa Bay Rays","homeTeam":"Boston Red Sox","awayScore":6,"homeScore":5,"notes":""},
+  {"file":"scan-6.jpg","date":"2019-07-30","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Tampa Bay Rays","awayTeam":"Tampa Bay Rays","homeTeam":"Boston Red Sox","awayScore":6,"homeScore":5,"notes":""},
+
+  {"file":"scan-7.jpg","date":"2019-09-18","location":"Fenway Park, Boston, MA","lineupTeam":"Boston Red Sox","opponent":"San Francisco Giants","awayTeam":"San Francisco Giants","homeTeam":"Boston Red Sox","awayScore":11,"homeScore":3,"notes":""},
+  {"file":"scan-8.jpg","date":"2019-09-18","location":"Fenway Park, Boston, MA","lineupTeam":"San Francisco Giants","opponent":"Boston Red Sox","awayTeam":"San Francisco Giants","homeTeam":"Boston Red Sox","awayScore":11,"homeScore":3,"notes":""}
+]

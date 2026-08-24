@@ -7,13 +7,25 @@ import path from "path";
 
 const root = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
 const years = [
+  "1998",
   "1999",
+  "2001",
+  "2003",
   "2004",
+  "2007",
+  "2008",
   "2009",
   "2010",
   "2011",
   "2012",
   "2013",
+  "2014",
+  "2015",
+  "2016",
+  "2017",
+  "2018",
+  "2019",
+  "2021",
   "2024",
   "2025",
 ];

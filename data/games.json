@@ -1,5 +1,63 @@
 [
   {
+    "id": "1998-09-15-boston-red-sox-at-new-york-yankees",
+    "date": "1998-09-15",
+    "awayTeam": "Boston Red Sox",
+    "homeTeam": "New York Yankees",
+    "location": "Yankee Stadium, New York",
+    "scorecardAwayScore": 9,
+    "scorecardHomeScore": 4,
+    "officialAwayScore": 9,
+    "officialHomeScore": 4,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/1998/scan-1.jpg"
+      },
+      {
+        "side": "home",
+        "team": "New York Yankees",
+        "src": "/scorecards/1998/scan-2.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [],
+    "gamePk": 217713
+  },
+  {
+    "id": "1999-05-27-boston-red-sox-at-new-york-yankees",
+    "date": "1999-05-27",
+    "awayTeam": "Boston Red Sox",
+    "homeTeam": "New York Yankees",
+    "location": "Yankee Stadium, New York",
+    "scorecardAwayScore": 3,
+    "scorecardHomeScore": 8,
+    "officialAwayScore": 1,
+    "officialHomeScore": 4,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/1999/scan-2.jpg"
+      },
+      {
+        "side": "home",
+        "team": "New York Yankees",
+        "src": "/scorecards/1999/scan-1.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [
+      "Scored by D. Gobron. Umpires Reed, Barrett, Miller, Tschida."
+    ],
+    "gamePk": 2004
+  },
+  {
     "id": "1999-07-13-national-league-all-stars-at-american-league-all-stars",
     "date": "1999-07-13",
     "awayTeam": "National League All-Stars",
@@ -28,6 +86,161 @@
       "1999 MLB All-Star Game. Pedro Martinez (Red Sox) named MVP, striking out 5 of the 6 batters he faced (including the first four in a row: Barry Larkin, Larry Walker, Sammy Sosa, Mark McGwire)."
     ],
     "gamePk": 2480
+  },
+  {
+    "id": "1999-08-04-lynchburg-hillcats-at-wilmington-blue-rocks",
+    "date": "1999-08-04",
+    "awayTeam": "Lynchburg Hillcats",
+    "homeTeam": "Wilmington Blue Rocks",
+    "location": "Frawley Stadium, Wilmington, DE",
+    "scorecardAwayScore": 0,
+    "scorecardHomeScore": 5,
+    "officialAwayScore": null,
+    "officialHomeScore": null,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Lynchburg Hillcats",
+        "src": "/scorecards/1999/scan-3.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Wilmington Blue Rocks",
+        "src": "/scorecards/1999/scan-4.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [
+      "Carolina League (A) game: Lynchburg Hillcats (Pittsburgh Pirates affiliate) at Wilmington Blue Rocks (Kansas City Royals affiliate). Score read directly off the scorecard - no official record of this specific game could be found online.",
+      "Carolina League (A) game. Scored by D.M.G."
+    ],
+    "gamePk": null
+  },
+  {
+    "id": "2001-07-23-wareham-gatemen-at-chatham-athletics",
+    "date": "2001-07-23",
+    "awayTeam": "Wareham Gatemen",
+    "homeTeam": "Chatham Athletics",
+    "location": "Veterans Field, Chatham, MA",
+    "scorecardAwayScore": 1,
+    "scorecardHomeScore": 2,
+    "officialAwayScore": null,
+    "officialHomeScore": null,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Wareham Gatemen",
+        "src": "/scorecards/2001/scan-1.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Chatham Athletics",
+        "src": "/scorecards/2001/scan-2.jpg"
+      }
+    ],
+    "scorers": [
+      "Doug",
+      "Dave"
+    ],
+    "notes": [
+      "Cape Cod Baseball League (summer collegiate wood-bat league) game. Score read directly off the scorecard - no official MLB record exists for this game.",
+      "Cape Cod Baseball League game. Scored by Douglas Gobron."
+    ],
+    "gamePk": null
+  },
+  {
+    "id": "2003-05-06-san-diego-padres-at-montreal-expos",
+    "date": "2003-05-06",
+    "awayTeam": "San Diego Padres",
+    "homeTeam": "Montreal Expos",
+    "location": "Olympic Stadium, Montreal, QC",
+    "scorecardAwayScore": 2,
+    "scorecardHomeScore": 4,
+    "officialAwayScore": null,
+    "officialHomeScore": null,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "San Diego Padres",
+        "src": "/scorecards/2003/scan-1.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Montreal Expos",
+        "src": "/scorecards/2003/scan-2.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [
+      "Played indoors (Olympic Stadium's retractable roof closed). Jake Peavy started for San Diego.",
+      "Livan Hernandez pitched a complete game for Montreal (7+ IP shown, win)."
+    ],
+    "gamePk": null
+  },
+  {
+    "id": "2003-07-18-chatham-athletics-at-brewster-whitecaps",
+    "date": "2003-07-18",
+    "awayTeam": "Chatham Athletics",
+    "homeTeam": "Brewster Whitecaps",
+    "location": "Brewster, MA",
+    "scorecardAwayScore": 1,
+    "scorecardHomeScore": 1,
+    "officialAwayScore": null,
+    "officialHomeScore": null,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Chatham Athletics",
+        "src": "/scorecards/2003/scan-3.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Brewster Whitecaps",
+        "src": "/scorecards/2003/scan-4.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [
+      "Cape Cod Baseball League game, called a 1-1 tie due to darkness after 9 innings. No official MLB record exists for this game.",
+      "Cape Cod Baseball League game, called a 1-1 tie due to darkness."
+    ],
+    "gamePk": null
+  },
+  {
+    "id": "2004-04-21-boston-red-sox-at-toronto-blue-jays",
+    "date": "2004-04-21",
+    "awayTeam": "Boston Red Sox",
+    "homeTeam": "Toronto Blue Jays",
+    "location": "SkyDome, Toronto, ON",
+    "scorecardAwayScore": 4,
+    "scorecardHomeScore": 2,
+    "officialAwayScore": 4,
+    "officialHomeScore": 2,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2004/manila-folder-2.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Toronto Blue Jays",
+        "src": "/scorecards/2004/manila-folder-1.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [
+      "Tim Wakefield pitched 6 2/3 innings for the win."
+    ],
+    "gamePk": 20227
   },
   {
     "id": "2004-06-03-battle-creek-yankees-at-dayton-dragons",
@@ -59,6 +272,183 @@
       "Season statistics insert from the game program (Dayton Dragons and opposition/Battle Creek Yankees individual stats through games of 6/2), not a scored lineup page."
     ],
     "gamePk": null
+  },
+  {
+    "id": "2004-08-11-lowell-spinners-at-vermont-expos",
+    "date": "2004-08-11",
+    "awayTeam": "Lowell Spinners",
+    "homeTeam": "Vermont Expos",
+    "location": "Centennial Field, Burlington, VT",
+    "scorecardAwayScore": 5,
+    "scorecardHomeScore": 3,
+    "officialAwayScore": null,
+    "officialHomeScore": null,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Lowell Spinners",
+        "src": "/scorecards/2004/scan-1.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Vermont Expos",
+        "src": "/scorecards/2004/scan-2.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [
+      "New York-Penn League (short-season A) game: Lowell Spinners (Boston Red Sox affiliate) at Vermont Expos (Montreal Expos affiliate).",
+      "New York-Penn League game."
+    ],
+    "gamePk": null
+  },
+  {
+    "id": "2007-08-17-los-angeles-angels-of-anaheim-at-boston-red-sox",
+    "date": "2007-08-17",
+    "awayTeam": "Los Angeles Angels of Anaheim",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 4,
+    "scorecardHomeScore": 8,
+    "officialAwayScore": 4,
+    "officialHomeScore": 8,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Los Angeles Angels of Anaheim",
+        "src": "/scorecards/2007/scan-1.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2007/scan-2.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [],
+    "gamePk": 68297
+  },
+  {
+    "id": "2007-08-31-baltimore-orioles-at-boston-red-sox",
+    "date": "2007-08-31",
+    "awayTeam": "Baltimore Orioles",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 9,
+    "scorecardHomeScore": 8,
+    "officialAwayScore": 9,
+    "officialHomeScore": 8,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Baltimore Orioles",
+        "src": "/scorecards/2007/scan-3.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2007/scan-4.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [],
+    "gamePk": 70136
+  },
+  {
+    "id": "2008-04-19-texas-rangers-at-boston-red-sox",
+    "date": "2008-04-19",
+    "awayTeam": "Texas Rangers",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 3,
+    "scorecardHomeScore": 5,
+    "officialAwayScore": 3,
+    "officialHomeScore": 5,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Texas Rangers",
+        "src": "/scorecards/2008/scan-1.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2008/scan-2.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [],
+    "gamePk": 234026
+  },
+  {
+    "id": "2008-08-05-hyannis-mets-at-chatham-athletics",
+    "date": "2008-08-05",
+    "awayTeam": "Hyannis Mets",
+    "homeTeam": "Chatham Athletics",
+    "location": "Veterans Field, Chatham, MA",
+    "scorecardAwayScore": 4,
+    "scorecardHomeScore": 7,
+    "officialAwayScore": null,
+    "officialHomeScore": null,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Hyannis Mets",
+        "src": "/scorecards/2008/scan-4.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Chatham Athletics",
+        "src": "/scorecards/2008/scan-3.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [
+      "Cape Cod Baseball League game. Kyle Seager (Chatham) later played for the Seattle Mariners.",
+      "Cape Cod Baseball League game."
+    ],
+    "gamePk": null
+  },
+  {
+    "id": "2008-09-02-baltimore-orioles-at-boston-red-sox",
+    "date": "2008-09-02",
+    "awayTeam": "Baltimore Orioles",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 2,
+    "scorecardHomeScore": 14,
+    "officialAwayScore": 2,
+    "officialHomeScore": 14,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Baltimore Orioles",
+        "src": "/scorecards/2008/scan-5.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2008/scan-6.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave",
+      "Paul"
+    ],
+    "notes": [
+      "Jon Lester started. Neither card's Team Totals box was filled in by the scorer, so the score here is the official MLB record (Orioles 2, Red Sox 14) rather than a hand tally."
+    ],
+    "gamePk": 235822
   },
   {
     "id": "2009-09-16-los-angeles-angels-at-boston-red-sox",
@@ -173,6 +563,36 @@
     ],
     "notes": [],
     "gamePk": 287954
+  },
+  {
+    "id": "2011-09-19-baltimore-orioles-at-boston-red-sox",
+    "date": "2011-09-19",
+    "awayTeam": "Baltimore Orioles",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 9,
+    "scorecardHomeScore": 18,
+    "officialAwayScore": 9,
+    "officialHomeScore": 18,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Baltimore Orioles",
+        "src": "/scorecards/2011/scan-7.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2011/scan-8.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [
+      "Game 2 of a day-night doubleheader (7:10pm start per the card) - the Orioles won the 1:05pm game 1 earlier that day 3-1; this scorecard is the nightcap, which the Red Sox won 18-9."
+    ],
+    "gamePk": 289190
   },
   {
     "id": "2011-09-21-baltimore-orioles-at-boston-red-sox",
@@ -373,6 +793,617 @@
       "Delayed 45 minutes by lightning; started 6th inning after a further delay for possibility of a thunderstorm. Clay Buchholz pitched a complete-game shutout."
     ],
     "gamePk": 347585
+  },
+  {
+    "id": "2014-04-07-texas-rangers-at-boston-red-sox",
+    "date": "2014-04-07",
+    "awayTeam": "Texas Rangers",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 1,
+    "scorecardHomeScore": 5,
+    "officialAwayScore": 1,
+    "officialHomeScore": 5,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Texas Rangers",
+        "src": "/scorecards/2014/scan-1.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2014/scan-2.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave",
+      "Charles"
+    ],
+    "notes": [],
+    "gamePk": 380642
+  },
+  {
+    "id": "2014-05-06-cincinnati-reds-at-boston-red-sox",
+    "date": "2014-05-06",
+    "awayTeam": "Cincinnati Reds",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 3,
+    "scorecardHomeScore": 4,
+    "officialAwayScore": 3,
+    "officialHomeScore": 4,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Cincinnati Reds",
+        "src": "/scorecards/2014/scan-4.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2014/scan-3.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [
+      "Went to extra innings - Grady Sizemore's walk-off single in the 12th drove in David Ortiz for the win."
+    ],
+    "gamePk": 381024
+  },
+  {
+    "id": "2014-09-06-toronto-blue-jays-at-boston-red-sox",
+    "date": "2014-09-06",
+    "awayTeam": "Toronto Blue Jays",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 3,
+    "scorecardHomeScore": 4,
+    "officialAwayScore": 3,
+    "officialHomeScore": 4,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Toronto Blue Jays",
+        "src": "/scorecards/2014/scan-5.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2014/scan-6.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [
+      "Card notes a delay expected for thunderstorms that never materialized.",
+      "Card notes the game started late."
+    ],
+    "gamePk": 382663
+  },
+  {
+    "id": "2015-04-14-washington-nationals-at-boston-red-sox",
+    "date": "2015-04-14",
+    "awayTeam": "Washington Nationals",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 7,
+    "scorecardHomeScore": 8,
+    "officialAwayScore": 7,
+    "officialHomeScore": 8,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Washington Nationals",
+        "src": "/scorecards/2015/scan-1.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2015/scan-2.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave",
+      "Charles"
+    ],
+    "notes": [],
+    "gamePk": 413767
+  },
+  {
+    "id": "2015-04-17-baltimore-orioles-at-boston-red-sox",
+    "date": "2015-04-17",
+    "awayTeam": "Baltimore Orioles",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 2,
+    "scorecardHomeScore": 3,
+    "officialAwayScore": 2,
+    "officialHomeScore": 3,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Baltimore Orioles",
+        "src": "/scorecards/2015/scan-4.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2015/scan-3.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [
+      "Card notes umpire Jordan Baker ejected Orioles pitcher Ubaldo Jimenez for hitting Sandoval with a pitch, with no warning issued beforehand."
+    ],
+    "gamePk": 413792
+  },
+  {
+    "id": "2015-07-30-chicago-white-sox-at-boston-red-sox",
+    "date": "2015-07-30",
+    "awayTeam": "Chicago White Sox",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 2,
+    "scorecardHomeScore": 8,
+    "officialAwayScore": 2,
+    "officialHomeScore": 8,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Chicago White Sox",
+        "src": "/scorecards/2015/scan-6.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2015/scan-5.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [],
+    "gamePk": 415170
+  },
+  {
+    "id": "2015-09-09-toronto-blue-jays-at-boston-red-sox",
+    "date": "2015-09-09",
+    "awayTeam": "Toronto Blue Jays",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 4,
+    "scorecardHomeScore": 10,
+    "officialAwayScore": 4,
+    "officialHomeScore": 10,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Toronto Blue Jays",
+        "src": "/scorecards/2015/scan-7.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2015/scan-8.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [
+      "David Ortiz hit his 498th career home run in this game, a three-run shot capping a four-run third inning."
+    ],
+    "gamePk": 415740
+  },
+  {
+    "id": "2016-08-12-arizona-diamondbacks-at-boston-red-sox",
+    "date": "2016-08-12",
+    "awayTeam": "Arizona Diamondbacks",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 4,
+    "scorecardHomeScore": 9,
+    "officialAwayScore": 4,
+    "officialHomeScore": 9,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Arizona Diamondbacks",
+        "src": "/scorecards/2016/scan-1.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2016/scan-2.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [],
+    "gamePk": 448582
+  },
+  {
+    "id": "2017-04-14-tampa-bay-rays-at-boston-red-sox",
+    "date": "2017-04-14",
+    "awayTeam": "Tampa Bay Rays",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 10,
+    "scorecardHomeScore": 5,
+    "officialAwayScore": 10,
+    "officialHomeScore": 5,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Tampa Bay Rays",
+        "src": "/scorecards/2017/scan-1.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2017/scan-2.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [],
+    "gamePk": 490253
+  },
+  {
+    "id": "2017-05-03-baltimore-orioles-at-boston-red-sox",
+    "date": "2017-05-03",
+    "awayTeam": "Baltimore Orioles",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 2,
+    "scorecardHomeScore": 4,
+    "officialAwayScore": 2,
+    "officialHomeScore": 4,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Baltimore Orioles",
+        "src": "/scorecards/2017/scan-3.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2017/scan-4.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [
+      "Card notes umpire Sam Holbrook ejected Adam Jones for arguing a very poor check-swing/hit-by-pitch decision after Jones was hit by a pitch in the 5th inning."
+    ],
+    "gamePk": 490502
+  },
+  {
+    "id": "2017-05-26-seattle-mariners-at-boston-red-sox",
+    "date": "2017-05-26",
+    "awayTeam": "Seattle Mariners",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 0,
+    "scorecardHomeScore": 3,
+    "officialAwayScore": 0,
+    "officialHomeScore": 3,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Seattle Mariners",
+        "src": "/scorecards/2017/scan-5.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2017/scan-6.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [],
+    "gamePk": 490825
+  },
+  {
+    "id": "2017-07-30-kansas-city-royals-at-boston-red-sox",
+    "date": "2017-07-30",
+    "awayTeam": "Kansas City Royals",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 5,
+    "scorecardHomeScore": 3,
+    "officialAwayScore": 5,
+    "officialHomeScore": 3,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Kansas City Royals",
+        "src": "/scorecards/2017/scan-7.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2017/scan-8.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [],
+    "gamePk": 491665
+  },
+  {
+    "id": "2017-09-25-toronto-blue-jays-at-boston-red-sox",
+    "date": "2017-09-25",
+    "awayTeam": "Toronto Blue Jays",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 6,
+    "scorecardHomeScore": 4,
+    "officialAwayScore": 6,
+    "officialHomeScore": 4,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Toronto Blue Jays",
+        "src": "/scorecards/2017/scan-9.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2017/scan-10.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [],
+    "gamePk": 492442
+  },
+  {
+    "id": "2018-05-01-kansas-city-royals-at-boston-red-sox",
+    "date": "2018-05-01",
+    "awayTeam": "Kansas City Royals",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 7,
+    "scorecardHomeScore": 6,
+    "officialAwayScore": 7,
+    "officialHomeScore": 6,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Kansas City Royals",
+        "src": "/scorecards/2018/scan-1.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2018/scan-2.jpg"
+      }
+    ],
+    "scorers": [
+      "Charles",
+      "Dave"
+    ],
+    "notes": [],
+    "gamePk": 529845
+  },
+  {
+    "id": "2018-08-28-miami-marlins-at-boston-red-sox",
+    "date": "2018-08-28",
+    "awayTeam": "Miami Marlins",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 7,
+    "scorecardHomeScore": 8,
+    "officialAwayScore": 7,
+    "officialHomeScore": 8,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Miami Marlins",
+        "src": "/scorecards/2018/scan-4.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2018/scan-3.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [],
+    "gamePk": 531384
+  },
+  {
+    "id": "2019-05-15-colorado-rockies-at-boston-red-sox",
+    "date": "2019-05-15",
+    "awayTeam": "Colorado Rockies",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 5,
+    "scorecardHomeScore": 6,
+    "officialAwayScore": 5,
+    "officialHomeScore": 6,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Colorado Rockies",
+        "src": "/scorecards/2019/scan-2.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2019/scan-1.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave",
+      "Dave Brockmann",
+      "Paul"
+    ],
+    "notes": [
+      "Card notes Barnes allowed 3 inherited runners to score. In the 9th, Betts hit what would have been a game-tying double, but it bounced into the stands for a ground-rule double, so the runner had to stop at 3rd instead of scoring."
+    ],
+    "gamePk": 565047
+  },
+  {
+    "id": "2019-06-10-texas-rangers-at-boston-red-sox",
+    "date": "2019-06-10",
+    "awayTeam": "Texas Rangers",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 4,
+    "scorecardHomeScore": 3,
+    "officialAwayScore": 4,
+    "officialHomeScore": 3,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Texas Rangers",
+        "src": "/scorecards/2019/scan-3.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2019/scan-4.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [
+      "Disability Awareness Night. In the 6th, Santana appeared to have struck out on a check swing but the umpires ruled \"no swing.\" In the 9th, Mazara singled on a 3-1 count with the first baseman playing in - card notes he would have been out if the infield had been playing back.",
+      "In the 5th, Holt was thrown out by 30 feet on a Hernandez blooper trying to score from first - poor baserunning by Bogaerts and Chavis on the Devers double play, but card notes it was not a triple play."
+    ],
+    "gamePk": 565057
+  },
+  {
+    "id": "2019-07-30-tampa-bay-rays-at-boston-red-sox",
+    "date": "2019-07-30",
+    "awayTeam": "Tampa Bay Rays",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 6,
+    "scorecardHomeScore": 5,
+    "officialAwayScore": 6,
+    "officialHomeScore": 5,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Tampa Bay Rays",
+        "src": "/scorecards/2019/scan-5.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2019/scan-6.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [],
+    "gamePk": 565080
+  },
+  {
+    "id": "2019-09-18-san-francisco-giants-at-boston-red-sox",
+    "date": "2019-09-18",
+    "awayTeam": "San Francisco Giants",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston, MA",
+    "scorecardAwayScore": 11,
+    "scorecardHomeScore": 3,
+    "officialAwayScore": 11,
+    "officialHomeScore": 3,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "San Francisco Giants",
+        "src": "/scorecards/2019/scan-8.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2019/scan-7.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [],
+    "gamePk": 565103
+  },
+  {
+    "id": "2021-06-30-kansas-city-royals-at-boston-red-sox",
+    "date": "2021-06-30",
+    "awayTeam": "Kansas City Royals",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston, MA",
+    "scorecardAwayScore": 2,
+    "scorecardHomeScore": 5,
+    "officialAwayScore": 2,
+    "officialHomeScore": 6,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Kansas City Royals",
+        "src": "/scorecards/2021/scan-1.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2021/scan-2.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [
+      "Start delayed until 7:41 by thunder and lightning (77°). Card notes the game should have been resumed sooner than it was after a rain delay."
+    ],
+    "gamePk": 633467
+  },
+  {
+    "id": "2021-08-26-minnesota-twins-at-boston-red-sox",
+    "date": "2021-08-26",
+    "awayTeam": "Minnesota Twins",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston, MA",
+    "scorecardAwayScore": 2,
+    "scorecardHomeScore": 12,
+    "officialAwayScore": 2,
+    "officialHomeScore": 12,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Minnesota Twins",
+        "src": "/scorecards/2021/scan-3.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2021/scan-4.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [],
+    "gamePk": 632741
   },
   {
     "id": "2024-04-15-cleveland-guardians-at-boston-red-sox",

@@ -1,0 +1,16 @@
+[
+  {"file":"scan-1.jpg","date":"2017-04-14","location":"Fenway Park, Boston","lineupTeam":"Tampa Bay Rays","opponent":"Boston Red Sox","awayTeam":"Tampa Bay Rays","homeTeam":"Boston Red Sox","awayScore":10,"homeScore":5,"notes":""},
+  {"file":"scan-2.jpg","date":"2017-04-14","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Tampa Bay Rays","awayTeam":"Tampa Bay Rays","homeTeam":"Boston Red Sox","awayScore":10,"homeScore":5,"notes":""},
+
+  {"file":"scan-3.jpg","date":"2017-05-03","location":"Fenway Park, Boston","lineupTeam":"Baltimore Orioles","opponent":"Boston Red Sox","awayTeam":"Baltimore Orioles","homeTeam":"Boston Red Sox","awayScore":2,"homeScore":4,"notes":""},
+  {"file":"scan-4.jpg","date":"2017-05-03","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Baltimore Orioles","awayTeam":"Baltimore Orioles","homeTeam":"Boston Red Sox","awayScore":2,"homeScore":4,"notes":"Card notes umpire Sam Holbrook ejected Adam Jones for arguing a very poor check-swing/hit-by-pitch decision after Jones was hit by a pitch in the 5th inning."},
+
+  {"file":"scan-5.jpg","date":"2017-05-26","location":"Fenway Park, Boston","lineupTeam":"Seattle Mariners","opponent":"Boston Red Sox","awayTeam":"Seattle Mariners","homeTeam":"Boston Red Sox","awayScore":0,"homeScore":3,"notes":""},
+  {"file":"scan-6.jpg","date":"2017-05-26","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Seattle Mariners","awayTeam":"Seattle Mariners","homeTeam":"Boston Red Sox","awayScore":0,"homeScore":3,"notes":""},
+
+  {"file":"scan-7.jpg","date":"2017-07-30","location":"Fenway Park, Boston","lineupTeam":"Kansas City Royals","opponent":"Boston Red Sox","awayTeam":"Kansas City Royals","homeTeam":"Boston Red Sox","awayScore":5,"homeScore":3,"notes":""},
+  {"file":"scan-8.jpg","date":"2017-07-30","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Kansas City Royals","awayTeam":"Kansas City Royals","homeTeam":"Boston Red Sox","awayScore":5,"homeScore":3,"notes":""},
+
+  {"file":"scan-9.jpg","date":"2017-09-25","location":"Fenway Park, Boston","lineupTeam":"Toronto Blue Jays","opponent":"Boston Red Sox","awayTeam":"Toronto Blue Jays","homeTeam":"Boston Red Sox","awayScore":6,"homeScore":4,"notes":""},
+  {"file":"scan-10.jpg","date":"2017-09-25","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Toronto Blue Jays","awayTeam":"Toronto Blue Jays","homeTeam":"Boston Red Sox","awayScore":6,"homeScore":4,"notes":""}
+]

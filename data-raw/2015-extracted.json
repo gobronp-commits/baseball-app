@@ -1,0 +1,10 @@
+[
+  {"file":"scan-1.jpg","date":"2015-04-14","location":"Fenway Park, Boston","lineupTeam":"Washington Nationals","opponent":"Boston Red Sox","awayTeam":"Washington Nationals","homeTeam":"Boston Red Sox","awayScore":7,"homeScore":8,"notes":""},
+  {"file":"scan-2.jpg","date":"2015-04-14","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Washington Nationals","awayTeam":"Washington Nationals","homeTeam":"Boston Red Sox","awayScore":7,"homeScore":8,"notes":""},
+  {"file":"scan-3.jpg","date":"2015-04-17","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Baltimore Orioles","awayTeam":"Baltimore Orioles","homeTeam":"Boston Red Sox","awayScore":2,"homeScore":3,"notes":"Card notes umpire Jordan Baker ejected Orioles pitcher Ubaldo Jimenez for hitting Sandoval with a pitch, with no warning issued beforehand."},
+  {"file":"scan-4.jpg","date":"2015-04-17","location":"Fenway Park, Boston","lineupTeam":"Baltimore Orioles","opponent":"Boston Red Sox","awayTeam":"Baltimore Orioles","homeTeam":"Boston Red Sox","awayScore":2,"homeScore":3,"notes":""},
+  {"file":"scan-5.jpg","date":"2015-07-30","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Chicago White Sox","awayTeam":"Chicago White Sox","homeTeam":"Boston Red Sox","awayScore":2,"homeScore":8,"notes":""},
+  {"file":"scan-6.jpg","date":"2015-07-30","location":"Fenway Park, Boston","lineupTeam":"Chicago White Sox","opponent":"Boston Red Sox","awayTeam":"Chicago White Sox","homeTeam":"Boston Red Sox","awayScore":2,"homeScore":8,"notes":""},
+  {"file":"scan-7.jpg","date":"2015-09-09","location":"Fenway Park, Boston","lineupTeam":"Toronto Blue Jays","opponent":"Boston Red Sox","awayTeam":"Toronto Blue Jays","homeTeam":"Boston Red Sox","awayScore":4,"homeScore":10,"notes":"David Ortiz hit his 498th career home run in this game, a three-run shot capping a four-run third inning."},
+  {"file":"scan-8.jpg","date":"2015-09-09","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Toronto Blue Jays","awayTeam":"Toronto Blue Jays","homeTeam":"Boston Red Sox","awayScore":4,"homeScore":10,"notes":""}
+]

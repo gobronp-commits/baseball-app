@@ -16,6 +16,7 @@ const ALIASES = {
   "oakland athletics": "Athletics",
   "athletics": "Athletics",
   "cleveland guardians": "Cleveland Guardians",
+  "los angeles angels of anaheim": "Los Angeles Angels",
 };
 
 function findTeamId(name) {

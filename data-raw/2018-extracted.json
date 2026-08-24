@@ -1,0 +1,7 @@
+[
+  {"file":"scan-1.jpg","date":"2018-05-01","location":"Fenway Park, Boston","lineupTeam":"Kansas City Royals","opponent":"Boston Red Sox","awayTeam":"Kansas City Royals","homeTeam":"Boston Red Sox","awayScore":7,"homeScore":6,"notes":""},
+  {"file":"scan-2.jpg","date":"2018-05-01","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Kansas City Royals","awayTeam":"Kansas City Royals","homeTeam":"Boston Red Sox","awayScore":7,"homeScore":6,"notes":""},
+
+  {"file":"scan-3.jpg","date":"2018-08-28","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Miami Marlins","awayTeam":"Miami Marlins","homeTeam":"Boston Red Sox","awayScore":7,"homeScore":8,"notes":""},
+  {"file":"scan-4.jpg","date":"2018-08-28","location":"Fenway Park, Boston","lineupTeam":"Miami Marlins","opponent":"Boston Red Sox","awayTeam":"Miami Marlins","homeTeam":"Boston Red Sox","awayScore":7,"homeScore":8,"notes":""}
+]

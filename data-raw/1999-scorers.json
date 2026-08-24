@@ -1,3 +1,5 @@
 [
-  { "date": "1999-07-13", "awayTeam": "National League All-Stars", "homeTeam": "American League All-Stars", "scorerRaw": "Dave" }
+  { "date": "1999-07-13", "awayTeam": "National League All-Stars", "homeTeam": "American League All-Stars", "scorerRaw": "Dave" },
+  { "date": "1999-05-27", "awayTeam": "Boston Red Sox", "homeTeam": "New York Yankees", "scorerRaw": "Dave" },
+  { "date": "1999-08-04", "awayTeam": "Lynchburg Hillcats", "homeTeam": "Wilmington Blue Rocks", "scorerRaw": "Dave" }
 ]
