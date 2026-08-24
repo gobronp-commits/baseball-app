@@ -7,8 +7,8 @@
     "location": "Yankee Stadium, New York",
     "scorecardAwayScore": 9,
     "scorecardHomeScore": 4,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 9,
+    "officialHomeScore": 4,
     "scorecardImages": [
       {
         "side": "away",
@@ -25,7 +25,7 @@
       "Dave"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 217713
   },
   {
     "id": "1999-05-27-boston-red-sox-at-new-york-yankees",
@@ -35,8 +35,8 @@
     "location": "Yankee Stadium, New York",
     "scorecardAwayScore": 3,
     "scorecardHomeScore": 8,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 1,
+    "officialHomeScore": 4,
     "scorecardImages": [
       {
         "side": "away",
@@ -55,7 +55,7 @@
     "notes": [
       "Scored by D. Gobron. Umpires Reed, Barrett, Miller, Tschida."
     ],
-    "gamePk": null
+    "gamePk": 2004
   },
   {
     "id": "1999-07-13-national-league-all-stars-at-american-league-all-stars",
@@ -65,8 +65,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 1,
     "scorecardHomeScore": 4,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 1,
+    "officialHomeScore": 4,
     "scorecardImages": [
       {
         "side": "away",
@@ -85,7 +85,7 @@
     "notes": [
       "1999 MLB All-Star Game. Pedro Martinez (Red Sox) named MVP, striking out 5 of the 6 batters he faced (including the first four in a row: Barry Larkin, Larry Walker, Sammy Sosa, Mark McGwire)."
     ],
-    "gamePk": null
+    "gamePk": 2480
   },
   {
     "id": "1999-08-04-lynchburg-hillcats-at-wilmington-blue-rocks",
@@ -158,8 +158,8 @@
     "location": "Olympic Stadium, Montreal, QC",
     "scorecardAwayScore": 2,
     "scorecardHomeScore": 4,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 2,
+    "officialHomeScore": 4,
     "scorecardImages": [
       {
         "side": "away",
@@ -179,7 +179,7 @@
       "Played indoors (Olympic Stadium's retractable roof closed). Jake Peavy started for San Diego.",
       "Livan Hernandez pitched a complete game for Montreal (7+ IP shown, win)."
     ],
-    "gamePk": null
+    "gamePk": 15829
   },
   {
     "id": "2003-07-18-chatham-athletics-at-brewster-whitecaps",
@@ -220,8 +220,8 @@
     "location": "SkyDome, Toronto, ON",
     "scorecardAwayScore": 4,
     "scorecardHomeScore": 2,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 4,
+    "officialHomeScore": 2,
     "scorecardImages": [
       {
         "side": "away",
@@ -240,7 +240,7 @@
     "notes": [
       "Tim Wakefield pitched 6 2/3 innings for the win."
     ],
-    "gamePk": null
+    "gamePk": 20227
   },
   {
     "id": "2004-06-03-battle-creek-yankees-at-dayton-dragons",
@@ -312,8 +312,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 4,
     "scorecardHomeScore": 8,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 4,
+    "officialHomeScore": 8,
     "scorecardImages": [
       {
         "side": "away",
@@ -330,7 +330,7 @@
       "Dave"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 68297
   },
   {
     "id": "2007-08-31-baltimore-orioles-at-boston-red-sox",
@@ -340,8 +340,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 9,
     "scorecardHomeScore": 8,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 9,
+    "officialHomeScore": 8,
     "scorecardImages": [
       {
         "side": "away",
@@ -358,7 +358,7 @@
       "Dave"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 70136
   },
   {
     "id": "2008-04-19-texas-rangers-at-boston-red-sox",
@@ -368,8 +368,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 3,
     "scorecardHomeScore": 5,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 3,
+    "officialHomeScore": 5,
     "scorecardImages": [
       {
         "side": "away",
@@ -386,7 +386,7 @@
       "Dave"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 234026
   },
   {
     "id": "2008-08-05-hyannis-mets-at-chatham-athletics",
@@ -427,8 +427,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 2,
     "scorecardHomeScore": 14,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 2,
+    "officialHomeScore": 14,
     "scorecardImages": [
       {
         "side": "away",
@@ -448,7 +448,7 @@
     "notes": [
       "Jon Lester started. Neither card's Team Totals box was filled in by the scorer, so the score here is the official MLB record (Orioles 2, Red Sox 14) rather than a hand tally."
     ],
-    "gamePk": null
+    "gamePk": 235822
   },
   {
     "id": "2009-09-16-los-angeles-angels-at-boston-red-sox",
@@ -458,8 +458,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 8,
     "scorecardHomeScore": 9,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 8,
+    "officialHomeScore": 9,
     "scorecardImages": [
       {
         "side": "away",
@@ -476,7 +476,7 @@
       "Dave"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 246363
   },
   {
     "id": "2010-06-01-oakland-athletics-at-boston-red-sox",
@@ -486,8 +486,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 4,
     "scorecardHomeScore": 9,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 4,
+    "officialHomeScore": 9,
     "scorecardImages": [
       {
         "side": "away",
@@ -504,7 +504,7 @@
       "Dave"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 264589
   },
   {
     "id": "2010-08-02-pittsfield-colonials-at-worcester-tornadoes",
@@ -542,8 +542,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 4,
     "scorecardHomeScore": 10,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 4,
+    "officialHomeScore": 10,
     "scorecardImages": [
       {
         "side": "away",
@@ -562,7 +562,7 @@
       "Doug"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 287954
   },
   {
     "id": "2011-09-19-baltimore-orioles-at-boston-red-sox",
@@ -572,8 +572,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 9,
     "scorecardHomeScore": 18,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 9,
+    "officialHomeScore": 18,
     "scorecardImages": [
       {
         "side": "away",
@@ -592,7 +592,7 @@
     "notes": [
       "Game 2 of a day-night doubleheader (7:10pm start per the card) - the Orioles won the 1:05pm game 1 earlier that day 3-1; this scorecard is the nightcap, which the Red Sox won 18-9."
     ],
-    "gamePk": null
+    "gamePk": 289190
   },
   {
     "id": "2011-09-21-baltimore-orioles-at-boston-red-sox",
@@ -602,8 +602,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 6,
     "scorecardHomeScore": 4,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 6,
+    "officialHomeScore": 4,
     "scorecardImages": [
       {
         "side": "away",
@@ -624,7 +624,7 @@
     "notes": [
       "Red Sox's last regular-season home game of 2011 - they closed out the season on the road at New York and Baltimore, capped by the September 28 collapse loss in Baltimore that eliminated them from playoff contention."
     ],
-    "gamePk": null
+    "gamePk": 289213
   },
   {
     "id": "2012-05-01-oakland-athletics-at-boston-red-sox",
@@ -634,8 +634,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 5,
     "scorecardHomeScore": 3,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 5,
+    "officialHomeScore": 3,
     "scorecardImages": [
       {
         "side": "away",
@@ -653,7 +653,7 @@
       "Doug"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 318085
   },
   {
     "id": "2012-05-06-baltimore-orioles-at-boston-red-sox",
@@ -663,8 +663,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 9,
     "scorecardHomeScore": 6,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 9,
+    "officialHomeScore": 6,
     "scorecardImages": [
       {
         "side": "away",
@@ -696,7 +696,7 @@
     "notes": [
       "17-inning marathon - the scorecard runs to a continuation sheet for the extra innings."
     ],
-    "gamePk": null
+    "gamePk": 318146
   },
   {
     "id": "2013-04-14-tampa-bay-rays-at-boston-red-sox",
@@ -706,8 +706,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 0,
     "scorecardHomeScore": 5,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 0,
+    "officialHomeScore": 5,
     "scorecardImages": [
       {
         "side": "away",
@@ -727,7 +727,7 @@
       "Doug"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 346922
   },
   {
     "id": "2013-04-25-houston-astros-at-boston-red-sox",
@@ -737,8 +737,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 2,
     "scorecardHomeScore": 7,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 2,
+    "officialHomeScore": 7,
     "scorecardImages": [
       {
         "side": "away",
@@ -758,7 +758,7 @@
     "notes": [
       "Card notes the Astros as \"(AL)\" - 2013 was their first season in the American League after moving from the NL."
     ],
-    "gamePk": null
+    "gamePk": 347067
   },
   {
     "id": "2013-06-02-boston-red-sox-at-new-york-yankees",
@@ -768,8 +768,8 @@
     "location": "Yankee Stadium, New York",
     "scorecardAwayScore": 3,
     "scorecardHomeScore": 0,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 3,
+    "officialHomeScore": 0,
     "scorecardImages": [
       {
         "side": "away",
@@ -792,7 +792,7 @@
     "notes": [
       "Delayed 45 minutes by lightning; started 6th inning after a further delay for possibility of a thunderstorm. Clay Buchholz pitched a complete-game shutout."
     ],
-    "gamePk": null
+    "gamePk": 347585
   },
   {
     "id": "2014-04-07-texas-rangers-at-boston-red-sox",
@@ -802,8 +802,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 1,
     "scorecardHomeScore": 5,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 1,
+    "officialHomeScore": 5,
     "scorecardImages": [
       {
         "side": "away",
@@ -821,7 +821,7 @@
       "Charles"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 380642
   },
   {
     "id": "2014-05-06-cincinnati-reds-at-boston-red-sox",
@@ -831,8 +831,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 3,
     "scorecardHomeScore": 4,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 3,
+    "officialHomeScore": 4,
     "scorecardImages": [
       {
         "side": "away",
@@ -851,7 +851,7 @@
     "notes": [
       "Went to extra innings - Grady Sizemore's walk-off single in the 12th drove in David Ortiz for the win."
     ],
-    "gamePk": null
+    "gamePk": 381024
   },
   {
     "id": "2014-09-06-toronto-blue-jays-at-boston-red-sox",
@@ -861,8 +861,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 3,
     "scorecardHomeScore": 4,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 3,
+    "officialHomeScore": 4,
     "scorecardImages": [
       {
         "side": "away",
@@ -882,7 +882,7 @@
       "Card notes a delay expected for thunderstorms that never materialized.",
       "Card notes the game started late."
     ],
-    "gamePk": null
+    "gamePk": 382663
   },
   {
     "id": "2015-04-14-washington-nationals-at-boston-red-sox",
@@ -892,8 +892,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 7,
     "scorecardHomeScore": 8,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 7,
+    "officialHomeScore": 8,
     "scorecardImages": [
       {
         "side": "away",
@@ -911,7 +911,7 @@
       "Charles"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 413767
   },
   {
     "id": "2015-04-17-baltimore-orioles-at-boston-red-sox",
@@ -921,8 +921,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 2,
     "scorecardHomeScore": 3,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 2,
+    "officialHomeScore": 3,
     "scorecardImages": [
       {
         "side": "away",
@@ -941,7 +941,7 @@
     "notes": [
       "Card notes umpire Jordan Baker ejected Orioles pitcher Ubaldo Jimenez for hitting Sandoval with a pitch, with no warning issued beforehand."
     ],
-    "gamePk": null
+    "gamePk": 413792
   },
   {
     "id": "2015-07-30-chicago-white-sox-at-boston-red-sox",
@@ -951,8 +951,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 2,
     "scorecardHomeScore": 8,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 2,
+    "officialHomeScore": 8,
     "scorecardImages": [
       {
         "side": "away",
@@ -969,7 +969,7 @@
       "Dave"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 415170
   },
   {
     "id": "2015-09-09-toronto-blue-jays-at-boston-red-sox",
@@ -979,8 +979,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 4,
     "scorecardHomeScore": 10,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 4,
+    "officialHomeScore": 10,
     "scorecardImages": [
       {
         "side": "away",
@@ -999,7 +999,7 @@
     "notes": [
       "David Ortiz hit his 498th career home run in this game, a three-run shot capping a four-run third inning."
     ],
-    "gamePk": null
+    "gamePk": 415740
   },
   {
     "id": "2016-08-12-arizona-diamondbacks-at-boston-red-sox",
@@ -1009,8 +1009,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 4,
     "scorecardHomeScore": 9,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 4,
+    "officialHomeScore": 9,
     "scorecardImages": [
       {
         "side": "away",
@@ -1027,7 +1027,7 @@
       "Dave"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 448582
   },
   {
     "id": "2017-04-14-tampa-bay-rays-at-boston-red-sox",
@@ -1037,8 +1037,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 10,
     "scorecardHomeScore": 5,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 10,
+    "officialHomeScore": 5,
     "scorecardImages": [
       {
         "side": "away",
@@ -1055,7 +1055,7 @@
       "Dave"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 490253
   },
   {
     "id": "2017-05-03-baltimore-orioles-at-boston-red-sox",
@@ -1065,8 +1065,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 2,
     "scorecardHomeScore": 4,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 2,
+    "officialHomeScore": 4,
     "scorecardImages": [
       {
         "side": "away",
@@ -1085,7 +1085,7 @@
     "notes": [
       "Card notes umpire Sam Holbrook ejected Adam Jones for arguing a very poor check-swing/hit-by-pitch decision after Jones was hit by a pitch in the 5th inning."
     ],
-    "gamePk": null
+    "gamePk": 490502
   },
   {
     "id": "2017-05-26-seattle-mariners-at-boston-red-sox",
@@ -1095,8 +1095,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 0,
     "scorecardHomeScore": 3,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 0,
+    "officialHomeScore": 3,
     "scorecardImages": [
       {
         "side": "away",
@@ -1113,7 +1113,7 @@
       "Dave"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 490825
   },
   {
     "id": "2017-07-30-kansas-city-royals-at-boston-red-sox",
@@ -1123,8 +1123,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 5,
     "scorecardHomeScore": 3,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 5,
+    "officialHomeScore": 3,
     "scorecardImages": [
       {
         "side": "away",
@@ -1141,7 +1141,7 @@
       "Dave"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 491665
   },
   {
     "id": "2017-09-25-toronto-blue-jays-at-boston-red-sox",
@@ -1151,8 +1151,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 6,
     "scorecardHomeScore": 4,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 6,
+    "officialHomeScore": 4,
     "scorecardImages": [
       {
         "side": "away",
@@ -1169,7 +1169,7 @@
       "Dave"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 492442
   },
   {
     "id": "2018-05-01-kansas-city-royals-at-boston-red-sox",
@@ -1179,8 +1179,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 7,
     "scorecardHomeScore": 6,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 7,
+    "officialHomeScore": 6,
     "scorecardImages": [
       {
         "side": "away",
@@ -1198,7 +1198,7 @@
       "Dave"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 529845
   },
   {
     "id": "2018-08-28-miami-marlins-at-boston-red-sox",
@@ -1208,8 +1208,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 7,
     "scorecardHomeScore": 8,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 7,
+    "officialHomeScore": 8,
     "scorecardImages": [
       {
         "side": "away",
@@ -1226,7 +1226,7 @@
       "Dave"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 531384
   },
   {
     "id": "2019-05-15-colorado-rockies-at-boston-red-sox",
@@ -1236,8 +1236,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 5,
     "scorecardHomeScore": 6,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 5,
+    "officialHomeScore": 6,
     "scorecardImages": [
       {
         "side": "away",
@@ -1258,7 +1258,7 @@
     "notes": [
       "Card notes Barnes allowed 3 inherited runners to score. In the 9th, Betts hit what would have been a game-tying double, but it bounced into the stands for a ground-rule double, so the runner had to stop at 3rd instead of scoring."
     ],
-    "gamePk": null
+    "gamePk": 565047
   },
   {
     "id": "2019-06-10-texas-rangers-at-boston-red-sox",
@@ -1268,8 +1268,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 4,
     "scorecardHomeScore": 3,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 4,
+    "officialHomeScore": 3,
     "scorecardImages": [
       {
         "side": "away",
@@ -1289,7 +1289,7 @@
       "Disability Awareness Night. In the 6th, Santana appeared to have struck out on a check swing but the umpires ruled \"no swing.\" In the 9th, Mazara singled on a 3-1 count with the first baseman playing in - card notes he would have been out if the infield had been playing back.",
       "In the 5th, Holt was thrown out by 30 feet on a Hernandez blooper trying to score from first - poor baserunning by Bogaerts and Chavis on the Devers double play, but card notes it was not a triple play."
     ],
-    "gamePk": null
+    "gamePk": 565057
   },
   {
     "id": "2019-07-30-tampa-bay-rays-at-boston-red-sox",
@@ -1299,8 +1299,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 6,
     "scorecardHomeScore": 5,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 6,
+    "officialHomeScore": 5,
     "scorecardImages": [
       {
         "side": "away",
@@ -1317,7 +1317,7 @@
       "Dave"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 565080
   },
   {
     "id": "2019-09-18-san-francisco-giants-at-boston-red-sox",
@@ -1327,8 +1327,8 @@
     "location": "Fenway Park, Boston, MA",
     "scorecardAwayScore": 11,
     "scorecardHomeScore": 3,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 11,
+    "officialHomeScore": 3,
     "scorecardImages": [
       {
         "side": "away",
@@ -1345,7 +1345,7 @@
       "Dave"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 565103
   },
   {
     "id": "2021-06-30-kansas-city-royals-at-boston-red-sox",
@@ -1355,8 +1355,8 @@
     "location": "Fenway Park, Boston, MA",
     "scorecardAwayScore": 2,
     "scorecardHomeScore": 5,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 2,
+    "officialHomeScore": 6,
     "scorecardImages": [
       {
         "side": "away",
@@ -1375,7 +1375,7 @@
     "notes": [
       "Start delayed until 7:41 by thunder and lightning (77°). Card notes the game should have been resumed sooner than it was after a rain delay."
     ],
-    "gamePk": null
+    "gamePk": 633467
   },
   {
     "id": "2021-08-26-minnesota-twins-at-boston-red-sox",
@@ -1385,8 +1385,8 @@
     "location": "Fenway Park, Boston, MA",
     "scorecardAwayScore": 2,
     "scorecardHomeScore": 12,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 2,
+    "officialHomeScore": 12,
     "scorecardImages": [
       {
         "side": "away",
@@ -1403,7 +1403,7 @@
       "Dave"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 632741
   },
   {
     "id": "2024-04-15-cleveland-guardians-at-boston-red-sox",
@@ -1413,8 +1413,8 @@
     "location": "Fenway Park, Boston, MA",
     "scorecardAwayScore": 6,
     "scorecardHomeScore": 0,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 6,
+    "officialHomeScore": 0,
     "scorecardImages": [
       {
         "side": "away",
@@ -1437,7 +1437,7 @@
       "Jackie Robinson Day — every player wore #42.",
       "Paul's 35th Birthday."
     ],
-    "gamePk": null
+    "gamePk": 746974
   },
   {
     "id": "2024-04-28-chicago-cubs-at-boston-red-sox",
@@ -1447,8 +1447,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 4,
     "scorecardHomeScore": 5,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 4,
+    "officialHomeScore": 5,
     "scorecardImages": [
       {
         "side": "away",
@@ -1468,7 +1468,7 @@
       "Ben"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 746967
   },
   {
     "id": "2024-05-02-san-francisco-giants-at-boston-red-sox",
@@ -1478,8 +1478,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 3,
     "scorecardHomeScore": 1,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 3,
+    "officialHomeScore": 1,
     "scorecardImages": [
       {
         "side": "away",
@@ -1498,7 +1498,7 @@
       "Charles"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 746969
   },
   {
     "id": "2024-05-12-washington-nationals-at-boston-red-sox",
@@ -1508,8 +1508,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 2,
     "scorecardHomeScore": 3,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 2,
+    "officialHomeScore": 3,
     "scorecardImages": [
       {
         "side": "away",
@@ -1529,7 +1529,7 @@
       "Laura 1"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 746965
   },
   {
     "id": "2024-05-15-tampa-bay-rays-at-boston-red-sox",
@@ -1539,8 +1539,8 @@
     "location": "Fenway Park, Boston, MA",
     "scorecardAwayScore": 4,
     "scorecardHomeScore": 3,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 4,
+    "officialHomeScore": 3,
     "scorecardImages": [
       {
         "side": "away",
@@ -1562,7 +1562,7 @@
     "notes": [
       "Tanner Houck left the game with 2 outs in the 6th inning with the Sox leading 2-1. Weisert allowed both inherited runners to score, plus more. Devers' error on Caballero's steal attempt allowed Siri to advance to 2nd base, and he scored the 4th run on a single."
     ],
-    "gamePk": null
+    "gamePk": 746960
   },
   {
     "id": "2024-05-25-milwaukee-brewers-at-boston-red-sox",
@@ -1572,8 +1572,8 @@
     "location": "Fenway Park, Boston, MA",
     "scorecardAwayScore": 6,
     "scorecardHomeScore": 3,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 6,
+    "officialHomeScore": 3,
     "scorecardImages": [
       {
         "side": "away",
@@ -1591,7 +1591,7 @@
       "Laura"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 746958
   },
   {
     "id": "2024-05-30-detroit-tigers-at-boston-red-sox",
@@ -1601,8 +1601,8 @@
     "location": "Fenway Park, Boston, MA",
     "scorecardAwayScore": 5,
     "scorecardHomeScore": 0,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 5,
+    "officialHomeScore": 0,
     "scorecardImages": [
       {
         "side": "away",
@@ -1620,7 +1620,7 @@
       "Laura"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 746954
   },
   {
     "id": "2024-06-04-atlanta-braves-at-boston-red-sox",
@@ -1630,8 +1630,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 8,
     "scorecardHomeScore": 3,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 8,
+    "officialHomeScore": 3,
     "scorecardImages": [
       {
         "side": "away",
@@ -1650,7 +1650,7 @@
       "Charles"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 746949
   },
   {
     "id": "2024-06-28-san-diego-padres-at-boston-red-sox",
@@ -1660,8 +1660,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 9,
     "scorecardHomeScore": 2,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 9,
+    "officialHomeScore": 2,
     "scorecardImages": [
       {
         "side": "away",
@@ -1681,7 +1681,7 @@
     "notes": [
       "Pivetta left in the 5th inning, 2-1 Padres, bases loaded no outs."
     ],
-    "gamePk": null
+    "gamePk": 746939
   },
   {
     "id": "2024-07-09-oakland-athletics-at-boston-red-sox",
@@ -1691,8 +1691,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 9,
     "scorecardHomeScore": 12,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 9,
+    "officialHomeScore": 12,
     "scorecardImages": [
       {
         "side": "away",
@@ -1710,7 +1710,7 @@
       "Laura"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 746937
   },
   {
     "id": "2024-07-14-kansas-city-royals-at-boston-red-sox",
@@ -1720,8 +1720,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 4,
     "scorecardHomeScore": 5,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 4,
+    "officialHomeScore": 5,
     "scorecardImages": [
       {
         "side": "away",
@@ -1742,7 +1742,7 @@
     "notes": [
       "Ezra ran the bases after the game."
     ],
-    "gamePk": null
+    "gamePk": 746932
   },
   {
     "id": "2024-07-29-seattle-mariners-at-boston-red-sox",
@@ -1752,8 +1752,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 7,
     "scorecardHomeScore": 14,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 7,
+    "officialHomeScore": 14,
     "scorecardImages": [
       {
         "side": "away",
@@ -1773,7 +1773,7 @@
     "notes": [
       "Bob Ryan nearby (possible imposter)."
     ],
-    "gamePk": null
+    "gamePk": 746928
   },
   {
     "id": "2024-08-13-texas-rangers-at-boston-red-sox",
@@ -1783,8 +1783,8 @@
     "location": "Fenway Park, STH Party",
     "scorecardAwayScore": 4,
     "scorecardHomeScore": 9,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 4,
+    "officialHomeScore": 9,
     "scorecardImages": [
       {
         "side": "away",
@@ -1802,7 +1802,7 @@
       "Laura"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 746924
   },
   {
     "id": "2024-08-14-texas-rangers-at-boston-red-sox",
@@ -1812,8 +1812,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 9,
     "scorecardHomeScore": 7,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 9,
+    "officialHomeScore": 7,
     "scorecardImages": [
       {
         "side": "home",
@@ -1826,7 +1826,7 @@
       "Paul"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 746919
   },
   {
     "id": "2024-08-26-toronto-blue-jays-at-boston-red-sox",
@@ -1836,8 +1836,8 @@
     "location": "Fenway Park, Boston, MA",
     "scorecardAwayScore": 7,
     "scorecardHomeScore": 3,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 7,
+    "officialHomeScore": 3,
     "scorecardImages": [
       {
         "side": "away",
@@ -1857,7 +1857,7 @@
       "Doug"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 746915
   },
   {
     "id": "2024-09-08-chicago-white-sox-at-boston-red-sox",
@@ -1867,8 +1867,8 @@
     "location": "Fenway Park, Boston",
     "scorecardAwayScore": 7,
     "scorecardHomeScore": 2,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 7,
+    "officialHomeScore": 2,
     "scorecardImages": [
       {
         "side": "away",
@@ -1886,7 +1886,7 @@
       "Laura"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 746910
   },
   {
     "id": "2024-09-11-baltimore-orioles-at-boston-red-sox",
@@ -1896,8 +1896,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 3,
     "scorecardHomeScore": 2,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 3,
+    "officialHomeScore": 5,
     "scorecardImages": [
       {
         "side": "away",
@@ -1915,7 +1915,7 @@
       "Laura"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 746908
   },
   {
     "id": "2024-09-27-tampa-bay-rays-at-boston-red-sox",
@@ -1925,8 +1925,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 2,
     "scorecardHomeScore": 1,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 2,
+    "officialHomeScore": 1,
     "scorecardImages": [
       {
         "side": "away",
@@ -1945,7 +1945,7 @@
       "Laura"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 746904
   },
   {
     "id": "2025-04-18-chicago-white-sox-at-boston-red-sox",
@@ -1955,8 +1955,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 3,
     "scorecardHomeScore": 10,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 3,
+    "officialHomeScore": 10,
     "scorecardImages": [
       {
         "side": "away",
@@ -1976,7 +1976,7 @@
     "notes": [
       "Weather: 60F, wind 20mph out to center."
     ],
-    "gamePk": null
+    "gamePk": 778275
   },
   {
     "id": "2025-04-22-seattle-mariners-at-boston-red-sox",
@@ -1986,8 +1986,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 3,
     "scorecardHomeScore": 8,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 3,
+    "officialHomeScore": 8,
     "scorecardImages": [
       {
         "side": "away",
@@ -2009,7 +2009,7 @@
     "notes": [
       "Happy Birthday Charles!"
     ],
-    "gamePk": null
+    "gamePk": 778224
   },
   {
     "id": "2025-05-02-minnesota-twins-at-boston-red-sox",
@@ -2019,8 +2019,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 1,
     "scorecardHomeScore": 6,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 1,
+    "officialHomeScore": 6,
     "scorecardImages": [
       {
         "side": "away",
@@ -2040,7 +2040,7 @@
       "Charles"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 778089
   },
   {
     "id": "2025-05-04-minnesota-twins-at-boston-red-sox",
@@ -2050,8 +2050,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 5,
     "scorecardHomeScore": 4,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 5,
+    "officialHomeScore": 4,
     "scorecardImages": [
       {
         "side": "away",
@@ -2072,7 +2072,7 @@
     "notes": [
       "Weather: rain showers, 80 to 65F."
     ],
-    "gamePk": null
+    "gamePk": 778063
   },
   {
     "id": "2025-05-08-texas-rangers-at-boston-red-sox",
@@ -2082,8 +2082,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 0,
     "scorecardHomeScore": 5,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 0,
+    "officialHomeScore": 5,
     "scorecardImages": [
       {
         "side": "away",
@@ -2103,7 +2103,7 @@
       "Charles"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 778006
   },
   {
     "id": "2025-05-18-atlanta-braves-at-boston-red-sox",
@@ -2113,8 +2113,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 10,
     "scorecardHomeScore": 4,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 10,
+    "officialHomeScore": 4,
     "scorecardImages": [
       {
         "side": "away",
@@ -2135,7 +2135,7 @@
     "notes": [
       "Weather: cloudy, light rain."
     ],
-    "gamePk": null
+    "gamePk": 777876
   },
   {
     "id": "2025-05-24-baltimore-orioles-at-boston-red-sox",
@@ -2145,8 +2145,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 2,
     "scorecardHomeScore": 1,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 2,
+    "officialHomeScore": 1,
     "scorecardImages": [
       {
         "side": "away",
@@ -2164,7 +2164,7 @@
       "Paul"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 777790
   },
   {
     "id": "2025-06-02-los-angeles-angels-at-boston-red-sox",
@@ -2174,8 +2174,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 7,
     "scorecardHomeScore": 6,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 7,
+    "officialHomeScore": 6,
     "scorecardImages": [
       {
         "side": "away",
@@ -2195,7 +2195,7 @@
       "Elise"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 777670
   },
   {
     "id": "2025-06-13-new-york-yankees-at-boston-red-sox",
@@ -2205,8 +2205,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 1,
     "scorecardHomeScore": 2,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 1,
+    "officialHomeScore": 2,
     "scorecardImages": [
       {
         "side": "away",
@@ -2226,7 +2226,7 @@
       "Andrew"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 777537
   },
   {
     "id": "2025-06-30-cincinnati-reds-at-boston-red-sox",
@@ -2236,8 +2236,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 6,
     "scorecardHomeScore": 13,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 6,
+    "officialHomeScore": 13,
     "scorecardImages": [
       {
         "side": "away",
@@ -2259,7 +2259,7 @@
     "notes": [
       "5th inning: Abreu hit an inside-the-park grand slam."
     ],
-    "gamePk": null
+    "gamePk": 777300
   },
   {
     "id": "2025-07-07-colorado-rockies-at-boston-red-sox",
@@ -2269,8 +2269,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 3,
     "scorecardHomeScore": 9,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 3,
+    "officialHomeScore": 9,
     "scorecardImages": [
       {
         "side": "away",
@@ -2292,7 +2292,7 @@
     "notes": [
       "1st inning: Nate Eaton's double should have been a HR — hit the ladder."
     ],
-    "gamePk": null
+    "gamePk": 777209
   },
   {
     "id": "2025-07-12-tampa-bay-rays-at-boston-red-sox",
@@ -2302,8 +2302,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 0,
     "scorecardHomeScore": 1,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 0,
+    "officialHomeScore": 1,
     "scorecardImages": [
       {
         "side": "away",
@@ -2323,7 +2323,7 @@
     "notes": [
       "Complete-game shutout: Crochet pitched all 9 innings."
     ],
-    "gamePk": null
+    "gamePk": 777144
   },
   {
     "id": "2025-07-25-los-angeles-dodgers-at-boston-red-sox",
@@ -2333,8 +2333,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 5,
     "scorecardHomeScore": 2,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 5,
+    "officialHomeScore": 2,
     "scorecardImages": [
       {
         "side": "away",
@@ -2355,7 +2355,7 @@
       "15,000 Dodgers fans in attendance. Weather: 85°, very humid, thunder/showers before the game, 3mph out to left.",
       "A rainbow appeared in the bottom of the 1st and 2nd innings."
     ],
-    "gamePk": null
+    "gamePk": 777012
   },
   {
     "id": "2025-08-01-houston-astros-at-boston-red-sox",
@@ -2365,8 +2365,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 1,
     "scorecardHomeScore": 2,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 1,
+    "officialHomeScore": 2,
     "scorecardImages": [
       {
         "side": "away",
@@ -2386,7 +2386,7 @@
     "notes": [
       "Extra innings (10). 10th: Story threw out McCormick at home."
     ],
-    "gamePk": null
+    "gamePk": 776922
   },
   {
     "id": "2025-08-05-kansas-city-royals-at-boston-red-sox",
@@ -2396,8 +2396,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 2,
     "scorecardHomeScore": 6,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 2,
+    "officialHomeScore": 6,
     "scorecardImages": [
       {
         "side": "away",
@@ -2415,7 +2415,7 @@
       "Jim"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 776864
   },
   {
     "id": "2025-08-17-miami-marlins-at-boston-red-sox",
@@ -2425,8 +2425,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 5,
     "scorecardHomeScore": 3,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 5,
+    "officialHomeScore": 3,
     "scorecardImages": [
       {
         "side": "away",
@@ -2448,7 +2448,7 @@
     "notes": [
       "Weather: hot! 5 mph out to center."
     ],
-    "gamePk": null
+    "gamePk": 776714
   },
   {
     "id": "2025-09-01-cleveland-guardians-at-boston-red-sox",
@@ -2458,8 +2458,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 4,
     "scorecardHomeScore": 6,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 4,
+    "officialHomeScore": 6,
     "scorecardImages": [
       {
         "side": "home",
@@ -2475,7 +2475,7 @@
       "Lauren"
     ],
     "notes": [],
-    "gamePk": null
+    "gamePk": 776505
   },
   {
     "id": "2025-09-14-new-york-yankees-at-boston-red-sox",
@@ -2485,8 +2485,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 4,
     "scorecardHomeScore": 6,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 4,
+    "officialHomeScore": 6,
     "scorecardImages": [
       {
         "side": "away",
@@ -2509,7 +2509,7 @@
       "Sunday Night Baseball. Vineyard Vines program, 8x4x.",
       "Weather: beautiful. Bobby Williams was also at the game."
     ],
-    "gamePk": null
+    "gamePk": 776330
   },
   {
     "id": "2025-09-18-athletics-at-boston-red-sox",
@@ -2519,8 +2519,8 @@
     "location": "Fenway Park",
     "scorecardAwayScore": 5,
     "scorecardHomeScore": 3,
-    "officialAwayScore": null,
-    "officialHomeScore": null,
+    "officialAwayScore": 5,
+    "officialHomeScore": 3,
     "scorecardImages": [
       {
         "side": "away",
@@ -2542,6 +2542,6 @@
     "notes": [
       "Weather: perfect! Also noted on the card: the Athletics have called Philadelphia, Kansas City, and Oakland home — now Sacramento, with Las Vegas next."
     ],
-    "gamePk": null
+    "gamePk": 776281
   }
 ]

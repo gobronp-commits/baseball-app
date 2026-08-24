@@ -17,6 +17,7 @@ const ALIASES = {
   "athletics": "Athletics",
   "cleveland guardians": "Cleveland Guardians",
   "los angeles angels of anaheim": "Los Angeles Angels",
+  "montreal expos": "Washington Nationals",
 };
 
 function findTeamId(name) {
