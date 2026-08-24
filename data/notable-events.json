@@ -1,0 +1,62 @@
+[
+  {
+    "gameId": "1999-07-13-national-league-all-stars-at-american-league-all-stars",
+    "category": "Milestone",
+    "description": "Pedro Martinez named All-Star Game MVP, striking out 5 of the 6 batters he faced - including the first four in a row: Barry Larkin, Larry Walker, Sammy Sosa, and Mark McGwire."
+  },
+  {
+    "gameId": "2012-05-06-baltimore-orioles-at-boston-red-sox",
+    "category": "Marathon Game",
+    "description": "17-inning marathon - the scorecard runs to a continuation sheet for the extra innings."
+  },
+  {
+    "gameId": "2013-06-02-boston-red-sox-at-new-york-yankees",
+    "category": "Great Performance",
+    "description": "Delayed 45 minutes by lightning and again for the threat of a thunderstorm before the 6th, Clay Buchholz pitched a complete-game shutout."
+  },
+  {
+    "gameId": "2014-05-06-cincinnati-reds-at-boston-red-sox",
+    "category": "Walk-Off",
+    "description": "Went to extra innings - Grady Sizemore's walk-off single in the 12th drove in David Ortiz for the win."
+  },
+  {
+    "gameId": "2015-04-17-baltimore-orioles-at-boston-red-sox",
+    "category": "Ejection",
+    "description": "Umpire Jordan Baker ejected Orioles pitcher Ubaldo Jimenez for hitting Pablo Sandoval with a pitch, with no warning issued beforehand."
+  },
+  {
+    "gameId": "2015-09-09-toronto-blue-jays-at-boston-red-sox",
+    "category": "Milestone",
+    "description": "David Ortiz hit his 498th career home run, a three-run shot capping a four-run third inning."
+  },
+  {
+    "gameId": "2017-05-03-baltimore-orioles-at-boston-red-sox",
+    "category": "Ejection",
+    "description": "Umpire Sam Holbrook ejected Orioles outfielder Adam Jones for arguing a check-swing/hit-by-pitch call after Jones was hit by a pitch in the 5th inning."
+  },
+  {
+    "gameId": "2019-05-15-colorado-rockies-at-boston-red-sox",
+    "category": "Quirky Play",
+    "description": "In the 9th, Mookie Betts hit what would have been a game-tying double, but it bounced into the stands for a ground-rule double instead, stranding the tying run at third."
+  },
+  {
+    "gameId": "2025-06-30-cincinnati-reds-at-boston-red-sox",
+    "category": "Milestone",
+    "description": "Wilyer Abreu hit an inside-the-park grand slam in the 5th inning - one of the rarest plays in baseball."
+  },
+  {
+    "gameId": "2025-07-07-colorado-rockies-at-boston-red-sox",
+    "category": "Quirky Play",
+    "description": "In the 1st inning, Nate Eaton's would-be home run hit the ladder on the Green Monster and was ruled a double instead."
+  },
+  {
+    "gameId": "2025-07-12-tampa-bay-rays-at-boston-red-sox",
+    "category": "Great Performance",
+    "description": "Garrett Crochet pitched a complete-game shutout, all 9 innings."
+  },
+  {
+    "gameId": "2025-08-01-houston-astros-at-boston-red-sox",
+    "category": "Great Performance",
+    "description": "Game went to extra innings (10) - in the 10th, Trevor Story threw out Chas McCormick at home plate."
+  }
+]

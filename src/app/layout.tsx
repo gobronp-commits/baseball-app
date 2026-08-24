@@ -46,6 +46,9 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
               <a href="/games" className="hover:text-white transition-colors">
                 All Games
               </a>
+              <a href="/notable-sightings" className="hover:text-white transition-colors">
+                Notable Sightings
+              </a>
             </nav>
           </div>
         </header>

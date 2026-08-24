@@ -216,5 +216,60 @@
     "abbr": "WOR",
     "venue": null,
     "logoExt": "png"
+  },
+  {
+    "id": 900003,
+    "name": "Lynchburg Hillcats",
+    "abbr": "LYN",
+    "venue": null,
+    "logoExt": "png"
+  },
+  {
+    "id": 900004,
+    "name": "Wilmington Blue Rocks",
+    "abbr": "WIL",
+    "venue": null,
+    "logoExt": "png"
+  },
+  {
+    "id": 900005,
+    "name": "Wareham Gatemen",
+    "abbr": "WAR",
+    "venue": null,
+    "logoExt": "png"
+  },
+  {
+    "id": 900006,
+    "name": "Chatham Athletics",
+    "abbr": "CHA",
+    "venue": null,
+    "logoExt": "png"
+  },
+  {
+    "id": 900007,
+    "name": "Brewster Whitecaps",
+    "abbr": "BRE",
+    "venue": null
+  },
+  {
+    "id": 900008,
+    "name": "Lowell Spinners",
+    "abbr": "LOW",
+    "venue": null,
+    "logoExt": "png"
+  },
+  {
+    "id": 900009,
+    "name": "Vermont Expos",
+    "abbr": "VT",
+    "venue": null,
+    "logoExt": "png"
+  },
+  {
+    "id": 900010,
+    "name": "Hyannis Mets",
+    "abbr": "HYA",
+    "venue": null,
+    "logoExt": "png"
   }
 ]
