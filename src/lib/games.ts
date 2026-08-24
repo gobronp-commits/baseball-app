@@ -31,6 +31,7 @@ export type NotableProspect = {
   name: string;
   team: string;
   note: string;
+  seenInGame: boolean;
   gameId: string;
   gameDate: string;
   gameLabel: string;
@@ -39,12 +40,14 @@ export type NotableProspect = {
 // Cape Cod League / minor-league games have no MLB box score, so there's no
 // player data to derive this from - it's hand-curated from web research into
 // data/notable-prospects.json and joined here with each game's date/matchup
-// for display and linking.
+// for display and linking. seenInGame defaults to true - it's only set to
+// false for players verified to be on that season's roster but not actually
+// in this specific game's lineup.
 export function getNotableProspects(): NotableProspect[] {
   const raw = fs.readFileSync(path.join(dataDir, "notable-prospects.json"), "utf8");
   const entries = JSON.parse(raw) as {
     gameId: string;
-    players: { name: string; team: string; note: string }[];
+    players: { name: string; team: string; note: string; seenInGame?: boolean }[];
   }[];
   const games = getAllGames();
 
@@ -55,6 +58,7 @@ export function getNotableProspects(): NotableProspect[] {
     for (const p of entry.players) {
       prospects.push({
         ...p,
+        seenInGame: p.seenInGame ?? true,
         gameId: game.id,
         gameDate: game.date,
         gameLabel: `${game.awayTeam} @ ${game.homeTeam}`,

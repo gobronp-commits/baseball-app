@@ -20,22 +20,26 @@
       {
         "name": "D.J. Carrasco",
         "team": "Lynchburg Hillcats",
-        "note": "Was on the 1999 Lynchburg roster and went on to a 9-year MLB career (2003-2012) as a reliever for the Royals, White Sox, Pirates, Diamondbacks, and Mets - but he doesn't appear in this specific game's lineup."
+        "note": "Went on to a 9-year MLB career (2003-2012) as a reliever for the Royals, White Sox, Pirates, Diamondbacks, and Mets.",
+        "seenInGame": false
       },
       {
         "name": "Rob Mackowiak",
         "team": "Lynchburg Hillcats",
-        "note": "Was on the 1999 Lynchburg roster and played 8 MLB seasons (2001-2008) for the Pirates, White Sox, Padres, and Nationals - but he doesn't appear in this specific game's lineup."
+        "note": "Played 8 MLB seasons (2001-2008) for the Pirates, White Sox, Padres, and Nationals.",
+        "seenInGame": false
       },
       {
         "name": "Dee Brown",
         "team": "Wilmington Blue Rocks",
-        "note": "Was on the 1999 Wilmington roster (Royals' 1996 first-round pick) and played parts of seven MLB seasons for Kansas City - but he doesn't appear in this specific game's lineup."
+        "note": "Royals' 1996 first-round pick; played parts of seven MLB seasons for Kansas City.",
+        "seenInGame": false
       },
       {
         "name": "Chris George",
         "team": "Wilmington Blue Rocks",
-        "note": "Was on the 1999 Wilmington roster (Royals first-round pick) and pitched in MLB for Kansas City, 2001-2004 - but he doesn't appear in this specific game's lineup."
+        "note": "Royals first-round pick; pitched in MLB for Kansas City, 2001-2004.",
+        "seenInGame": false
       }
     ]
   },
@@ -80,12 +84,14 @@
       {
         "name": "Rich Hill",
         "team": "Chatham Athletics",
-        "note": "Was on the 2001 Chatham roster and pitched a long MLB career into his 40s across multiple teams - but he doesn't appear in this specific game's lineup."
+        "note": "Pitched a long MLB career into his 40s across multiple teams.",
+        "seenInGame": false
       },
       {
         "name": "Brad Ziegler",
         "team": "Chatham Athletics",
-        "note": "Was on the 2001 Chatham roster and became a submarine-style MLB reliever for the Athletics and others - but he doesn't appear in this specific game's lineup."
+        "note": "Became a submarine-style MLB reliever for the Athletics and others.",
+        "seenInGame": false
       }
     ]
   },
@@ -135,12 +141,14 @@
       {
         "name": "Aníbal Sánchez",
         "team": "Lowell Spinners",
-        "note": "Led the 2004 Spinners' staff (1.77 ERA, league-leading 101 strikeouts) and went on to a long MLB career, including a 2013 no-hitter - but he doesn't appear in this specific game's lineup; four other Lowell pitchers worked this one."
+        "note": "Led the 2004 Spinners' staff (1.77 ERA, league-leading 101 strikeouts) and went on to a long MLB career, including a 2013 no-hitter.",
+        "seenInGame": false
       },
       {
         "name": "Jim Henderson",
         "team": "Vermont Expos",
-        "note": "Reached MLB with the Brewers, serving as their closer in 2013, and also pitched for the Mets - but he doesn't appear in this specific game's lineup."
+        "note": "Reached MLB with the Brewers, serving as their closer in 2013, and also pitched for the Mets.",
+        "seenInGame": false
       }
     ]
   },
