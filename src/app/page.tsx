@@ -67,7 +67,7 @@ export default function Home() {
           title="Scorers"
           rows={summary.scorers}
           rowKey={(r) => r.name}
-          rowHeightClass="h-9"
+          rowHeightClass="h-[72px]"
           columns={[
             { header: "Scorer", render: (r) => <ScorerLink name={r.name} /> },
             { header: "Games", align: "right", render: (r) => r.gamesSeen },
