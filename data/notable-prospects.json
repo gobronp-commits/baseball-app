@@ -3,24 +3,39 @@
     "gameId": "1999-08-04-lynchburg-hillcats-at-wilmington-blue-rocks",
     "players": [
       {
+        "name": "Rico Washington",
+        "team": "Lynchburg Hillcats",
+        "note": "Played third base in this exact game - the family highlighted him on the scorecard itself. Reached MLB with the Cardinals in April 2008, a brief callup (.158 in his only stint)."
+      },
+      {
+        "name": "Joe Dillon",
+        "team": "Wilmington Blue Rocks",
+        "note": "Played third base in this exact game - highlighted on the scorecard itself. Reached MLB with the Marlins in 2005, then the Brewers (2007-08) and Rays (2009)."
+      },
+      {
+        "name": "Jeremy Hill",
+        "team": "Wilmington Blue Rocks",
+        "note": "Caught in this exact game - highlighted on the scorecard itself. Converted from catcher to pitcher and reached MLB with the Royals in 2002-2003."
+      },
+      {
         "name": "D.J. Carrasco",
         "team": "Lynchburg Hillcats",
-        "note": "9-year MLB career (2003–2012) as a reliever for the Royals, White Sox, Pirates, Diamondbacks, and Mets."
+        "note": "Was on the 1999 Lynchburg roster and went on to a 9-year MLB career (2003-2012) as a reliever for the Royals, White Sox, Pirates, Diamondbacks, and Mets - but he doesn't appear in this specific game's lineup."
       },
       {
         "name": "Rob Mackowiak",
         "team": "Lynchburg Hillcats",
-        "note": "8 MLB seasons (2001–2008) for the Pirates, White Sox, Padres, and Nationals."
+        "note": "Was on the 1999 Lynchburg roster and played 8 MLB seasons (2001-2008) for the Pirates, White Sox, Padres, and Nationals - but he doesn't appear in this specific game's lineup."
       },
       {
         "name": "Dee Brown",
         "team": "Wilmington Blue Rocks",
-        "note": "Royals' 1996 first-round pick; played parts of seven MLB seasons for Kansas City."
+        "note": "Was on the 1999 Wilmington roster (Royals' 1996 first-round pick) and played parts of seven MLB seasons for Kansas City - but he doesn't appear in this specific game's lineup."
       },
       {
         "name": "Chris George",
         "team": "Wilmington Blue Rocks",
-        "note": "Royals first-round pick; pitched in MLB for Kansas City, 2001–2004."
+        "note": "Was on the 1999 Wilmington roster (Royals first-round pick) and pitched in MLB for Kansas City, 2001-2004 - but he doesn't appear in this specific game's lineup."
       }
     ]
   },
@@ -28,14 +43,49 @@
     "gameId": "2001-07-23-wareham-gatemen-at-chatham-athletics",
     "players": [
       {
+        "name": "Matt Murton",
+        "team": "Wareham Gatemen",
+        "note": "Played right field in this exact game - highlighted on the scorecard itself. Named the Cape Cod League's 2001 MVP as Wareham won the league title. Reached MLB with the Cubs (2005 debut), Rockies, and Athletics, and later set Japan's NPB single-season hits record."
+      },
+      {
+        "name": "Aaron Hill",
+        "team": "Wareham Gatemen",
+        "note": "Played shortstop in this exact game - highlighted on the scorecard itself (LSU). Named the Cape Cod League's 2001 playoff MVP as Wareham won the title. Reached MLB with the Blue Jays, Diamondbacks, Brewers, Red Sox, and Giants."
+      },
+      {
+        "name": "Eric Reed",
+        "team": "Wareham Gatemen",
+        "note": "Played center field in this exact game - highlighted on the scorecard itself. Reached MLB with the Marlins in 2006-2007."
+      },
+      {
+        "name": "Adam Greenberg",
+        "team": "Chatham Athletics",
+        "note": "Played in this exact game - highlighted on the scorecard itself (UNC). Later became a well-known story: hit in the head in his only 2005 Cubs at-bat, then given a ceremonial one-at-bat contract by the Marlins in 2012."
+      },
+      {
+        "name": "David Bush",
+        "team": "Chatham Athletics",
+        "note": "Pitched in this exact game - highlighted on the scorecard itself (Wake Forest). Reached MLB with the Blue Jays (2004-05), Brewers (2006-10), and Rangers (2011), finishing 56-69 with a 4.73 ERA."
+      },
+      {
+        "name": "Drew Meyer",
+        "team": "Chatham Athletics",
+        "note": "Played in this exact game - highlighted on the scorecard itself. A 2002 Rangers first-round pick; reached MLB briefly with Texas in 2006, batting .214."
+      },
+      {
+        "name": "Mike McCoy",
+        "team": "Chatham Athletics",
+        "note": "Caught in this exact game - highlighted on the scorecard itself. Reached MLB with the Rockies (2009) and Blue Jays (2010-2012), batting .190 in his career."
+      },
+      {
         "name": "Rich Hill",
         "team": "Chatham Athletics",
-        "note": "Longtime MLB pitcher, drafted by the Cubs in 2002; pitched into his 40s across multiple teams."
+        "note": "Was on the 2001 Chatham roster and pitched a long MLB career into his 40s across multiple teams - but he doesn't appear in this specific game's lineup."
       },
       {
         "name": "Brad Ziegler",
         "team": "Chatham Athletics",
-        "note": "Submarine-style MLB reliever for the Athletics and others."
+        "note": "Was on the 2001 Chatham roster and became a submarine-style MLB reliever for the Athletics and others - but he doesn't appear in this specific game's lineup."
       }
     ]
   },
@@ -60,7 +110,17 @@
       {
         "name": "Tommy Manzella",
         "team": "Brewster Whitecaps",
-        "note": "MLB shortstop for the Astros, 2009–2010."
+        "note": "MLB shortstop for the Astros, 2009-2010."
+      }
+    ]
+  },
+  {
+    "gameId": "2004-06-03-battle-creek-yankees-at-dayton-dragons",
+    "players": [
+      {
+        "name": "Joey Votto",
+        "team": "Dayton Dragons",
+        "note": "Batted third and played first base in this exact game. Went on to a legendary career with the Cincinnati Reds, including the 2010 NL MVP award."
       }
     ]
   },
@@ -68,14 +128,19 @@
     "gameId": "2004-08-11-lowell-spinners-at-vermont-expos",
     "players": [
       {
+        "name": "Luke Montz",
+        "team": "Vermont Expos",
+        "note": "Caught in this exact game - highlighted on the scorecard itself. Reached MLB with the Washington Nationals in September 2008."
+      },
+      {
         "name": "Aníbal Sánchez",
         "team": "Lowell Spinners",
-        "note": "Led the 2004 Spinners' staff (1.77 ERA, league-leading 101 strikeouts) en route to a long MLB career, including a 2013 no-hitter."
+        "note": "Led the 2004 Spinners' staff (1.77 ERA, league-leading 101 strikeouts) and went on to a long MLB career, including a 2013 no-hitter - but he doesn't appear in this specific game's lineup; four other Lowell pitchers worked this one."
       },
       {
         "name": "Jim Henderson",
         "team": "Vermont Expos",
-        "note": "Reached MLB with the Brewers, serving as their closer in 2013, and also pitched for the Mets."
+        "note": "Reached MLB with the Brewers, serving as their closer in 2013, and also pitched for the Mets - but he doesn't appear in this specific game's lineup."
       }
     ]
   },
@@ -85,17 +150,27 @@
       {
         "name": "Kyle Seager",
         "team": "Chatham Athletics",
-        "note": "Played his entire MLB career (2011–2021) with the Seattle Mariners."
+        "note": "Played his entire MLB career (2011-2021) with the Seattle Mariners, making the All-Star team in 2014."
+      },
+      {
+        "name": "Brad Boxberger",
+        "team": "Chatham Athletics",
+        "note": "Pitched in this exact game - highlighted on the scorecard itself. Became an MLB closer, leading the AL with 41 saves for the Rays in 2015 (All-Star that year); pitched for seven MLB teams through 2023."
+      },
+      {
+        "name": "Adam Warren",
+        "team": "Chatham Athletics",
+        "note": "Pitched in this exact game - highlighted on the scorecard itself (UNC). Reached MLB with the Yankees (2012), Cubs (2016), Mariners, and Padres, finishing 30-24 with a 3.53 ERA."
       },
       {
         "name": "Chris Dominguez",
         "team": "Hyannis Mets",
-        "note": "Tied the CCBL single-game home run record (3 in one game) in 2008; later reached MLB with the Giants and Reds (2014–2015)."
+        "note": "Tied the CCBL single-game home run record (3 in one game) in 2008; later reached MLB with the Giants and Reds (2014-15), going 7-for-40 (.175)."
       },
       {
         "name": "Curt Casali",
         "team": "Hyannis Mets",
-        "note": "Decade-long MLB catching career for the Rays, Reds, Giants, and Mariners."
+        "note": "Decade-long MLB catching career for the Rays, Reds, Giants, and Mariners, debuting with Tampa Bay in 2014."
       }
     ]
   }
