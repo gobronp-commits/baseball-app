@@ -26,10 +26,20 @@ declare global {
   var __appDb: Database.Database | undefined;
 }
 
+function migrate(db: Database.Database) {
+  const columns = db.prepare("PRAGMA table_info(comments)").all() as {
+    name: string;
+  }[];
+  if (!columns.some((c) => c.name === "photo_path")) {
+    db.exec("ALTER TABLE comments ADD COLUMN photo_path TEXT");
+  }
+}
+
 function createDb() {
   const db = new Database(dbPath);
   db.pragma("journal_mode = WAL");
   db.exec(SCHEMA);
+  migrate(db);
   return db;
 }
 

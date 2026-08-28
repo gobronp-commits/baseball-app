@@ -44,5 +44,8 @@ next-env.d.ts
 /data/app.db
 /data/app.db-*
 
+# user-uploaded comment photos
+/data/uploads/
+
 # Claude Code local session state
 /.claude/

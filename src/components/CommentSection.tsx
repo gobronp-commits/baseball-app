@@ -43,15 +43,31 @@ export default function CommentSection({
                   {formatTimestamp(c.createdAt)}
                 </span>
               </div>
-              <p className="text-sm text-black/80 dark:text-white/80 mt-0.5 whitespace-pre-wrap">
-                {c.body}
-              </p>
+              {c.body && (
+                <p className="text-sm text-black/80 dark:text-white/80 mt-0.5 whitespace-pre-wrap">
+                  {c.body}
+                </p>
+              )}
+              {c.photoPath && (
+                <a href={c.photoPath} target="_blank" rel="noopener noreferrer">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img
+                    src={c.photoPath}
+                    alt=""
+                    className="mt-2 max-w-full sm:max-w-xs rounded border border-black/10 dark:border-white/10"
+                  />
+                </a>
+              )}
             </li>
           ))}
         </ul>
       )}
 
-      <form action={action} className="space-y-2 max-w-md">
+      <form
+        action={action}
+        encType="multipart/form-data"
+        className="space-y-2 max-w-md"
+      >
         <input
           type="text"
           name="author"
@@ -63,10 +79,15 @@ export default function CommentSection({
         <textarea
           name="body"
           placeholder="Add a comment..."
-          required
           maxLength={2000}
           rows={3}
           className="w-full rounded border border-black/15 dark:border-white/15 bg-transparent px-3 py-1.5 text-sm focus:outline-none focus:border-[var(--accent)]"
+        />
+        <input
+          type="file"
+          name="photo"
+          accept="image/jpeg,image/png,image/webp,image/gif"
+          className="w-full text-sm text-black/60 dark:text-white/60 file:mr-3 file:rounded file:border-0 file:bg-black/5 dark:file:bg-white/10 file:px-3 file:py-1.5 file:text-sm file:text-black/80 dark:file:text-white/80 hover:file:bg-black/10 dark:hover:file:bg-white/20"
         />
         <button
           type="submit"
