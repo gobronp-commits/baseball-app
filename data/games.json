@@ -28,15 +28,15 @@
     "gamePk": 217713
   },
   {
-    "id": "1999-05-27-boston-red-sox-at-new-york-yankees",
-    "date": "1999-05-27",
+    "id": "1999-05-26-boston-red-sox-at-new-york-yankees",
+    "date": "1999-05-26",
     "awayTeam": "Boston Red Sox",
     "homeTeam": "New York Yankees",
     "location": "Yankee Stadium, New York",
     "scorecardAwayScore": 3,
     "scorecardHomeScore": 8,
-    "officialAwayScore": 1,
-    "officialHomeScore": 4,
+    "officialAwayScore": 3,
+    "officialHomeScore": 8,
     "scorecardImages": [
       {
         "side": "away",
@@ -55,7 +55,7 @@
     "notes": [
       "Scored by D. Gobron. Umpires Reed, Barrett, Miller, Tschida."
     ],
-    "gamePk": 2004
+    "gamePk": 686
   },
   {
     "id": "1999-07-13-national-league-all-stars-at-american-league-all-stars",
