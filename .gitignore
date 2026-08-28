@@ -40,5 +40,9 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# local runtime database (comments, activity log)
+/data/app.db
+/data/app.db-*
+
 # Claude Code local session state
 /.claude/

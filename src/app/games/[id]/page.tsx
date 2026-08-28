@@ -2,8 +2,10 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getAllGames, getGameById, getMlbData } from "@/lib/games";
 import { displayScore, scoreDiffersFromScorecard } from "@/lib/score";
+import { getCommentsForGame } from "@/lib/comments";
 import ScorecardViewer from "@/components/ScorecardViewer";
 import GameTabs from "@/components/GameTabs";
+import CommentSection from "@/components/CommentSection";
 
 export function generateStaticParams() {
   return getAllGames().map((g) => ({ id: g.id }));
@@ -31,6 +33,7 @@ export default async function GamePage({
   const mlbData = getMlbData(game);
   const score = displayScore(game);
   const differs = scoreDiffersFromScorecard(game);
+  const comments = getCommentsForGame(game.id);
 
   return (
     <div>
@@ -90,6 +93,8 @@ export default async function GamePage({
           </div>
         )}
       </section>
+
+      <CommentSection gameId={game.id} comments={comments} />
     </div>
   );
 }

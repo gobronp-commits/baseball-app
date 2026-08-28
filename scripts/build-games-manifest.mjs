@@ -4,8 +4,13 @@
 import { readFileSync, writeFileSync, existsSync } from "fs";
 import { fileURLToPath } from "url";
 import path from "path";
+import { openActivityDb, logActivity } from "./activity-db.mjs";
 
 const root = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
+const gamesPath = path.join(root, "data", "games.json");
+const previousGames = existsSync(gamesPath)
+  ? JSON.parse(readFileSync(gamesPath, "utf8"))
+  : [];
 const years = [
   "1998",
   "1999",
@@ -35,6 +40,104 @@ function slug(s) {
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/(^-|-$)/g, "");
+}
+
+function fieldChanges(oldG, newG) {
+  const parts = [];
+  if (oldG.location !== newG.location) {
+    parts.push(`location changed to ${newG.location}`);
+  }
+  if (
+    oldG.scorecardAwayScore !== newG.scorecardAwayScore ||
+    oldG.scorecardHomeScore !== newG.scorecardHomeScore
+  ) {
+    parts.push(
+      `scorecard tally changed to ${newG.scorecardAwayScore}-${newG.scorecardHomeScore}`
+    );
+  }
+  if (oldG.scorecardImages.length !== newG.scorecardImages.length) {
+    parts.push(
+      `scorecard images ${oldG.scorecardImages.length} -> ${newG.scorecardImages.length}`
+    );
+  }
+  if (JSON.stringify(oldG.notes) !== JSON.stringify(newG.notes)) {
+    parts.push("notes updated");
+  }
+  if (JSON.stringify(oldG.scorers) !== JSON.stringify(newG.scorers)) {
+    parts.push("scorers updated");
+  }
+  return parts;
+}
+
+// Diffs the manifest against its previous state and records what changed
+// to the activity log. A date correction (this scorecard's id encodes its
+// date) looks like a removed id + an added id, so we first try to match
+// added/removed pairs by team + scorecard tally and log those as a single
+// "corrected" update rather than a spurious add/remove.
+function logGameChanges(previous, current) {
+  const oldById = new Map(previous.map((g) => [g.id, g]));
+  const newById = new Map(current.map((g) => [g.id, g]));
+  const addedIds = [...newById.keys()].filter((id) => !oldById.has(id));
+  const removedIds = new Set(
+    [...oldById.keys()].filter((id) => !newById.has(id))
+  );
+
+  const db = openActivityDb(root);
+
+  for (const id of addedIds) {
+    const g = newById.get(id);
+    const renamedFrom = [...removedIds]
+      .map((rid) => oldById.get(rid))
+      .find(
+        (og) =>
+          og.awayTeam === g.awayTeam &&
+          og.homeTeam === g.homeTeam &&
+          og.scorecardAwayScore === g.scorecardAwayScore &&
+          og.scorecardHomeScore === g.scorecardHomeScore
+      );
+
+    if (renamedFrom) {
+      removedIds.delete(renamedFrom.id);
+      logActivity(
+        db,
+        "game_updated",
+        `Corrected date for ${g.awayTeam} @ ${g.homeTeam} from ${renamedFrom.date} to ${g.date}`,
+        g.id
+      );
+    } else {
+      logActivity(
+        db,
+        "game_added",
+        `Added scorecard: ${g.awayTeam} @ ${g.homeTeam} on ${g.date}`,
+        g.id
+      );
+    }
+  }
+
+  for (const id of removedIds) {
+    const og = oldById.get(id);
+    logActivity(
+      db,
+      "game_removed",
+      `Removed scorecard: ${og.awayTeam} @ ${og.homeTeam} on ${og.date}`
+    );
+  }
+
+  for (const [id, g] of newById) {
+    const og = oldById.get(id);
+    if (!og) continue;
+    const changes = fieldChanges(og, g);
+    if (changes.length > 0) {
+      logActivity(
+        db,
+        "game_updated",
+        `${g.awayTeam} @ ${g.homeTeam} (${g.date}): ${changes.join(", ")}`,
+        g.id
+      );
+    }
+  }
+
+  db.close();
 }
 
 const games = new Map(); // key: date|away|home -> game
@@ -116,10 +219,9 @@ const list = [...games.values()]
   }))
   .sort((a, b) => a.date.localeCompare(b.date));
 
-writeFileSync(
-  path.join(root, "data", "games.json"),
-  JSON.stringify(list, null, 2)
-);
+logGameChanges(previousGames, list);
+
+writeFileSync(gamesPath, JSON.stringify(list, null, 2));
 
 console.log(`wrote ${list.length} games to data/games.json`);
 for (const g of list) {
