@@ -1,3 +1,7 @@
 [
-  { "date": "2016-08-12", "awayTeam": "Arizona Diamondbacks", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave" }
+  { "date": "2016-08-12", "awayTeam": "Arizona Diamondbacks", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave" },
+  { "date": "2016-04-13", "awayTeam": "Baltimore Orioles", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave" },
+  { "date": "2016-05-11", "awayTeam": "Oakland Athletics", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Charles" },
+  { "date": "2016-05-26", "awayTeam": "Colorado Rockies", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Paul, Charles" },
+  { "date": "2016-06-20", "awayTeam": "Chicago White Sox", "homeTeam": "Boston Red Sox", "scorerRaw": "Dave, Charles" }
 ]

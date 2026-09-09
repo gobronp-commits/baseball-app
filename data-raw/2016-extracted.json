@@ -1,4 +1,16 @@
 [
   {"file":"scan-1.jpg","date":"2016-08-12","location":"Fenway Park, Boston","lineupTeam":"Arizona Diamondbacks","opponent":"Boston Red Sox","awayTeam":"Arizona Diamondbacks","homeTeam":"Boston Red Sox","awayScore":4,"homeScore":9,"notes":""},
-  {"file":"scan-2.jpg","date":"2016-08-12","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Arizona Diamondbacks","awayTeam":"Arizona Diamondbacks","homeTeam":"Boston Red Sox","awayScore":4,"homeScore":9,"notes":""}
+  {"file":"scan-2.jpg","date":"2016-08-12","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Arizona Diamondbacks","awayTeam":"Arizona Diamondbacks","homeTeam":"Boston Red Sox","awayScore":4,"homeScore":9,"notes":""},
+
+  {"file":"scan-3.jpg","date":"2016-04-13","location":"Fenway Park, Boston","lineupTeam":"Baltimore Orioles","opponent":"Boston Red Sox","awayTeam":"Baltimore Orioles","homeTeam":"Boston Red Sox","awayScore":2,"homeScore":4,"notes":"Cold weather game."},
+  {"file":"scan-4.jpg","date":"2016-04-13","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Baltimore Orioles","awayTeam":"Baltimore Orioles","homeTeam":"Boston Red Sox","awayScore":2,"homeScore":4,"notes":""},
+
+  {"file":"scan-5.jpg","date":"2016-05-11","location":"Fenway Park, Boston","lineupTeam":"Oakland Athletics","opponent":"Boston Red Sox","awayTeam":"Oakland Athletics","homeTeam":"Boston Red Sox","awayScore":3,"homeScore":12,"notes":""},
+  {"file":"scan-6.jpg","date":"2016-05-11","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Oakland Athletics","awayTeam":"Oakland Athletics","homeTeam":"Boston Red Sox","awayScore":3,"homeScore":12,"notes":""},
+
+  {"file":"scan-7.jpg","date":"2016-05-26","location":"Fenway Park, Boston","lineupTeam":"Colorado Rockies","opponent":"Boston Red Sox","awayTeam":"Colorado Rockies","homeTeam":"Boston Red Sox","awayScore":8,"homeScore":2,"notes":""},
+  {"file":"scan-8.jpg","date":"2016-05-26","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Colorado Rockies","awayTeam":"Colorado Rockies","homeTeam":"Boston Red Sox","awayScore":8,"homeScore":2,"notes":"Wade Boggs Night."},
+
+  {"file":"scan-9.jpg","date":"2016-06-20","location":"Fenway Park, Boston","lineupTeam":"Chicago White Sox","opponent":"Boston Red Sox","awayTeam":"Chicago White Sox","homeTeam":"Boston Red Sox","awayScore":3,"homeScore":1,"notes":"Went to extra innings (10th)."},
+  {"file":"scan-10.jpg","date":"2016-06-20","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Chicago White Sox","awayTeam":"Chicago White Sox","homeTeam":"Boston Red Sox","awayScore":3,"homeScore":1,"notes":""}
 ]

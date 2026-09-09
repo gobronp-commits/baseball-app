@@ -12,5 +12,11 @@
   {"file":"scan-8.jpg","date":"2017-07-30","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Kansas City Royals","awayTeam":"Kansas City Royals","homeTeam":"Boston Red Sox","awayScore":5,"homeScore":3,"notes":""},
 
   {"file":"scan-9.jpg","date":"2017-09-25","location":"Fenway Park, Boston","lineupTeam":"Toronto Blue Jays","opponent":"Boston Red Sox","awayTeam":"Toronto Blue Jays","homeTeam":"Boston Red Sox","awayScore":6,"homeScore":4,"notes":""},
-  {"file":"scan-10.jpg","date":"2017-09-25","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Toronto Blue Jays","awayTeam":"Toronto Blue Jays","homeTeam":"Boston Red Sox","awayScore":6,"homeScore":4,"notes":""}
+  {"file":"scan-10.jpg","date":"2017-09-25","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Toronto Blue Jays","awayTeam":"Toronto Blue Jays","homeTeam":"Boston Red Sox","awayScore":6,"homeScore":4,"notes":""},
+
+  {"file":"scan-11.jpg","date":"2017-04-27","location":"Fenway Park, Boston","lineupTeam":"New York Yankees","opponent":"Boston Red Sox","awayTeam":"New York Yankees","homeTeam":"Boston Red Sox","awayScore":3,"homeScore":0,"notes":""},
+  {"file":"scan-12.jpg","date":"2017-04-27","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"New York Yankees","awayTeam":"New York Yankees","homeTeam":"Boston Red Sox","awayScore":3,"homeScore":0,"notes":"Chris Sale took the loss despite 10 strikeouts over 8+ innings; the Red Sox were shut out."},
+
+  {"file":"scan-13.jpg","date":"2017-06-22","location":"Stony Brook Field, Brewster, MA","lineupTeam":"Wareham Gatemen","opponent":"Brewster Whitecaps","awayTeam":"Wareham Gatemen","homeTeam":"Brewster Whitecaps","awayScore":2,"homeScore":9,"notes":"Cape Cod Baseball League game. No official MLB record exists for this game."},
+  {"file":"scan-14.jpg","date":"2017-06-22","location":"Stony Brook Field, Brewster, MA","lineupTeam":"Brewster Whitecaps","opponent":"Wareham Gatemen","awayTeam":"Wareham Gatemen","homeTeam":"Brewster Whitecaps","awayScore":2,"homeScore":9,"notes":"Cape Cod Baseball League game."}
 ]

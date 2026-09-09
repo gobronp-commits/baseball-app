@@ -191,5 +191,65 @@
         "note": "Decade-long MLB catching career for the Rays, Reds, Giants, and Mariners, debuting with Tampa Bay in 2014."
       }
     ]
+  },
+  {
+    "gameId": "2013-08-04-falmouth-commodores-at-cotuit-kettleers",
+    "players": [
+      {
+        "name": "Kevin Cron",
+        "team": "Falmouth Commodores",
+        "note": "Reached MLB with the Diamondbacks (2019-2020) - .170 career average, 6 home runs, 16 RBI in 39 games; his first career homer was a three-run shot off Marcus Stroman. Named West Division MVP of the 2013 CCBL All-Star Game and hit .350 that summer for Falmouth, both after a rough sophomore year at TCU. Younger brother of MLB first baseman C.J. Cron."
+      }
+    ]
+  },
+  {
+    "gameId": "2017-06-22-wareham-gatemen-at-brewster-whitecaps",
+    "players": [
+      {
+        "name": "Jarren Duran",
+        "team": "Wareham Gatemen",
+        "note": "Boston Red Sox center fielder - .254 career average, 70 home runs, 621 hits through 2026. Named MVP of the 2024 All-Star Game after hitting the go-ahead home run, and became the first player in MLB history to record 20+ home runs, 30+ stolen bases, 10+ triples, and 40+ doubles in a single season (2024, also leading the AL in hits and triples that year)."
+      },
+      {
+        "name": "Blake Sabol",
+        "team": "Wareham Gatemen",
+        "note": "Catcher/outfielder who reached MLB with the Giants (2023-24, via the Rule 5 draft from the Reds) and the Red Sox (2025) - .237 career average, 13 home runs, 46 RBI."
+      }
+    ]
+  },
+  {
+    "gameId": "2018-06-22-harwich-mariners-at-yarmouth-dennis-red-sox",
+    "players": [
+      {
+        "name": "Jonny DeLuca",
+        "team": "Yarmouth-Dennis Red Sox",
+        "note": "Fast, switch-hitting outfielder out of Oregon who reached MLB with the Dodgers (2023 debut) and the Rays, the latter via the Tyler Glasnow trade."
+      },
+      {
+        "name": "Christian Koss",
+        "team": "Yarmouth-Dennis Red Sox",
+        "note": "Infielder drafted by the Rockies (2019), traded to the Red Sox (2020) and then the Giants (2024); made his MLB debut with San Francisco on April 1, 2025. Named a CCBL All-Star with Y-D in 2018."
+      },
+      {
+        "name": "Andre Lipcius",
+        "team": "Harwich Mariners",
+        "note": "Tennessee third baseman who reached MLB with the Tigers, debuting in 2023, after Detroit took him in the 3rd round of the 2019 draft. Was a CCBL All-Star with Harwich in 2018."
+      }
+    ]
+  },
+  {
+    "gameId": "2019-08-05-harwich-mariners-at-yarmouth-dennis-red-sox",
+    "players": [
+      {
+        "name": "Joey Wiemer",
+        "team": "Harwich Mariners",
+        "note": "Cincinnati product who reached MLB with the Brewers (2023 debut), then the Reds, Marlins, and Nationals - a toolsy 6'5\" outfielder with plus raw power, arm strength, and speed."
+      },
+      {
+        "name": "Carson Seymour",
+        "team": "Harwich Mariners",
+        "note": "Dartmouth/Kansas State pitcher who reached MLB with the Giants, debuting in 2025. Earned the win for Harwich in this exact game."
+      }
+    ]
   }
 ]

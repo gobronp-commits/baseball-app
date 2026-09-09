@@ -9,5 +9,8 @@
   {"file":"scan-6.jpg","date":"2019-07-30","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Tampa Bay Rays","awayTeam":"Tampa Bay Rays","homeTeam":"Boston Red Sox","awayScore":6,"homeScore":5,"notes":""},
 
   {"file":"scan-7.jpg","date":"2019-09-18","location":"Fenway Park, Boston, MA","lineupTeam":"Boston Red Sox","opponent":"San Francisco Giants","awayTeam":"San Francisco Giants","homeTeam":"Boston Red Sox","awayScore":11,"homeScore":3,"notes":""},
-  {"file":"scan-8.jpg","date":"2019-09-18","location":"Fenway Park, Boston, MA","lineupTeam":"San Francisco Giants","opponent":"Boston Red Sox","awayTeam":"San Francisco Giants","homeTeam":"Boston Red Sox","awayScore":11,"homeScore":3,"notes":""}
+  {"file":"scan-8.jpg","date":"2019-09-18","location":"Fenway Park, Boston, MA","lineupTeam":"San Francisco Giants","opponent":"Boston Red Sox","awayTeam":"San Francisco Giants","homeTeam":"Boston Red Sox","awayScore":11,"homeScore":3,"notes":""},
+
+  {"file":"scan-9.jpg","date":"2019-08-05","location":"Red Wilson Field, South Yarmouth, MA","lineupTeam":"Harwich Mariners","opponent":"Yarmouth-Dennis Red Sox","awayTeam":"Harwich Mariners","homeTeam":"Yarmouth-Dennis Red Sox","awayScore":5,"homeScore":1,"notes":"Cape Cod Baseball League playoff game. Neither card's Team Totals box was filled in by the scorer; final score is from the CCBL's official online box score rather than a hand tally. No MLB Stats API record exists for this game."},
+  {"file":"scan-10.jpg","date":"2019-08-05","location":"Red Wilson Field, South Yarmouth, MA","lineupTeam":"Yarmouth-Dennis Red Sox","opponent":"Harwich Mariners","awayTeam":"Harwich Mariners","homeTeam":"Yarmouth-Dennis Red Sox","awayScore":5,"homeScore":1,"notes":"Cape Cod Baseball League playoff game. Will Heflin earned the save for Harwich."}
 ]

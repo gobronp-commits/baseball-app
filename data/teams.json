@@ -277,5 +277,29 @@
     "abbr": "HYA",
     "venue": null,
     "logoExt": "png"
+  },
+  {
+    "id": 6098,
+    "name": "Cotuit Kettleers",
+    "abbr": "COT",
+    "venue": null
+  },
+  {
+    "id": 6099,
+    "name": "Falmouth Commodores",
+    "abbr": "FAL",
+    "venue": null
+  },
+  {
+    "id": 6100,
+    "name": "Harwich Mariners",
+    "abbr": "HAR",
+    "venue": null
+  },
+  {
+    "id": 6104,
+    "name": "Yarmouth-Dennis Red Sox",
+    "abbr": "YD",
+    "venue": null
   }
 ]

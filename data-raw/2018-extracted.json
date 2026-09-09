@@ -3,5 +3,14 @@
   {"file":"scan-2.jpg","date":"2018-05-01","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Kansas City Royals","awayTeam":"Kansas City Royals","homeTeam":"Boston Red Sox","awayScore":7,"homeScore":6,"notes":""},
 
   {"file":"scan-3.jpg","date":"2018-08-28","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Miami Marlins","awayTeam":"Miami Marlins","homeTeam":"Boston Red Sox","awayScore":7,"homeScore":8,"notes":""},
-  {"file":"scan-4.jpg","date":"2018-08-28","location":"Fenway Park, Boston","lineupTeam":"Miami Marlins","opponent":"Boston Red Sox","awayTeam":"Miami Marlins","homeTeam":"Boston Red Sox","awayScore":7,"homeScore":8,"notes":""}
+  {"file":"scan-4.jpg","date":"2018-08-28","location":"Fenway Park, Boston","lineupTeam":"Miami Marlins","opponent":"Boston Red Sox","awayTeam":"Miami Marlins","homeTeam":"Boston Red Sox","awayScore":7,"homeScore":8,"notes":""},
+
+  {"file":"scan-5.jpg","date":"2018-04-13","location":"Fenway Park, Boston","lineupTeam":"Baltimore Orioles","opponent":"Boston Red Sox","awayTeam":"Baltimore Orioles","homeTeam":"Boston Red Sox","awayScore":3,"homeScore":7,"notes":""},
+  {"file":"scan-6.jpg","date":"2018-04-13","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"Baltimore Orioles","awayTeam":"Baltimore Orioles","homeTeam":"Boston Red Sox","awayScore":3,"homeScore":7,"notes":""},
+
+  {"file":"scan-7.jpg","date":"2018-06-22","location":"Red Wilson Field, South Yarmouth, MA","lineupTeam":"Harwich Mariners","opponent":"Yarmouth-Dennis Red Sox","awayTeam":"Harwich Mariners","homeTeam":"Yarmouth-Dennis Red Sox","awayScore":1,"homeScore":12,"notes":"Cape Cod Baseball League game. Neither card's Team Totals box was filled in by the scorer; final score (Y-D 12, Harwich 1, on a 7-run 4th inning) is from the CCBL's official online box score rather than a hand tally. No MLB Stats API record exists for this game."},
+  {"file":"scan-8.jpg","date":"2018-06-22","location":"Red Wilson Field, South Yarmouth, MA","lineupTeam":"Yarmouth-Dennis Red Sox","opponent":"Harwich Mariners","awayTeam":"Harwich Mariners","homeTeam":"Yarmouth-Dennis Red Sox","awayScore":1,"homeScore":12,"notes":"Cape Cod Baseball League game."},
+
+  {"file":"scan-9.jpg","date":"2018-10-06","location":"Fenway Park, Boston","lineupTeam":"New York Yankees","opponent":"Boston Red Sox","awayTeam":"New York Yankees","homeTeam":"Boston Red Sox","awayScore":6,"homeScore":2,"notes":"2018 ALDS Division Series, Game 2. David Price started and was charged with the loss."},
+  {"file":"scan-10.jpg","date":"2018-10-06","location":"Fenway Park, Boston","lineupTeam":"Boston Red Sox","opponent":"New York Yankees","awayTeam":"New York Yankees","homeTeam":"Boston Red Sox","awayScore":6,"homeScore":2,"notes":""}
 ]

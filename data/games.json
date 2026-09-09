@@ -795,6 +795,38 @@
     "gamePk": 347585
   },
   {
+    "id": "2013-08-04-falmouth-commodores-at-cotuit-kettleers",
+    "date": "2013-08-04",
+    "awayTeam": "Falmouth Commodores",
+    "homeTeam": "Cotuit Kettleers",
+    "location": "Lowell Park, Cotuit, MA",
+    "scorecardAwayScore": 3,
+    "scorecardHomeScore": 9,
+    "officialAwayScore": null,
+    "officialHomeScore": null,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Falmouth Commodores",
+        "src": "/scorecards/2013/falmouth-1.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Cotuit Kettleers",
+        "src": "/scorecards/2013/cotuit-1.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave",
+      "Jim"
+    ],
+    "notes": [
+      "Cape Cod Baseball League game, called due to rain during the bottom of the 7th. No official MLB record exists for this game.",
+      "Cape Cod Baseball League game, called due to rain during the bottom of the 7th."
+    ],
+    "gamePk": null
+  },
+  {
     "id": "2014-04-07-texas-rangers-at-boston-red-sox",
     "date": "2014-04-07",
     "awayTeam": "Texas Rangers",
@@ -1002,6 +1034,128 @@
     "gamePk": 415740
   },
   {
+    "id": "2016-04-13-baltimore-orioles-at-boston-red-sox",
+    "date": "2016-04-13",
+    "awayTeam": "Baltimore Orioles",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 2,
+    "scorecardHomeScore": 4,
+    "officialAwayScore": 2,
+    "officialHomeScore": 4,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Baltimore Orioles",
+        "src": "/scorecards/2016/scan-3.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2016/scan-4.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [
+      "Cold weather game."
+    ],
+    "gamePk": 446983
+  },
+  {
+    "id": "2016-05-11-oakland-athletics-at-boston-red-sox",
+    "date": "2016-05-11",
+    "awayTeam": "Oakland Athletics",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 3,
+    "scorecardHomeScore": 12,
+    "officialAwayScore": 3,
+    "officialHomeScore": 13,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Oakland Athletics",
+        "src": "/scorecards/2016/scan-5.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2016/scan-6.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave",
+      "Charles"
+    ],
+    "notes": [],
+    "gamePk": 447376
+  },
+  {
+    "id": "2016-05-26-colorado-rockies-at-boston-red-sox",
+    "date": "2016-05-26",
+    "awayTeam": "Colorado Rockies",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 8,
+    "scorecardHomeScore": 2,
+    "officialAwayScore": 8,
+    "officialHomeScore": 2,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Colorado Rockies",
+        "src": "/scorecards/2016/scan-7.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2016/scan-8.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave",
+      "Paul",
+      "Charles"
+    ],
+    "notes": [
+      "Wade Boggs Night."
+    ],
+    "gamePk": 447573
+  },
+  {
+    "id": "2016-06-20-chicago-white-sox-at-boston-red-sox",
+    "date": "2016-06-20",
+    "awayTeam": "Chicago White Sox",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 3,
+    "scorecardHomeScore": 1,
+    "officialAwayScore": 3,
+    "officialHomeScore": 1,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Chicago White Sox",
+        "src": "/scorecards/2016/scan-9.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2016/scan-10.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave",
+      "Charles"
+    ],
+    "notes": [
+      "Went to extra innings (10th)."
+    ],
+    "gamePk": 447913
+  },
+  {
     "id": "2016-08-12-arizona-diamondbacks-at-boston-red-sox",
     "date": "2016-08-12",
     "awayTeam": "Arizona Diamondbacks",
@@ -1056,6 +1210,37 @@
     ],
     "notes": [],
     "gamePk": 490253
+  },
+  {
+    "id": "2017-04-27-new-york-yankees-at-boston-red-sox",
+    "date": "2017-04-27",
+    "awayTeam": "New York Yankees",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 3,
+    "scorecardHomeScore": 0,
+    "officialAwayScore": 3,
+    "officialHomeScore": 0,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "New York Yankees",
+        "src": "/scorecards/2017/scan-11.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2017/scan-12.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave",
+      "Charles"
+    ],
+    "notes": [
+      "Chris Sale took the loss despite 10 strikeouts over 8+ innings; the Red Sox were shut out."
+    ],
+    "gamePk": 490424
   },
   {
     "id": "2017-05-03-baltimore-orioles-at-boston-red-sox",
@@ -1116,6 +1301,37 @@
     "gamePk": 490825
   },
   {
+    "id": "2017-06-22-wareham-gatemen-at-brewster-whitecaps",
+    "date": "2017-06-22",
+    "awayTeam": "Wareham Gatemen",
+    "homeTeam": "Brewster Whitecaps",
+    "location": "Stony Brook Field, Brewster, MA",
+    "scorecardAwayScore": 2,
+    "scorecardHomeScore": 9,
+    "officialAwayScore": null,
+    "officialHomeScore": null,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Wareham Gatemen",
+        "src": "/scorecards/2017/scan-13.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Brewster Whitecaps",
+        "src": "/scorecards/2017/scan-14.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [
+      "Cape Cod Baseball League game. No official MLB record exists for this game.",
+      "Cape Cod Baseball League game."
+    ],
+    "gamePk": null
+  },
+  {
     "id": "2017-07-30-kansas-city-royals-at-boston-red-sox",
     "date": "2017-07-30",
     "awayTeam": "Kansas City Royals",
@@ -1172,6 +1388,35 @@
     "gamePk": 492442
   },
   {
+    "id": "2018-04-13-baltimore-orioles-at-boston-red-sox",
+    "date": "2018-04-13",
+    "awayTeam": "Baltimore Orioles",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 3,
+    "scorecardHomeScore": 7,
+    "officialAwayScore": 3,
+    "officialHomeScore": 7,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Baltimore Orioles",
+        "src": "/scorecards/2018/scan-5.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2018/scan-6.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave",
+      "Paul"
+    ],
+    "notes": [],
+    "gamePk": 529599
+  },
+  {
     "id": "2018-05-01-kansas-city-royals-at-boston-red-sox",
     "date": "2018-05-01",
     "awayTeam": "Kansas City Royals",
@@ -1201,6 +1446,37 @@
     "gamePk": 529845
   },
   {
+    "id": "2018-06-22-harwich-mariners-at-yarmouth-dennis-red-sox",
+    "date": "2018-06-22",
+    "awayTeam": "Harwich Mariners",
+    "homeTeam": "Yarmouth-Dennis Red Sox",
+    "location": "Red Wilson Field, South Yarmouth, MA",
+    "scorecardAwayScore": 1,
+    "scorecardHomeScore": 12,
+    "officialAwayScore": null,
+    "officialHomeScore": null,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Harwich Mariners",
+        "src": "/scorecards/2018/scan-7.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Yarmouth-Dennis Red Sox",
+        "src": "/scorecards/2018/scan-8.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [
+      "Cape Cod Baseball League game. Neither card's Team Totals box was filled in by the scorer; final score (Y-D 12, Harwich 1, on a 7-run 4th inning) is from the CCBL's official online box score rather than a hand tally. No MLB Stats API record exists for this game.",
+      "Cape Cod Baseball League game."
+    ],
+    "gamePk": null
+  },
+  {
     "id": "2018-08-28-miami-marlins-at-boston-red-sox",
     "date": "2018-08-28",
     "awayTeam": "Miami Marlins",
@@ -1227,6 +1503,37 @@
     ],
     "notes": [],
     "gamePk": 531384
+  },
+  {
+    "id": "2018-10-06-new-york-yankees-at-boston-red-sox",
+    "date": "2018-10-06",
+    "awayTeam": "New York Yankees",
+    "homeTeam": "Boston Red Sox",
+    "location": "Fenway Park, Boston",
+    "scorecardAwayScore": 6,
+    "scorecardHomeScore": 2,
+    "officialAwayScore": 6,
+    "officialHomeScore": 2,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "New York Yankees",
+        "src": "/scorecards/2018/scan-9.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Boston Red Sox",
+        "src": "/scorecards/2018/scan-10.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave",
+      "Charles"
+    ],
+    "notes": [
+      "2018 ALDS Division Series, Game 2. David Price started and was charged with the loss."
+    ],
+    "gamePk": 563374
   },
   {
     "id": "2019-05-15-colorado-rockies-at-boston-red-sox",
@@ -1318,6 +1625,37 @@
     ],
     "notes": [],
     "gamePk": 565080
+  },
+  {
+    "id": "2019-08-05-harwich-mariners-at-yarmouth-dennis-red-sox",
+    "date": "2019-08-05",
+    "awayTeam": "Harwich Mariners",
+    "homeTeam": "Yarmouth-Dennis Red Sox",
+    "location": "Red Wilson Field, South Yarmouth, MA",
+    "scorecardAwayScore": 5,
+    "scorecardHomeScore": 1,
+    "officialAwayScore": null,
+    "officialHomeScore": null,
+    "scorecardImages": [
+      {
+        "side": "away",
+        "team": "Harwich Mariners",
+        "src": "/scorecards/2019/scan-9.jpg"
+      },
+      {
+        "side": "home",
+        "team": "Yarmouth-Dennis Red Sox",
+        "src": "/scorecards/2019/scan-10.jpg"
+      }
+    ],
+    "scorers": [
+      "Dave"
+    ],
+    "notes": [
+      "Cape Cod Baseball League playoff game. Neither card's Team Totals box was filled in by the scorer; final score is from the CCBL's official online box score rather than a hand tally. No MLB Stats API record exists for this game.",
+      "Cape Cod Baseball League playoff game. Will Heflin earned the save for Harwich."
+    ],
+    "gamePk": null
   },
   {
     "id": "2019-09-18-san-francisco-giants-at-boston-red-sox",
