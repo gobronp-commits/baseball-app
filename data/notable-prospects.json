@@ -199,6 +199,21 @@
         "name": "Kevin Cron",
         "team": "Falmouth Commodores",
         "note": "Reached MLB with the Diamondbacks (2019-2020) - .170 career average, 6 home runs, 16 RBI in 39 games; his first career homer was a three-run shot off Marcus Stroman. Named West Division MVP of the 2013 CCBL All-Star Game and hit .350 that summer for Falmouth, both after a rough sophomore year at TCU. Younger brother of MLB first baseman C.J. Cron."
+      },
+      {
+        "name": "Rhys Hoskins",
+        "team": "Falmouth Commodores",
+        "note": "Sacramento State product who hit .326 for Falmouth in 2013 and was named a CCBL All-Star. Reached MLB with the Phillies (2017 debut) and later the Brewers and Guardians - .236 career average, 190 home runs, 546 RBI through 2026; helped lead the Phillies to the 2022 World Series."
+      },
+      {
+        "name": "Bradley Zimmer",
+        "team": "Cotuit Kettleers",
+        "note": "University of San Francisco outfielder, first-round pick (21st overall, 2014) of the Cleveland Indians. Was playoff MVP of Cotuit's 2013 CCBL championship run. Reached MLB with Cleveland (2017 debut), the Blue Jays, and the Phillies - .213 career average, 21 home runs, 42 stolen bases in 372 games."
+      },
+      {
+        "name": "Garrett Stubbs",
+        "team": "Cotuit Kettleers",
+        "note": "USC catcher who joined Cotuit for its 2013 championship playoff run, hitting .455 over six postseason games. Reached MLB with the Astros (2019 debut) and the Phillies - .210 career average, 7 home runs, 48 RBI through 2026. Won the 2015 Johnny Bench Award as college baseball's top catcher."
       }
     ]
   },
@@ -214,6 +229,11 @@
         "name": "Blake Sabol",
         "team": "Wareham Gatemen",
         "note": "Catcher/outfielder who reached MLB with the Giants (2023-24, via the Rule 5 draft from the Reds) and the Red Sox (2025) - .237 career average, 13 home runs, 46 RBI."
+      },
+      {
+        "name": "Mickey Gasper",
+        "team": "Brewster Whitecaps",
+        "note": "Bryant University product (2017 Northeast Conference Player of the Year, CCBL All-Star with Brewster that summer) who reached MLB with the Twins and then his hometown Red Sox, debuting August 12, 2024 after a long minor-league grind following a 27th-round pick by the Yankees in 2018 - .219 career average, 10 home runs through 2026."
       }
     ]
   },
@@ -234,6 +254,11 @@
         "name": "Andre Lipcius",
         "team": "Harwich Mariners",
         "note": "Tennessee third baseman who reached MLB with the Tigers, debuting in 2023, after Detroit took him in the 3rd round of the 2019 draft. Was a CCBL All-Star with Harwich in 2018."
+      },
+      {
+        "name": "Xzavion Curry",
+        "team": "Harwich Mariners",
+        "note": "Georgia Tech pitcher who took the loss for Harwich in this exact game (0-1, 10.61 ERA over three Cape Cod starts in 2018). Reached MLB with the Guardians (2022 debut), then the Marlins and Mets - 5-8, 4.28 ERA, 111 strikeouts through 2026."
       }
     ]
   },
@@ -249,6 +274,11 @@
         "name": "Carson Seymour",
         "team": "Harwich Mariners",
         "note": "Dartmouth/Kansas State pitcher who reached MLB with the Giants, debuting in 2025. Earned the win for Harwich in this exact game."
+      },
+      {
+        "name": "Niko Kavadas",
+        "team": "Harwich Mariners",
+        "note": "Notre Dame first baseman (card lists him as \"Kavadas, Rico\" - a misread of Niko) who tied for the CCBL home run lead (9) with Harwich in 2019. Drafted by the Red Sox in 2021, but reached MLB with the Angels, debuting August 16, 2024 - .168 career average, 4 home runs, 8 RBI through 2025."
       }
     ]
   }
